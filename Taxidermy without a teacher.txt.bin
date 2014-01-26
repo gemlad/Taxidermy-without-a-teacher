@@ -411,6 +411,7 @@ $::operationshash{'Found no more /#..#/ blocks'}='2014-01-26 14:22';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\Taxidermy without a teacher.txt'}='2014-01-26 18:12';
 $::operationshash{'Check ALL CAPS'}='2014-01-26 19:25';
 $::operationshash{'Found no more orphaned <>'}='2014-01-26 15:58';
+$::operationshash{'Gutcheck'}='2014-01-26 20:17';
 $::operationshash{'WF Check Ital/Bold/SC'}='2014-01-26 19:32';
 $::operationshash{'Check emdashes'}='2014-01-26 18:25';
 $::operationshash{'Found no more orphaned ()'}='2014-01-26 15:58';
@@ -428,7 +429,7 @@ $::operationshash{'Check . lower'}='2014-01-26 19:31';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-26 15:46';
 
-$::bookmarks[0] = '15.28';
+$::bookmarks[0] = '1716.44';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\pngs\\';
 
