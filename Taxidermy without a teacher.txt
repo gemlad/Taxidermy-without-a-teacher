@@ -11,29 +11,19 @@ PRACTICAL HELPS IN NATURAL HISTORY
 BY THE SAME AUTHOR
 
 
-/*
+/*[8]
 INSECTS
-
 HOW TO CATCH AND HOW TO PREPARE THEM FOR THE CABINET
-
 Illustrated      Price 50 Cents
 
-
 FIELD BOTANY
-
 A HANDBOOK FOR THE COLLECTOR
-
 Illustrated      Price 50 Cents[**line appears to be italics, but probably just distortion/F1]
 
-
 <sc>Taxidermy Without a Teacher</sc>
-
 COMPRISING
-
 A complete Manual of Instruction for Preparing and Preserving
-
 BIRDS, ANIMALS AND FISHES
-
 Illustrated      Price 50 Cents
 
 
@@ -44,25 +34,18 @@ Illustrated      Price 50 Cents
 
 
 
-/*
+/*[8]
 TAXIDERMY WITHOUT A TEACHER
-
 COMPRISING
-
 A COMPLETE MANUAL OF INSTRUCTION
-
 FOR PREPARING AND PRESERVING
-
 BIRDS, ANIMALS AND FISHES
-
 WITH
-
 A CHAPTER ON HUNTING AND HYGIENE; INSTRUCTIONS
 FOR PRESERVING EGGS AND MAKING SKELETONS
 AND A NUMBER OF VALUABLE RECEIPTS
 
 BY
-
 WALTER P. MANTON
 
 Illustrated
@@ -78,7 +61,7 @@ NEW YORK CHARLES T. DILLINGHAM
 
 
 
-/*
+/*[8]
 Copyright, 1882,
 <sc>By Lee and Shepard</sc>.
 
@@ -89,7 +72,7 @@ Copyright, 1882,
 
 
 
-/*
+/*[8]
 TO
 
 PROFESSOR J. W. P. JENKS, A.M.,
@@ -112,22 +95,21 @@ CONTENTS.
 
 
 /*
-CHAP.      PAGE
+CHAP.                                             PAGE
 
-I. BIRD SKINNING AND MOUNTING      13
+  I. BIRD SKINNING AND MOUNTING                     13
 
-II. PERCHES      34
+ II. PERCHES                                        34
 
-III. SKINNING AND MOUNTING MAMMALS      37
+III. SKINNING AND MOUNTING MAMMALS                  37
 
-IV. SKINNING AND MOUNTING FISHES AND
-REPTILES      41
+ IV. SKINNING AND MOUNTING FISHES AND REPTILES      41
 
-V. EGGS AND NESTS      46
+  V. EGGS AND NESTS                                 46
 
-VI. SKELETONS      49
+ VI. SKELETONS                                      49
 
-VII. HUNTING AND HYGIENE      51
+VII. HUNTING AND HYGIENE                            51
 */
 -----File: 008.png---\Hatty52\oldguyrice03\honeybun\jpo\cmspence\----------
 
@@ -231,7 +213,7 @@ drawing will also be found of service."
 FROM THE FIRST EDITION.
 
 
-/*
+/*[8]
 <sc>Brown University</sc>, Providence, R. I.
 */
 
@@ -252,10 +234,9 @@ of Him whose devising wisdom and sagacity are
 manifested in all His works. Commending
 highly your effort, I am yours,
 
-/*
+/*[8]
 With great respect,
-
-<sc>J. W. P. Jenks.</sc>
+    <sc>J. W. P. Jenks.</sc>
 */
 -----File: 013.png---\Musu\Hatty52\libraryfan\jpo\Close@Hand\--------------
 
@@ -361,7 +342,7 @@ II.
 /*
 Arsenic.
 Pulverized Alum. Equal parts.
-    Mix.
+       Mix.
 Label: <sc>Poison</sc>!!
 */
 
@@ -1173,15 +1154,12 @@ packed closely, but without pressure.
 
 GUM PASTE.
 
-/#
+/*
 Gum Arabic, 4 ounces.
-
 Corrosive Sublimate, 2 grains.[** mercuric chloride!]
-
 White Sugar Candy, 2 ounces.
-
-<i>Mix.</i>
-#/
+      <i>Mix.</i>
+*/
 
 Melt, and label "Gum Paste, for closing the
 holes drilled in eggs," etc.
@@ -1408,7 +1386,6 @@ AUTHOR OF[**small caps?/F1]
 
 [**each line centered; extra space after first 2 lines probably not needed, since all are one "sentence"/F1]"<sc>Young Folks' History of the United States</sc>," "<sc>Young
 Folks' American Explorers</sc>," "<sc>Malbone</sc>,"
-
 "<sc>Outdoor Papers</sc>," "<sc>Oldport Days</sc>," [**"/F1]<sc>Army Life in
 a Black Regiment</sc>," "<sc>Atlantic Essays</sc>," <sc>ETC.</sc>
 
@@ -1419,7 +1396,6 @@ abundant his illustrations; So fascinating the easy, polished
 leisurely diction, that the literary enjoyment cannot be impaired.
 He has all the charms of Montaigne without his
 egotism."--<i>Minneapolis Press.</i>
-
 
 The following from the author's Preface shows the purpose
 of this volume:--
@@ -1442,11 +1418,9 @@ with the consent of the publishers."
 
 "THE BOOK IS ADMIRABLE."
 
-
+/*[10]
 HANDBOOK
-
-OF
-
+   OF
 LIGHT GYMNASTICS.
 
 By LUCY B. HUNT,
@@ -1454,6 +1428,7 @@ By LUCY B. HUNT,
 Instructor in Gymnastics at Smith (Female) College, Northampton, Mass.
 
 Illustrated. Cloth, 50 cts.
+*/
 
 "This manual is admirably adapted for the use of teachers and
 pupils in public and private schools, and in seminaries and colleges,
@@ -1500,20 +1475,18 @@ June.</i>
 
 <i>THE FIRST TEACHER FOR LITTLE FOLKS.</i>
 
-
+/*[10]
 EXERCISES
-
 FOR THE IMPROVEMENT OF THE SENSES
-
 FOR YOUNG CHILDREN.
 
 By HORACE GRANT,
-
 Author of "Arithmetic for Young Children."
 
 Edited by Willard Small.
 
 Cloth. Price, 50 cents.
+*/
 
 
 For the purpose of producing instruction and amusement
@@ -1540,11 +1513,11 @@ ARITHMETIC FOR YOUNG CHILDREN
 Being a series of Exercises exemplifying the manner in which
 Arithmetic should be taught to young children
 
+/*[10]
 By <sc>Horace Grant</sc>.
-
 American Edition, Edited by <sc>Willard Small</sc>.
-
 Price 50 cents.
+*/
 
 "Consists of a series of exercises illustrative of the manner
 in which the first steps in numbers should be taught to young
@@ -1570,10 +1543,9 @@ practice."--<i>N. E. Journal of Education.</i>
 
 <i>THE CELEBRATED JULIUS CÆSAR DEBATE.</i>
 
-
 THE DEBATER'S HANDBOOK.
 
-/#
+/#[4.2]
 including a Debate on the Character of Julius Cæsar, adapted
 for <sc>J. Sheridan Knowles</sc>, author of "The Hunchback,"
 "William Tell," and other famous plays, designed for practical
@@ -1597,11 +1569,11 @@ adapted to use as a <i>practical exercise</i> in declamation."
 <i>"The author well deserved the statue which stands in front
 of the Massachusetts State House."</i>
 
+/*[10]
 A FEW THOUGHTS FOR A YOUNG MAN.
-
-By <g>HORACE MANN</g>.
-
-Cloth, 50 cents.
+      By HORACE MANN.
+      Cloth, 50 cents.
+*/
 
 In 1849, Horace Mann, one of the most skilful and sympathetic
 educators known to this country, delivered a lecture before the
@@ -1624,17 +1596,17 @@ Advertiser.</i>
 
 Handbook[**Capital K? Weird spot, or printer error] of Punctuation.
 
-
 Punctuation and Other Typographical Matters.
 
-/#
+
+/#[4.2]
 <i>For the use of Printers, Authors, Teachers, and Scholars.
 By MARSHALL T. BIGELOW, Corrector at the University
 Press, Cambridge. Small 4to.  CLOTH, 50
 CENTS.</i>
 #/
 
-/*
+/*[12]
 <i>Lenox Library, New York</i>, Aug. 19,1881.
 */
 
@@ -1645,7 +1617,7 @@ which will contribute to the comfort of many. I cordially recommend
 it to all authors, printers, and men of letters.
 
 /*
-Faithfully yours,
+          Faithfully yours,
 <i>Allibone's Dictionary of Authors.</i>      <sc>I. Austin Allibone.</sc>
 */
 
@@ -1660,7 +1632,7 @@ Daily Union.</i>
 
 Mistakes in Writing English, and How to Avoid Them.
 
-/#
+/#[4.2]
 <i>For the Use of all who Teach, Write, or Speak the Language.
 By MARSHALL T. BIGELOW, author of
 "Punctuation and other Typographical Matters."
@@ -1692,18 +1664,15 @@ speaking or writing."--<i>Gospel Banner.</i>
 
 THE RIGHT WORD IN THE RIGHT PLACE.
 
-
-CAMPBELL'S
-
+/*[8]
+        CAMPBELL'S
 <sc>Handbook of English Synonyms</sc>
-
-WITH AN APPENDIX,
-
-SHOWING
-
+    WITH AN APPENDIX,
+        SHOWING
 <sc>The Correct Uses of Prepositions</sc>.
 
 160 pages. Neat cloth binding, 50 cts.
+*/
 
 This compact little volume contains about 40,000 synonymous
 words, printed in clear, distinct type.
@@ -1729,15 +1698,12 @@ language.
 
 
 
-/*
-<sc>LEE  AND       POPULAR
-SHEPARD'S      HANDBOOKS</sc>
-*/
+<sc>LEE AND SHEPARD'S POPULAR HANDBOOKS</sc>
+
 
 Price, each, in cloth, 50 cents, except when other price is given.
 
-
-/#
+/#[4.2]
 <b>Forgotten Meanings</b>; or an Hour with a Dictionary. By <sc>Alfred
 Waites</sc>, author of Historical Student's Manual.
 
@@ -1805,15 +1771,12 @@ LEE AND SHEPARD Publishers Boston[** delete?]
 
 
 
-/*
-<sc>Lee and</sc>        <sc>Popular</sc>[** delete?]
-<sc>Shepard's</sc>      <sc>Handbooks</sc>[** delete?]
-*/
+<sc>Lee and Shepard's Popular Handbooks</sc>
+
 
 <i>Price, each, in cloth, 50 cents, except when other price is given.</i>[** delete?]
 
-
-/#
+/#[4.2]
 <b>Exercises for the Improvement of the Senses.</b> For Young Children.
 By <sc>Horace Grant</sc>, author of "Arithmetic for Young Children."
 Edited by <sc>Willard Small</sc>.
@@ -1874,15 +1837,12 @@ LEE AND SHEPARD Publishers Boston[** delete?]
 
 
 
-/*
-<sc>Lee and</sc>        <sc>Popular</sc>[** delete?]
-<sc>Shepard's</sc>      <sc>Handbooks</sc>[** delete?]
-*/
+<sc>Lee and Shepard's Popular Handbooks</sc>
+
 
 Price, each, in cloth, 50 cents, except when other price is given.[** delete?]
 
-
-/#
+/#[4.2]
 <b>Warrington's Manual.</b> A Manual for the Information of Officers
 and Members of Legislatures, Conventions, Societies, etc., in the practical
 governing and membership of all such bodies, according to the Parliamentary
@@ -1945,7 +1905,7 @@ LEE AND SHEPARD Publishers Boston
 THE FOBES ELOCUTIONARY HANDBOOKS.
 
 
-/*
+/*[6]
 FIVE-MINUTE DECLAMATIONS
 FOR SCHOOL AND COLLEGE
 <sc>Cloth, 50 Cents</sc>.
@@ -1967,9 +1927,9 @@ by a competent teacher.
 
 
 /*
-ELOCUTION SIMPLIFIED
+      ELOCUTION SIMPLIFIED
 With an Introduction by George M. Baker.
-<sc>Cloth, 50 Cents.</sc>
+      <sc>Cloth, 50 Cents.</sc>
 */
 
 "The Manual is divided into four parts. Part First describes a
