@@ -398,23 +398,24 @@ $::proofers{'066'}[3] = 'Joe Cooper';
 $::proofers{'066'}[4] = 'judeeylander';
 $::proofers{'066'}[5] = 'cmspence';
 
-$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-01-26 14:33';
-$::operationshash{'Found no more orphaned ()'}='2014-01-26 14:33';
-$::operationshash{'Found no more orphaned /# #/'}='2014-01-26 14:33';
-$::operationshash{'Found no more orphaned /$ $/'}='2014-01-26 14:33';
-$::operationshash{'Found no more orphaned []'}='2014-01-26 14:33';
+$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-01-26 15:58';
+$::operationshash{'Begin Page Separators Fixup'}='2014-01-26 15:58';
+$::operationshash{'Found no more orphaned /$ $/'}='2014-01-26 15:58';
 $::operationshash{'Fixup Routine'}='2014-01-26 15:46';
-$::operationshash{'Stealth Scannos'}='2014-01-26 11:12';
-$::operationshash{'Found no more orphaned {}'}='2014-01-26 14:33';
-$::operationshash{'Found no more orphaned /* */'}='2014-01-26 14:33';
+$::operationshash{'Found no more orphaned /* */'}='2014-01-26 15:58';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-01-26 14:22';
-$::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\Taxidermy without a teacher.txt'}='2014-01-26 11:07';
-$::operationshash{'Remove end-of-line spaces'}='2014-01-26 15:46';
+$::operationshash{'Found no more orphaned <>'}='2014-01-26 15:58';
+$::operationshash{'Found no more orphaned ()'}='2014-01-26 15:58';
+$::operationshash{'Found no more orphaned /# #/'}='2014-01-26 15:58';
+$::operationshash{'Found no more orphaned []'}='2014-01-26 15:58';
+$::operationshash{'Stealth Scannos'}='2014-01-26 11:12';
+$::operationshash{'Found no more orphaned {}'}='2014-01-26 15:58';
+$::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
-$::operationshash{'Found no more orphaned <>'}='2014-01-26 14:33';
+$::operationshash{'Remove end-of-line spaces'}='2014-01-26 15:46';
 
-$::bookmarks[0] = '71.2';
+$::bookmarks[0] = '170.1';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\pngs\\';
 
