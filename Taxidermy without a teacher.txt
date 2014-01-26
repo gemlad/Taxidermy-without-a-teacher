@@ -6,12 +6,14 @@
 
 
 
+/f
 PRACTICAL HELPS IN NATURAL HISTORY
 
 BY THE SAME AUTHOR
+f/
 
 
-/*[8]
+/f
 INSECTS
 HOW TO CATCH AND HOW TO PREPARE THEM FOR THE CABINET
 Illustrated      Price 50 Cents
@@ -28,13 +30,13 @@ Illustrated      Price 50 Cents
 
 
 <sc>Lee and Shepard Publishers Boston</sc>
-*/
+f/
 -----File: 003.png---\Hatty52\oldguyrice03\honeybun\Jo-Anne43\cmspence\----
 
 
 
 
-/*[8]
+/f
 TAXIDERMY WITHOUT A TEACHER
 COMPRISING
 A COMPLETE MANUAL OF INSTRUCTION
@@ -55,24 +57,24 @@ SECOND EDITION, REVISED AND ENLARGED
 BOSTON
 LEE AND SHEPARD PUBLISHERS
 NEW YORK CHARLES T. DILLINGHAM
-*/
+f/
 -----File: 004.png---\Hatty52\oldguyrice03\honeybun\Jo-Anne43\Close@Hand\--
 
 
 
 
-/*[8]
+/f
 Copyright, 1882,
 <sc>By Lee and Shepard</sc>.
 
 <i>All Rights Reserved.</i>
-*/
+f/
 -----File: 005.png---\Hatty52\oldguyrice03\honeybun\Jo-Anne43\cmspence\----
 
 
 
 
-/*[8]
+/f
 TO
 
 PROFESSOR J. W. P. JENKS, A.M.,
@@ -83,7 +85,7 @@ This Second Edition
 IS RESPECTFULLY DEDICATED
 
 BY THE AUTHOR.
-*/
+f/
 -----File: 006.png---\Hatty52\oldguyrice03\honeybun\Jo-Anne43\cmspence\----
 [Blank Page]
 -----File: 007.png---\Hatty52\oldguyrice03\honeybun\jpo\cmspence\----------
@@ -94,7 +96,7 @@ BY THE AUTHOR.
 CONTENTS.
 
 
-/*
+/X
 CHAP.                                             PAGE
 
   I. BIRD SKINNING AND MOUNTING                     13
@@ -110,7 +112,7 @@ III. SKINNING AND MOUNTING MAMMALS                  37
  VI. SKELETONS                                      49
 
 VII. HUNTING AND HYGIENE                            51
-*/
+X/
 -----File: 008.png---\Hatty52\oldguyrice03\honeybun\jpo\cmspence\----------
 
 [Illustration: Fig. 1.
