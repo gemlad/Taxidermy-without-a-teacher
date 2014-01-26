@@ -398,6 +398,7 @@ $::proofers{'066'}[3] = 'Joe Cooper';
 $::proofers{'066'}[4] = 'judeeylander';
 $::proofers{'066'}[5] = 'cmspence';
 
+$::operationshash{'Check words with unicode chars > FF'}='2014-01-26 21:33';
 $::operationshash{'Moved footnotes to end-of-paragraph'}='2014-01-26 20:38';
 $::operationshash{'Begin Page Separators Fixup'}='2014-01-26 18:13';
 $::operationshash{'Check hyphens'}='2014-01-26 18:27';
@@ -412,7 +413,7 @@ $::operationshash{'WF Check Ital/Bold/SC'}='2014-01-26 19:32';
 $::operationshash{'Found no more orphaned ()'}='2014-01-26 15:58';
 $::operationshash{'Footnote Fixup'}='2014-01-26 21:25';
 $::operationshash{'Found no more orphaned []'}='2014-01-26 15:58';
-$::operationshash{'Word Frequency'}='2014-01-26 18:17';
+$::operationshash{'Word Frequency'}='2014-01-26 21:33';
 $::operationshash{'Check words with possible ligatures'}='2014-01-26 19:33';
 $::operationshash{'Check . lower'}='2014-01-26 19:31';
 $::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-01-26 15:58';
@@ -435,7 +436,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-26 21:27';
 
-$::bookmarks[0] = '1562.30';
+$::bookmarks[0] = '17.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\pngs\\';
 
