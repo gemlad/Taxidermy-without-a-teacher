@@ -18,7 +18,7 @@ Illustrated      Price 50 Cents
 
 FIELD BOTANY
 A HANDBOOK FOR THE COLLECTOR
-Illustrated      Price 50 Cents[**line appears to be italics, but probably just distortion/F1]
+Illustrated      Price 50 Cents
 
 <sc>Taxidermy Without a Teacher</sc>
 COMPRISING
@@ -217,7 +217,7 @@ FROM THE FIRST EDITION.
 <sc>Brown University</sc>, Providence, R. I.
 */
 
-[**F2/PM - I know the formatting guidelines say not to mark this, but it just seems right!]<sc>Mr. Manton</sc>,--Having perused your MS.
+<sc>Mr. Manton</sc>,--Having perused your MS.
 "<sc>Taxidermy Without a Teacher</sc>," I feel free
 to say, that its suggestions are eminently practical,
 and cannot fail to render such aid to the
@@ -265,7 +265,7 @@ for your first lesson, bird skinning and mounting.
 But first let us see what
 
 
-TOOLS[**Standard section header that happens to be a run-on]
+TOOLS
 
 we shall need to accomplish our end: a pair of
 good sharp scissors--surgical scissors, with long
@@ -634,7 +634,7 @@ tow body must be as near the size of the natural
 body as possible, if anything a trifle <i>smaller</i>, on
 no account <i>larger</i>. In order to be more accurate,
 I generally keep the body of the bird skinned, on
-my table, and while winding[**p3,?] compare the artificial
+my table, and while winding compare the artificial
 body with this until it is perfected. In
 this way a better shaped and firmer body is produced.
 Be careful that you do not get the body
@@ -706,7 +706,7 @@ Bring them together parallel to each other, and
 make a sharp bend at the knee, bringing them
 over the body in a natural position. Now place
 -----File: 030.png---\Hatty52\paperino\MilochGermany\Cosmas\shadow_reader\-
-*[Illustration: <sc>Fig. 3.</sc>]
+[Illustration: <sc>Fig. 3.</sc>]
 
 the bird on a temporary perch; bend back the
 head, and arrange the body in the position you
@@ -914,7 +914,7 @@ Instead of three, you must now have five
 wires. Sharpen and sand-paper, as the former,
 and make a nucleus for body. The shape
 of an animal, with the neck severed from the
-skull, is like the italic <i>f</i> [**P1- unsure how to represent: f ][** It's an "f" - fixed P2] laid on its side (<i>f</i>[**P1- unsure how to represent: f][F1: [Illustration]?]).
+skull, is like the italic <i>f</i> laid on its side (<i>f</i>[**F1: [Illustration]?]).
 This is made by winding the tow on the nucleus,
 the same as with birds, and drawing the
 string tight at different points to give it the required
@@ -1063,7 +1063,7 @@ fade, they must be touched up with paint.
 
 REPTILES.--SKINNING.
 
-Snakes, frogs, etc.[** 2nd dot not needed P2 deleted] may be opened along the
+Snakes, frogs, etc. may be opened along the
 belly, or they may be skinned through the mouth.
 If the latter, open the mouth as wide as possible,
 and with the scissors cut through the body and
@@ -1133,7 +1133,7 @@ bird, if this is obtained,
 together with a number
 of their own. You can then note them in your
 ornithological ledger, or, if you choose, you can
-keep an oölogical[** zoölogical? P2][**P3: no; eggs!] ledger separate.
+keep an oölogical ledger separate.
 
 Nests should be preserved, if possible, attached
 to the branch on which they were found.
@@ -1156,7 +1156,7 @@ GUM PASTE.
 
 /*
 Gum Arabic, 4 ounces.
-Corrosive Sublimate, 2 grains.[** mercuric chloride!]
+Corrosive Sublimate, 2 grains.
 White Sugar Candy, 2 ounces.
       <i>Mix.</i>
 */
@@ -1382,11 +1382,11 @@ BY
 
 THOMAS WENTWORTH HIGGINSON,
 
-AUTHOR OF[**small caps?/F1]
+AUTHOR OF
 
-[**each line centered; extra space after first 2 lines probably not needed, since all are one "sentence"/F1]"<sc>Young Folks' History of the United States</sc>," "<sc>Young
+"<sc>Young Folks' History of the United States</sc>," "<sc>Young
 Folks' American Explorers</sc>," "<sc>Malbone</sc>,"
-"<sc>Outdoor Papers</sc>," "<sc>Oldport Days</sc>," [**"/F1]<sc>Army Life in
+"<sc>Outdoor Papers</sc>," "<sc>Oldport Days</sc>," "<sc>Army Life in
 a Black Regiment</sc>," "<sc>Atlantic Essays</sc>," <sc>ETC.</sc>
 
 Price, 50 cents.
@@ -1405,10 +1405,10 @@ of this volume:--
 volume entitled 'Atlantic Essays.' Teachers have several
 times urged that it should be reprinted as a little manual of
 literary composition; and I have indeed seen it used for that
-purpose in a college class-room. Now that similiar[**similar] suggestions
+purpose in a college class-room. Now that similar suggestions
 are beginning to come in respecting the other brief essay,
 'Hints on Speech-making,' it has seemed well to present the
-[**two] together in a small volume.[** typo , fixed P2] The last-named paper appeared
+two together in a small volume. The last-named paper appeared
 first in 'Harper's Magazine' and it is here reprinted
 with the consent of the publishers."
 -----File: 058.png---\SuChow\paperino\Joe Cooper\judeeylander\Old_Prof_TX\-
@@ -1449,7 +1449,7 @@ which, if carefully followed, will make the maidens of America
 better fitted to become its mothers."--<i>N. Y. Mail and Express.</i>
 
 "It is designed as a guide to teachers of girls, but it will be
-found [** of] use also to such as wish to practice the exercises at
+found of use also to such as wish to practice the exercises at
 home."--<i>N. Y. World.</i>
 
 "A volume so very diminutive that one can hardly realize that
@@ -1466,7 +1466,7 @@ Y. Christian Advocate.</i>
 "A useful little manual, by a teacher of much experience, who
 embodies in this little work the best results of her knowledge
 and practice of the modern system of gymnastic exercises for
-girls' schools and colleges; and also for use at home."--<i>Jennie[**Proj Disc.]
+girls' schools and colleges; and also for use at home."--<i>Jennie
 June.</i>
 -----File: 059.png---\SuChow\paperino\Joe Cooper\judeeylander\Old_Prof_TX\-
 
@@ -1594,7 +1594,7 @@ Advertiser.</i>
 
 
 
-Handbook[**Capital K? Weird spot, or printer error] of Punctuation.
+Handbook of Punctuation.
 
 Punctuation and Other Typographical Matters.
 
@@ -1691,7 +1691,7 @@ The Appendix, containing "Prepositions Compared and Discriminated,"
 and "A List showing what Prepositions to use after
 certain Words," is a trustworthy guide in a great number of cases
 of doubtful usage. A writer's knowledge of English idiom and
-his style are best shown by his use of these little [**hinges?] of the[**http://books.google.com/books?id=UEoqAAAAYAAJ&pg=PP6&lpg=PP6&dq=%22knowledge+of+English+idiom+and+his+style+are+best+shown+by+his+use+of+these+little%22&source=bl&ots=0XiGXcndW-&sig=kgJhFVCcrlVgSIeIYJbrnqQH6R4&hl=en&sa=X&ei=R7wnUunILajUyQHE7oG4CA&ved=0CCwQ6AEwAA#v=onepage&q=%22knowledge%20of%20English%20idiom%20and%20his%20style%20are%20best%20shown%20by%20his%20use%20of%20these%20little%22&f=false]
+his style are best shown by his use of these little hinges of the
 language.
 -----File: 063.png---\Mooring\paperino\Joe Cooper\judeeylander\Old_Prof_TX\-
 
@@ -1754,7 +1754,7 @@ Manual of Instruction for the Field-Naturalist. By <sc>W. P. Manton</sc>.
 <b>What is to be Done?</b> A Handbook for the Nursery, with Useful
 Hints for Children and Adults. By <sc>Robert B. Dixon, M.D.</sc>
 
-<b>Whirlwinds, Cyclones, and Tornadoes.</b>[**san-serif?/f2] By <sc>William Morris
+<b>Whirlwinds, Cyclones, and Tornadoes.</b> By <sc>William Morris
 Davis</sc>, Instructor in Harvard College. Illustrated.
 
 <b>Mistakes in Writing English, and How to Avoid Them.</b>
@@ -1763,9 +1763,9 @@ For the use of all who Teach, Write, or Speak the language. By
 #/
 
 
-<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>[** delete?]
+<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>
 
-LEE AND SHEPARD Publishers Boston[** delete?]
+LEE AND SHEPARD Publishers Boston
 -----File: 064.png---\Kasa\paperino\Joe Cooper\judeeylander\cmspence\------
 
 
@@ -1774,7 +1774,7 @@ LEE AND SHEPARD Publishers Boston[** delete?]
 <sc>Lee and Shepard's Popular Handbooks</sc>
 
 
-<i>Price, each, in cloth, 50 cents, except when other price is given.</i>[** delete?]
+<i>Price, each, in cloth, 50 cents, except when other price is given.</i>
 
 /#[4.2]
 <b>Exercises for the Improvement of the Senses.</b> For Young Children.
@@ -1811,7 +1811,7 @@ New Bedford.
 <b>Natural-History Plays.</b> Dialogues and Recitations for School Exhibitions.
 By <sc>Louisa P. Hopkins</sc>.
 
-<b>The Telephone.</b> An account of the phenomena[** ph[oe]nomena? P2] of Electricity, Magnetism,
+<b>The Telephone.</b> An account of the phenomena of Electricity, Magnetism,
 and Sound, with directions for making a speaking-telephone. By
 Professor <sc>A. E. Dolbear</sc>.
 
@@ -1828,10 +1828,9 @@ Plants. By <sc>Cornelia J. Randolph</sc>. With illustrations.
 #/
 
 
-<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>[** delete?]
+<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>
 
-LEE AND SHEPARD Publishers Boston[** delete?]
-[** The last two rows appears in previous page too, so it seems should be eliminated P2]
+LEE AND SHEPARD Publishers Boston
 -----File: 065.png---\Kasa\paperino\Joe Cooper\judeeylander\cmspence\------
 
 
@@ -1840,7 +1839,7 @@ LEE AND SHEPARD Publishers Boston[** delete?]
 <sc>Lee and Shepard's Popular Handbooks</sc>
 
 
-Price, each, in cloth, 50 cents, except when other price is given.[** delete?]
+Price, each, in cloth, 50 cents, except when other price is given.
 
 /#[4.2]
 <b>Warrington's Manual.</b> A Manual for the Information of Officers
@@ -1856,7 +1855,7 @@ With numerous diagrams and illustrations.
 the art, for persons wishing to learn without an instructor. By <sc>William
 A. Emerson</sc>. Illustrated. Price $1.00.
 
-<b>Five-Minute Recitations.</b> Selected and arranged by <sc>Walter K[**.]
+<b>Five-Minute Recitations.</b> Selected and arranged by <sc>Walter K.
 Fobes</sc>.
 
 <b>Five-Minute Declamations.</b> Selected and arranged by <sc>Walter
@@ -1894,7 +1893,7 @@ Debating Clubs, and Classes in Public and Private Schools.
 #/
 
 
-<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price[**.]</i>
+<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>
 
 LEE AND SHEPARD Publishers Boston
 -----File: 066.png---\Passano\paperino\Joe Cooper\judeeylander\cmspence\---

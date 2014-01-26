@@ -63,8 +63,8 @@
  'Pg062' => {'offset' => '1660.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg063' => {'offset' => '1696.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg064' => {'offset' => '1769.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg065' => {'offset' => '1835.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg066' => {'offset' => '1900.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg065' => {'offset' => '1834.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg066' => {'offset' => '1899.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
 );
 
 $::proofers{'001'}[1] = 'Hatty52';
@@ -398,11 +398,21 @@ $::proofers{'066'}[3] = 'Joe Cooper';
 $::proofers{'066'}[4] = 'judeeylander';
 $::proofers{'066'}[5] = 'cmspence';
 
+$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-01-26 14:33';
+$::operationshash{'Found no more orphaned ()'}='2014-01-26 14:33';
+$::operationshash{'Found no more orphaned /# #/'}='2014-01-26 14:33';
+$::operationshash{'Found no more orphaned /$ $/'}='2014-01-26 14:33';
+$::operationshash{'Found no more orphaned []'}='2014-01-26 14:33';
 $::operationshash{'Stealth Scannos'}='2014-01-26 11:12';
+$::operationshash{'Found no more orphaned {}'}='2014-01-26 14:33';
+$::operationshash{'Found no more orphaned /* */'}='2014-01-26 14:33';
+$::operationshash{'Found no more /#..#/ blocks'}='2014-01-26 14:22';
+$::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\Taxidermy without a teacher.txt'}='2014-01-26 11:07';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
+$::operationshash{'Found no more orphaned <>'}='2014-01-26 14:33';
 
-$::bookmarks[0] = '1752.0';
+$::bookmarks[0] = '582.14';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\pngs\\';
 
