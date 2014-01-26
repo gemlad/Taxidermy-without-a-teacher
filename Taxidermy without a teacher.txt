@@ -26,14 +26,14 @@ FIELD BOTANY
 A HANDBOOK FOR THE COLLECTOR
 Illustrated      Price 50 Cents
 
-<sc>Taxidermy Without a Teacher</sc>
+TAXIDERMY WITHOUT A TEACHER
 COMPRISING
 A complete Manual of Instruction for Preparing and Preserving
 BIRDS, ANIMALS AND FISHES
 Illustrated      Price 50 Cents
 
 
-<sc>Lee and Shepard Publishers Boston</sc>
+LEE AND SHEPARD PUBLISHERS BOSTON
 f/
 
 
@@ -67,9 +67,9 @@ f/
 
 /f
 Copyright, 1882,
-<sc>By Lee and Shepard</sc>.
+BY LEE AND SHEPARD.
 
-<i>All Rights Reserved.</i>
+_All Rights Reserved._
 f/
 
 
@@ -174,7 +174,7 @@ and soon, to his own astonishment, those things
 which at first appeared difficult and awkward,
 will become comparatively simple and easy.
 Said an old teacher to me: 'I can tell you how
-all these things are <i>done</i>, but I cannot enable you
+all these things are _done_, but I cannot enable you
 to do them; practice alone will accomplish that.'
 
 "A person with a light and delicate touch will
@@ -209,11 +209,11 @@ FROM THE FIRST EDITION.
 
 
 /*[8]
-<sc>Brown University</sc>, Providence, R. I.
+BROWN UNIVERSITY, Providence, R. I.
 */
 
-<sc>Mr. Manton</sc>,--Having perused your MS.
-"<sc>Taxidermy Without a Teacher</sc>," I feel free
+MR. MANTON,--Having perused your MS.
+"TAXIDERMY WITHOUT A TEACHER," I feel free
 to say, that its suggestions are eminently practical,
 and cannot fail to render such aid to the
 beginner as he most needs, and indeed must have
@@ -231,7 +231,7 @@ highly your effort, I am yours,
 
 /*[8]
 With great respect,
-    <sc>J. W. P. Jenks.</sc>
+    J. W. P. JENKS.
 */
 
 
@@ -325,7 +325,7 @@ Common Salt. Equal parts.
 Label: Salt and Alum.
 */
 
-The best and only <i>safe</i> preparation is:--
+The best and only _safe_ preparation is:--
 
 
 II.
@@ -334,7 +334,7 @@ II.
 Arsenic.
 Pulverized Alum. Equal parts.
        Mix.
-Label: <sc>Poison</sc>!!
+Label: POISON!!
 */
 
 The arsenic is to poison, and the alum to act
@@ -362,23 +362,23 @@ Let us take this Blue Jay for your first attempt.
 The first thing to be done is to measure
 and label it--and, by the way, never neglect
 this, for a bird without its label in a collection,
-is like a ship at sea without its rudder. <sc>Length</sc>--Lay
+is like a ship at sea without its rudder. LENGTH--Lay
 the bird on its back, and with a pair of
 dividers (for a large bird a tape line must be
 used) measure from the tip of the beak (the
 head lying flat on the table) to the tip of the tail.
 Place the points of the dividers on a rule that is
 divided into one-hundredths of an inch, and
-see how much they measure. <sc>Extent.</sc>--Place
+see how much they measure. EXTENT.--Place
 the bird across the ruler, and using reasonable
 force, stretch the wings out, and see how far
-they reach. <sc>Length of Tail.</sc>--Place one
+they reach. LENGTH OF TAIL.--Place one
 point of the dividers at the end of the "pope's
 nose," and open them until the other is at the
-tip of the longest tail feather. <sc>The Tarsus.</sc>--Place
+tip of the longest tail feather. THE TARSUS.--Place
 one point of the dividers at the middle of
 the sole of the foot, and measure as far as the
-first joint. <sc>The Beak.</sc>--Place one point of the
+first joint. THE BEAK.--Place one point of the
 dividers at the beginning of the cere, on the
 upper mandible, and open them until the other
 is at the tip of the beak. In addition to these I
@@ -419,7 +419,7 @@ anus. In so doing you will see there is a little
 naked place, in many birds, all the way down.
 Stroke the feathers away right and left, leaving
 this bare, and inserting the point of the scissors
-at the end of the sternum, cut down to and <i>into</i>
+at the end of the sternum, cut down to and _into_
 the anus (taking care not to cut through the thin
 belly walls; if this is done, fill the place with
 cotton, or disembowel); stopping here, as this
@@ -535,7 +535,7 @@ it into an oblong ball, corresponding to the body
 just removed. Place this in the skin with the
 forceps, and before letting go with the thumb
 and forefinger press the wings together on the
-back, placing the fingers <i>under</i> the wings. Now
+back, placing the fingers _under_ the wings. Now
 draw the edges of the skin together, and making
 a cylinder of each hand, gently coax the skin
 through, until it is of the required shape. Then
@@ -553,17 +553,17 @@ SEX
 May be determined by cutting through the ribs
 under the right wing, and pushing away the intestines.
 There, bound to the small of the back,
-will be seen the <i>testicles</i> of the male--two
+will be seen the _testicles_ of the male--two
 spheroidal, whitish bodies, which vary in size
 according to the season of the year. In the
-female will be seen the <i>ovaries</i>, a flattened mass
+female will be seen the _ovaries_, a flattened mass
 of whitish bodies. These are often so minute as
 to defy the naked eye, and the inquirer is obliged
 to employ the microscope to make the distinction.
 The sign recognized by ornithologists all over
 the world is [male symbol] for males, and [female symbol] for females;
 to which is added for young birds the Latin
-<i>juvenis</i> or <i>juv.</i> or O, meaning young, and <i>Nupt.</i>
+_juvenis_ or _juv._ or O, meaning young, and _Nupt._
 for birds in nuptial or breeding plumage.
 
 
@@ -577,7 +577,7 @@ than the bird as it lies stretched out on the table
 (Fig. 2, A); the second and third two or three
 inches longer than the leg (C).
 
-[Illustration: <sc>Fig. 2.</sc>]
+[Illustration: FIG. 2.]
 
 These wires must be perfectly straight (in the
 case of small wires this may be done by stretching),
@@ -600,24 +600,24 @@ make a little oval block of wood, secure the head
 wire to one end, and bore holes for the leg wires,
 which must be firmly fastened. For this Blue
 Jay we will make it about one inch in length.
-Now around this ring or block as a <i>nucleus</i>, or
+Now around this ring or block as a _nucleus_, or
 foundation, place the tow and wind it on with
 thread or string, continually putting on more
 tow until you have an egg-shaped form (B).
-Wind <i>around</i> and then <i>lengthways</i> to accomplish
+Wind _around_ and then _lengthways_ to accomplish
 this. For birds larger than a canary, the body
 may be made of hay or excelsior, and finished
 with a coating of tow. This is easier to put
 wires through, and is more economical. The
 tow body must be as near the size of the natural
-body as possible, if anything a trifle <i>smaller</i>, on
-no account <i>larger</i>. In order to be more accurate,
+body as possible, if anything a trifle _smaller_, on
+no account _larger_. In order to be more accurate,
 I generally keep the body of the bird skinned, on
 my table, and while winding compare the artificial
 body with this until it is perfected. In
 this way a better shaped and firmer body is produced.
 Be careful that you do not get the body
-too soft (you cannot get it <i>too hard</i>), or when
+too soft (you cannot get it _too hard_), or when
 you come to set up your bird it will be too weak
 to stand on its legs; the wires will have nothing
 to clinch and hold to. Now take a bit of cotton,
@@ -678,7 +678,7 @@ that you will succeed. Remember "Post
 nubila Phoebus,"--and it is just the same with
 bird stuffing.
 
-[Illustration: <sc>Fig. 3.</sc>]
+[Illustration: FIG. 3.]
 
 The legs are now straddling wide apart.
 Bring them together parallel to each other, and
@@ -803,7 +803,7 @@ wires starting from the limbs of the tree, with
 back or breast showing according to the part
 which is to be displayed.
 
-[Illustration: <sc>Fig. 4.</sc>]
+[Illustration: FIG. 4.]
 
 Another good way, especially
 where the collection is large, is a
@@ -882,7 +882,7 @@ Instead of three, you must now have five
 wires. Sharpen and sand-paper, as the former,
 and make a nucleus for body. The shape
 of an animal, with the neck severed from the
-skull, is like the italic <i>f</i> laid on its side ([sideways italic f]).
+skull, is like the italic _f_ laid on its side ([sideways italic f]).
 This is made by winding the tow on the nucleus,
 the same as with birds, and drawing the
 string tight at different points to give it the required
@@ -1079,7 +1079,7 @@ oval, may be used. The ends are then covered
 with netting; thus forming a soft, yet strong,
 resting-place for the egg. (Fig. 5.)
 
-[Illustration: <sc>Fig. 5.</sc>]
+[Illustration: FIG. 5.]
 
 The name of the specimen, together with size,
 date of collection and collector's name, should be
@@ -1116,7 +1116,7 @@ GUM PASTE.
 Gum Arabic, 4 ounces.
 Corrosive Sublimate, 2 grains.
 White Sugar Candy, 2 ounces.
-      <i>Mix.</i>
+      _Mix._
 */
 
 Melt, and label "Gum Paste, for closing the
@@ -1130,7 +1130,7 @@ CHAPTER VI.
 SKELETONS.
 
 
-During the busy collecting season, <i>rough</i>
+During the busy collecting season, _rough_
 skeletons may be made by removing skin, viscera,
 and as much muscle as possible, covering
 the body with the arsenic-alum powder, and
@@ -1219,7 +1219,7 @@ you can vary your loads according to the bird
 that you are pursuing. Here the breech-loading
 gun is vastly superior to the old-fashioned muzzle-loader,
 for it is but the work of an instant to
-change from large to small, or <i>vice versa</i>. Be
+change from large to small, or _vice versa_. Be
 careful not to load too heavily. Most of your
 birds will be killed within a few yards, and it is
 astonishing how little powder and how few shot
@@ -1333,10 +1333,10 @@ THOMAS WENTWORTH HIGGINSON,
 
 AUTHOR OF
 
-"<sc>Young Folks' History of the United States</sc>," "<sc>Young
-Folks' American Explorers</sc>," "<sc>Malbone</sc>,"
-"<sc>Outdoor Papers</sc>," "<sc>Oldport Days</sc>," "<sc>Army Life in
-a Black Regiment</sc>," "<sc>Atlantic Essays</sc>," <sc>ETC.</sc>
+"YOUNG FOLKS' HISTORY OF THE UNITED STATES," "YOUNG
+FOLKS' AMERICAN EXPLORERS," "MALBONE,"
+"OUTDOOR PAPERS," "OLDPORT DAYS," "ARMY LIFE IN
+A BLACK REGIMENT," "ATLANTIC ESSAYS," ETC.
 
 Price, 50 cents.
 
@@ -1344,13 +1344,13 @@ Price, 50 cents.
 abundant his illustrations; So fascinating the easy, polished
 leisurely diction, that the literary enjoyment cannot be impaired.
 He has all the charms of Montaigne without his
-egotism."--<i>Minneapolis Press.</i>
+egotism."--_Minneapolis Press._
 
 The following from the author's Preface shows the purpose
 of this volume:--
 
 "The first of these two chapters appeared long since in the
-<i>Atlantic Monthly</i>, and was afterwards included in the author's
+_Atlantic Monthly_, and was afterwards included in the author's
 volume entitled 'Atlantic Essays.' Teachers have several
 times urged that it should be reprinted as a little manual of
 literary composition; and I have indeed seen it used for that
@@ -1387,40 +1387,40 @@ procession, mutual-help exercises, bean-bags, marching, and a
 practical chapter on dress suitable for gymnastic exercises to be
 taken in. All these exercises have been carefully selected and
 thoroughly tested, and can be safely practised by any person in
-ordinary health."--<i>Journal of Education.</i>
+ordinary health."--_Journal of Education._
 
 "Taking the system of Dr. Dio Lewis as a foundation, Miss
 Hunt has, during her experience as a teacher, taken from, added
 to, and altered various exercises, until the course, so to speak,
 has assumed the order now presented in her little book, a course
 which, if carefully followed, will make the maidens of America
-better fitted to become its mothers."--<i>N. Y. Mail and Express.</i>
+better fitted to become its mothers."--_N. Y. Mail and Express._
 
 "It is designed as a guide to teachers of girls, but it will be
 found of use also to such as wish to practice the exercises at
-home."--<i>N. Y. World.</i>
+home."--_N. Y. World._
 
 "A volume so very diminutive that one can hardly realize that
 it contains nearly all that one needs for the teaching or practice
 of light gymnastics, and even more than Dr. Lewis's clever and
-amusing volume."--<i>Budget.</i>
+amusing volume."--_Budget._
 
 "This work has many advantages. It is inexpensive, it is convenient,
 it is condensed, it is clear. It is careful to avoid any
 strained, unnatural, or ungraceful positions, it does not attempt
-to make a gospel of gymnastics, as some fanatics have done."--<i>N.
-Y. Christian Advocate.</i>
+to make a gospel of gymnastics, as some fanatics have done."--_N.
+Y. Christian Advocate._
 
 "A useful little manual, by a teacher of much experience, who
 embodies in this little work the best results of her knowledge
 and practice of the modern system of gymnastic exercises for
-girls' schools and colleges; and also for use at home."--<i>Jennie
-June.</i>
+girls' schools and colleges; and also for use at home."--_Jennie
+June._
 
 
 
 
-<i>THE FIRST TEACHER FOR LITTLE FOLKS.</i>
+_THE FIRST TEACHER FOR LITTLE FOLKS._
 
 /*[10]
 EXERCISES
@@ -1461,17 +1461,17 @@ Being a series of Exercises exemplifying the manner in which
 Arithmetic should be taught to young children
 
 /*[10]
-By <sc>Horace Grant</sc>.
-American Edition, Edited by <sc>Willard Small</sc>.
+By HORACE GRANT.
+American Edition, Edited by WILLARD SMALL.
 Price 50 cents.
 */
 
 "Consists of a series of exercises illustrative of the manner
 in which the first steps in numbers should be taught to young
-children. We pronounce it <i>first-rate</i>. The primary teacher
+children. We pronounce it _first-rate_. The primary teacher
 will find it a great aid in her work. It is rational and consistent.
 The variety of style and method used lend fresh interest
-at every step."--<i>Educational Weekly.</i>
+at every step."--_Educational Weekly._
 
 "The forms of expression used and the copiousness of illustrations
 are very far in advance of the common style of
@@ -1482,18 +1482,18 @@ systematic study of numbers as the child becomes more mature.
 The young pupil is taught to think and speak in numbers
 in the first stage and subsequently unites with it the art
 of writing numbers. It is correct in theory and apt for
-practice."--<i>N. E. Journal of Education.</i>
+practice."--_N. E. Journal of Education._
 
 
 
 
-<i>THE CELEBRATED JULIUS CÆSAR DEBATE.</i>
+_THE CELEBRATED JULIUS CÆSAR DEBATE._
 
 THE DEBATER'S HANDBOOK.
 
 /#[4.2]
 including a Debate on the Character of Julius Cæsar, adapted
-for <sc>J. Sheridan Knowles</sc>, author of "The Hunchback,"
+for J. SHERIDAN KNOWLES, author of "The Hunchback,"
 "William Tell," and other famous plays, designed for practical
 Exercises in Declamation, and as a Model for Debating
 Clubs; also for Classes in Public and Private Schools, with
@@ -1509,11 +1509,11 @@ contains "Rules for Debate," with directions and suggestions,
 "Julius Cæsar" Debate it has been said, "It is doubtful whether
 the English language can furnish any matter more appropriate
 for the application of the principles of elocution, or better
-adapted to use as a <i>practical exercise</i> in declamation."
+adapted to use as a _practical exercise_ in declamation."
 
 
-<i>"The author well deserved the statue which stands in front
-of the Massachusetts State House."</i>
+_"The author well deserved the statue which stands in front
+of the Massachusetts State House."_
 
 /*[10]
 A FEW THOUGHTS FOR A YOUNG MAN.
@@ -1533,8 +1533,8 @@ house of Lee & Shepard, Boston. The book is earnestly commended
 to young men for its sober recall from the deceptive
 glitter of material things, its lofty inculcations and its wholesome
 precepts. The author well deserved the statue which
-stands in front of the Massachusetts State House.--<i>Newark
-Advertiser.</i>
+stands in front of the Massachusetts State House.--_Newark
+Advertiser._
 
 
 
@@ -1545,17 +1545,17 @@ Punctuation and Other Typographical Matters.
 
 
 /#[4.2]
-<i>For the use of Printers, Authors, Teachers, and Scholars.
+_For the use of Printers, Authors, Teachers, and Scholars.
 By MARSHALL T. BIGELOW, Corrector at the University
 Press, Cambridge. Small 4to. CLOTH, 50
-CENTS.</i>
+CENTS._
 #/
 
 /*[12]
-<i>Lenox Library, New York</i>, Aug. 19, 1881.
+_Lenox Library, New York_, Aug. 19, 1881.
 */
 
-<sc>Dear Mr. Bigelow</sc>,--I sent for your "Punctuation and other
+DEAR MR. BIGELOW,--I sent for your "Punctuation and other
 Typographical Matters" (having long groaned over bad pointing in
 authors and printers), and was glad to find an excellent manual
 which will contribute to the comfort of many. I cordially recommend
@@ -1563,45 +1563,45 @@ it to all authors, printers, and men of letters.
 
 /*
           Faithfully yours,
-<i>Allibone's Dictionary of Authors.</i>      <sc>I. Austin Allibone.</sc>
+_Allibone's Dictionary of Authors._      I. AUSTIN ALLIBONE.
 */
 
 "Mr. Bigelow's book is a practical treatment of the subject, and
-enlarges the reading public's obligations to him."--<i>Atlantic Monthly.</i>
+enlarges the reading public's obligations to him."--_Atlantic Monthly._
 
 "It is intended for the use of authors and teachers, while business
 men who have occasion to print circulars, advertisements, etc., can
-hardly afford to be without a copy of it for reference."--<i>Schenectady
-Daily Union.</i>
+hardly afford to be without a copy of it for reference."--_Schenectady
+Daily Union._
 
 
 Mistakes in Writing English, and How to Avoid Them.
 
 /#[4.2]
-<i>For the Use of all who Teach, Write, or Speak the Language.
+_For the Use of all who Teach, Write, or Speak the Language.
 By MARSHALL T. BIGELOW, author of
 "Punctuation and other Typographical Matters."
-CLOTH, 50 CENTS.</i>
+CLOTH, 50 CENTS._
 #/
 
 "This is an admirable little work; the more admirable for the use
 of busy people, because it is little, since it is also clear and comprehensive.
 The errors pointed out are those to which nearly all writers
 are liable.... We commend it as the most convenient little manual
-of which we have knowledge."--<i>Christian Herald.</i>
+of which we have knowledge."--_Christian Herald._
 
 "This is a valuable little volume. It is not a grammar, with rules
 and definitions; but it takes up words and parts of speech, and shows,
 generally by example, their correct use. It is arranged systematically,
-and is adapted to the use of the home and the school."--<i>The
-Current.</i>
+and is adapted to the use of the home and the school."--_The
+Current._
 
 "The matter is well arranged, and the points upon which instruction
-is desired can be readily found."--<i>Christian Union.</i>
+is desired can be readily found."--_Christian Union._
 
 "This is a useful book. A careful study of the several chapters
 would be of great advantage to all who have to do much or little
-speaking or writing."--<i>Gospel Banner.</i>
+speaking or writing."--_Gospel Banner._
 
 
 
@@ -1610,10 +1610,10 @@ THE RIGHT WORD IN THE RIGHT PLACE.
 
 /*[8]
         CAMPBELL'S
-<sc>Handbook of English Synonyms</sc>
+HANDBOOK OF ENGLISH SYNONYMS
     WITH AN APPENDIX,
         SHOWING
-<sc>The Correct Uses of Prepositions</sc>.
+THE CORRECT USES OF PREPOSITIONS.
 
 160 pages. Neat cloth binding, 50 cts.
 */
@@ -1641,200 +1641,200 @@ language.
 
 
 
-<sc>LEE AND SHEPARD'S POPULAR HANDBOOKS</sc>
+LEE AND SHEPARD'S POPULAR HANDBOOKS
 
 
 Price, each, in cloth, 50 cents, except when other price is given.
 
 /#[4.2]
-<b>Forgotten Meanings</b>; or an Hour with a Dictionary. By <sc>Alfred
-Waites</sc>, author of Historical Student's Manual.
+=Forgotten Meanings=; or an Hour with a Dictionary. By ALFRED
+WAITES, author of Historical Student's Manual.
 
-<b>Handbook of Elocution Simplified.</b> By <sc>Walter K. Fobes</sc>, with
-an Introduction by <sc>George M. Baker</sc>.
+=Handbook of Elocution Simplified.= By WALTER K. FOBES, with
+an Introduction by GEORGE M. BAKER.
 
-<b>Handbook of English Synonyms.</b> With an Appendix, showing the
+=Handbook of English Synonyms.= With an Appendix, showing the
 Correct Use of Prepositions; also a Collection of Foreign Phrases. By
-<sc>Loomis J. Campbell</sc>.
+LOOMIS J. CAMPBELL.
 
-<b>Handbook of Conversation.</b> Its Faults and its Graces. Compiled by
-<sc>Andrew P. Peabody, D.D., LL.D.</sc> Comprising (1) Dr. <sc>Peabody</sc>'s
-Address; (2) Mr. <sc>Trench</sc>'s Lecture; (3) Mr. <sc>Parry Gwynne</sc>'s "A
+=Handbook of Conversation.= Its Faults and its Graces. Compiled by
+ANDREW P. PEABODY, D.D., LL.D. Comprising (1) Dr. PEABODY's
+Address; (2) Mr. TRENCH's Lecture; (3) Mr. PARRY GWYNNE's "A
 Word to the Wise; or, Hints on the Current Improprieties of Expression
 in Reading and Writing;" (4) Mistakes and Improprieties of Speaking
 and Writing Corrected.
 
-<b>Handbook of Punctuation</b> and other Typographical Matters. For
-the Use of Printers, Authors, Teachers, and Scholars. By <sc>Marshall T.
-Bigelow</sc>, Corrector at the University Press, Cambridge, Mass.
+=Handbook of Punctuation= and other Typographical Matters. For
+the Use of Printers, Authors, Teachers, and Scholars. By MARSHALL T.
+BIGELOW, Corrector at the University Press, Cambridge, Mass.
 
-<b>Handbook of Blunders.</b> Designed to prevent 1,000 common blunders
-in writing and speaking. By <sc>Harlan H. Ballard, A.M.</sc>, Principal of
+=Handbook of Blunders.= Designed to prevent 1,000 common blunders
+in writing and speaking. By HARLAN H. BALLARD, A.M., Principal of
 Lenox Academy, Lenox, Mass.
 
-<b>Broken English.</b> A Frenchman's Struggle in the English Language.
-Instructive as a handbook of French conversation. By Professor <sc>E. C.
-Dubois</sc>.
+=Broken English.= A Frenchman's Struggle in the English Language.
+Instructive as a handbook of French conversation. By Professor E. C.
+DUBOIS.
 
-<b>Beginnings with the Microscope.</b> A working handbook containing
+=Beginnings with the Microscope.= A working handbook containing
 simple instructions in the art and method of using the microscope, and preparing
-articles for examination. By <sc>Walter P. Manton</sc>.
+articles for examination. By WALTER P. MANTON.
 
-<b>Field Botany.</b> A Handbook for the Collector. Containing instructions
+=Field Botany.= A Handbook for the Collector. Containing instructions
 for gathering and preserving Plants, and the formation of an Herbarium.
 Also complete instructions in Leaf Photography, Plant Printing, and the
-Skeletonizing of Leaves. By <sc>Walter P. Manton</sc>.
+Skeletonizing of Leaves. By WALTER P. MANTON.
 
-<b>Taxidermy without a Teacher.</b> Comprising a complete manual of
+=Taxidermy without a Teacher.= Comprising a complete manual of
 instructions for Preparing and Preserving Birds, Animals, and Fishes, with
 a chapter on Hunting and Hygiene; together with instructions for Preserving
 Eggs, and Making Skeletons, and a number of valuable recipes. By
-<sc>Walter P. Manton</sc>.
+WALTER P. MANTON.
 
-<b>Insects.</b> How to Catch and how to Prepare them for the Cabinet. A
-Manual of Instruction for the Field-Naturalist. By <sc>W. P. Manton</sc>.
+=Insects.= How to Catch and how to Prepare them for the Cabinet. A
+Manual of Instruction for the Field-Naturalist. By W. P. MANTON.
 
-<b>What is to be Done?</b> A Handbook for the Nursery, with Useful
-Hints for Children and Adults. By <sc>Robert B. Dixon, M.D.</sc>
+=What is to be Done?= A Handbook for the Nursery, with Useful
+Hints for Children and Adults. By ROBERT B. DIXON, M.D.
 
-<b>Whirlwinds, Cyclones, and Tornadoes.</b> By <sc>William Morris
-Davis</sc>, Instructor in Harvard College. Illustrated.
+=Whirlwinds, Cyclones, and Tornadoes.= By WILLIAM MORRIS
+DAVIS, Instructor in Harvard College. Illustrated.
 
-<b>Mistakes in Writing English, and How to Avoid Them.</b>
+=Mistakes in Writing English, and How to Avoid Them.=
 For the use of all who Teach, Write, or Speak the language. By
-<sc>Marshall T. Bigelow</sc>.
+MARSHALL T. BIGELOW.
 #/
 
 
-<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>
+_Sold by all booksellers, and sent by mail, postpaid, on receipt of price._
 
 LEE AND SHEPARD Publishers Boston
 
 
 
 
-<sc>Lee and Shepard's Popular Handbooks</sc>
+LEE AND SHEPARD'S POPULAR HANDBOOKS
 
 
-<i>Price, each, in cloth, 50 cents, except when other price is given.</i>
+_Price, each, in cloth, 50 cents, except when other price is given._
 
 /#[4.2]
-<b>Exercises for the Improvement of the Senses.</b> For Young Children.
-By <sc>Horace Grant</sc>, author of "Arithmetic for Young Children."
-Edited by <sc>Willard Small</sc>.
+=Exercises for the Improvement of the Senses.= For Young Children.
+By HORACE GRANT, author of "Arithmetic for Young Children."
+Edited by WILLARD SMALL.
 
-<b>Hints on Language</b> in connection with Sight-Reading and Writing in
-Primary and Intermediate Schools. By <sc>S. Arthur Bent</sc>, A.M., Superintendent
+=Hints on Language= in connection with Sight-Reading and Writing in
+Primary and Intermediate Schools. By S. ARTHUR BENT, A.M., Superintendent
 of Public Schools, Clinton, Mass.
 
-<b>The Hunter's Handbook.</b> Containing lists of provisions and camp
+=The Hunter's Handbook.= Containing lists of provisions and camp
 paraphernalia, and hints on the fire, cooking utensils, etc.; with approved
-receipts for camp-cookery. By "<sc>An Old Hunter</sc>."
+receipts for camp-cookery. By "AN OLD HUNTER."
 
-<b>Universal Phonography</b>; or, Shorthand by the "Allen Method." A
-self-instructor. By <sc>G. G. Allen</sc>.
+=Universal Phonography=; or, Shorthand by the "Allen Method." A
+self-instructor. By G. G. ALLEN.
 
-<b>Hints and Helps</b> for those who Write, Print, or Read. By <sc>B. Drew</sc>,
+=Hints and Helps= for those who Write, Print, or Read. By B. DREW,
 proof-reader.
 
-<b>Pronouncing Handbook</b> of Three Thousand Words often Mispronounced.
-By <sc>R. Soule</sc> and <sc>L. J. Campbell</sc>.
+=Pronouncing Handbook= of Three Thousand Words often Mispronounced.
+By R. SOULE and L. J. CAMPBELL.
 
-<b>Short Studies of American Authors.</b> By <sc>Thomas Wentworth
-Higginson</sc>.
+=Short Studies of American Authors.= By THOMAS WENTWORTH
+HIGGINSON.
 
-<b>The Stars and the Earth</b>; or, Thoughts upon Space, Time, and Eternity.
-With an introduction by <sc>Thomas Hill</sc>, D.D., LL.D.
+=The Stars and the Earth=; or, Thoughts upon Space, Time, and Eternity.
+With an introduction by THOMAS HILL, D.D., LL.D.
 
-<b>Handbook of the Earth.</b> Natural Methods in Geography. By <sc>Louisa
-Parsons Hopkins</sc>, teacher of Normal Methods in the Swain Free School,
+=Handbook of the Earth.= Natural Methods in Geography. By LOUISA
+PARSONS HOPKINS, teacher of Normal Methods in the Swain Free School,
 New Bedford.
 
-<b>Natural-History Plays.</b> Dialogues and Recitations for School Exhibitions.
-By <sc>Louisa P. Hopkins</sc>.
+=Natural-History Plays.= Dialogues and Recitations for School Exhibitions.
+By LOUISA P. HOPKINS.
 
-<b>The Telephone.</b> An account of the phenomena of Electricity, Magnetism,
+=The Telephone.= An account of the phenomena of Electricity, Magnetism,
 and Sound, with directions for making a speaking-telephone. By
-Professor <sc>A. E. Dolbear</sc>.
+Professor A. E. DOLBEAR.
 
-<b>Lessons on Manners.</b> By <sc>Edith E. Wiggin</sc>.
+=Lessons on Manners.= By EDITH E. WIGGIN.
 
-<b>Water Analysis.</b> A Handbook for Water-Drinkers. By <sc>G. L. Austin</sc>,
+=Water Analysis.= A Handbook for Water-Drinkers. By G. L. AUSTIN,
 M.D.
 
-<b>Handbook of Light Gymnastics.</b> By <sc>Lucy B. Hunt</sc>, instructor in
+=Handbook of Light Gymnastics.= By LUCY B. HUNT, instructor in
 gymnastics at Smith (female) College, Northampton, Mass.
 
-<b>The Parlor Gardener.</b> A Treatise on the House-Culture of Ornamental
-Plants. By <sc>Cornelia J. Randolph</sc>. With illustrations.
+=The Parlor Gardener.= A Treatise on the House-Culture of Ornamental
+Plants. By CORNELIA J. RANDOLPH. With illustrations.
 #/
 
 
-<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>
+_Sold by all booksellers, and sent by mail, postpaid, on receipt of price._
 
 LEE AND SHEPARD Publishers Boston
 
 
 
 
-<sc>Lee and Shepard's Popular Handbooks</sc>
+LEE AND SHEPARD'S POPULAR HANDBOOKS
 
 
 Price, each, in cloth, 50 cents, except when other price is given.
 
 /#[4.2]
-<b>Warrington's Manual.</b> A Manual for the Information of Officers
+=Warrington's Manual.= A Manual for the Information of Officers
 and Members of Legislatures, Conventions, Societies, etc., in the practical
 governing and membership of all such bodies, according to the Parliamentary
-Law and Practice in the United States. By <sc>W. S. Robinson</sc>
-(<i>Warrington</i>).
+Law and Practice in the United States. By W. S. ROBINSON
+(_Warrington_).
 
-<b>Practical Boat-Sailing.</b> By <sc>Douglas Frazar</sc>. Classic size, $1.00.
+=Practical Boat-Sailing.= By DOUGLAS FRAZAR. Classic size, $1.00.
 With numerous diagrams and illustrations.
 
-<b>Handbook of Wood Engraving.</b> With practical instructions in
-the art, for persons wishing to learn without an instructor. By <sc>William
-A. Emerson</sc>. Illustrated. Price $1.00.
+=Handbook of Wood Engraving.= With practical instructions in
+the art, for persons wishing to learn without an instructor. By WILLIAM
+A. EMERSON. Illustrated. Price $1.00.
 
-<b>Five-Minute Recitations.</b> Selected and arranged by <sc>Walter K.
-Fobes</sc>.
+=Five-Minute Recitations.= Selected and arranged by WALTER K.
+FOBES.
 
-<b>Five-Minute Declamations.</b> Selected and arranged by <sc>Walter
-K. Fobes</sc>.
+=Five-Minute Declamations.= Selected and arranged by WALTER
+K. FOBES.
 
-<b>Five-Minute Readings for Young Ladies.</b> Selected and adapted
-by <sc>Walter K. Fobes</sc>.
+=Five-Minute Readings for Young Ladies.= Selected and adapted
+by WALTER K. FOBES.
 
-<b>Educational Psychology.</b> A Treatise for Parents and Educators.
-By <sc>Louise Parsons Hopkins</sc>, Supervisor in Boston Public Schools.
+=Educational Psychology.= A Treatise for Parents and Educators.
+By LOUISE PARSONS HOPKINS, Supervisor in Boston Public Schools.
 
-<b>The Nation in a Nutshell.</b> A Rapid Outline of American History.
-By <sc>George Makepeace Towle</sc>.
+=The Nation in a Nutshell.= A Rapid Outline of American History.
+By GEORGE MAKEPEACE TOWLE.
 
-<b>English Synonymes Discriminated.</b> By <sc>Richard Whately</sc>, D.D.,
+=English Synonymes Discriminated.= By RICHARD WHATELY, D.D.,
 Archbishop of Dublin. A new edition.
 
-<b>Hints on Writing and Speech-making.</b> By <sc>Thomas Wentworth
-Higginson</sc>.
+=Hints on Writing and Speech-making.= By THOMAS WENTWORTH
+HIGGINSON.
 
-<b>Arithmetic for Young Children.</b> Being a series of Exercises
+=Arithmetic for Young Children.= Being a series of Exercises
 exemplifying the manner in which Arithmetic should be taught to young
-children. By <sc>Horace Grant</sc>. American Edition. Edited by <sc>Willard
-Small</sc>.
+children. By HORACE GRANT. American Edition. Edited by WILLARD
+SMALL.
 
-<b>Bridge Disasters in America.</b> The Cause and the Remedy. By
-Prof. <sc>George L. Vose</sc>.
+=Bridge Disasters in America.= The Cause and the Remedy. By
+Prof. GEORGE L. VOSE.
 
-<b>A Few Thoughts for a Young Man.</b> By <sc>Horace Mann</sc>. A new
+=A Few Thoughts for a Young Man.= By HORACE MANN. A new
 Edition.
 
-<b>Handbook of Debate.</b> The Character of Julius Cæsar. Adapted
-from <sc>J. Sheridan Knowles</sc>. Arranged for Practice in Speaking, for
+=Handbook of Debate.= The Character of Julius Cæsar. Adapted
+from J. SHERIDAN KNOWLES. Arranged for Practice in Speaking, for
 Debating Clubs, and Classes in Public and Private Schools.
 #/
 
 
-<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>
+_Sold by all booksellers, and sent by mail, postpaid, on receipt of price._
 
 LEE AND SHEPARD Publishers Boston
 
@@ -1847,14 +1847,14 @@ THE FOBES ELOCUTIONARY HANDBOOKS.
 /*[6]
 FIVE-MINUTE DECLAMATIONS
 FOR SCHOOL AND COLLEGE
-<sc>Cloth, 50 Cents</sc>.
+CLOTH, 50 CENTS.
 
 FIVE-MINUTE RECITATIONS
 FOR SCHOOL AND COLLEGE
-<sc>Cloth, 50 Cents</sc>.
+CLOTH, 50 CENTS.
 
 FIVE-MINUTE READINGS
-<sc>Cloth, 50 Cents</sc>.
+CLOTH, 50 CENTS.
 */
 
 Pupils in public schools on declamation days are limited to five
@@ -1868,7 +1868,7 @@ by a competent teacher.
 /*
       ELOCUTION SIMPLIFIED
 With an Introduction by George M. Baker.
-      <sc>Cloth, 50 Cents.</sc>
+      CLOTH, 50 CENTS.
 */
 
 "The Manual is divided into four parts. Part First describes a
@@ -1881,14 +1881,14 @@ how easily defects in speech may be cured.
 
 "With or without an instructor, this Manual is just what the student
 is in great need of, and he can supply that need by a study of 'Elocution
-Simplified.'"--<i>The Dartmouth, Hanover, N.H.</i>
+Simplified.'"--_The Dartmouth, Hanover, N.H._
 
 
-<i>Sold by all Booksellers, or sent by mail, prepaid, on receipt
-of price.</i>
+_Sold by all Booksellers, or sent by mail, prepaid, on receipt
+of price._
 
 /*
-<i>LEE AND SHEPARD, Publishers</i>      <i>Boston.</i>
+_LEE AND SHEPARD, Publishers_      _Boston._
 */
 
 

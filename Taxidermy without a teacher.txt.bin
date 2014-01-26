@@ -57,10 +57,10 @@
  'Pg056' => {'offset' => '1293.14', 'label' => 'Pg 56', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg057' => {'offset' => '1321.19', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg058' => {'offset' => '1362.36', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg059' => {'offset' => '1418.9', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg060' => {'offset' => '1485.46', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg061' => {'offset' => '1537.15', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg062' => {'offset' => '1604.44', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg059' => {'offset' => '1418.5', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg060' => {'offset' => '1485.40', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg061' => {'offset' => '1537.11', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg062' => {'offset' => '1604.38', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg063' => {'offset' => '1639.9', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg064' => {'offset' => '1711.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg065' => {'offset' => '1775.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
@@ -399,14 +399,14 @@ $::proofers{'066'}[4] = 'judeeylander';
 $::proofers{'066'}[5] = 'cmspence';
 
 $::operationshash{'Moved footnotes to end-of-paragraph'}='2014-01-26 20:38';
-$::operationshash{'Check hyphens'}='2014-01-26 18:27';
 $::operationshash{'Begin Page Separators Fixup'}='2014-01-26 18:13';
+$::operationshash{'Check hyphens'}='2014-01-26 18:27';
 $::operationshash{'Fixup Routine'}='2014-01-26 15:46';
 $::operationshash{'Found no more orphaned /* */'}='2014-01-26 15:58';
 $::operationshash{'Check alpha/num'}='2014-01-26 19:25';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-01-26 14:22';
 $::operationshash{'Spellcheck'}='2014-01-26 20:31';
-$::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\Taxidermy without a teacher.txt'}='2014-01-26 18:12';
+$::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\Taxidermy without a teacher.txt'}='2014-01-26 20:55';
 $::operationshash{'Found no more orphaned <>'}='2014-01-26 15:58';
 $::operationshash{'WF Check Ital/Bold/SC'}='2014-01-26 19:32';
 $::operationshash{'Found no more orphaned ()'}='2014-01-26 15:58';
@@ -432,10 +432,10 @@ $::operationshash{'Found no more orphaned {}'}='2014-01-26 15:58';
 $::operationshash{'Check MiXeD CasE'}='2014-01-26 19:26';
 $::operationshash{'Check Accents'}='2014-01-26 19:26';
 $::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
-$::operationshash{'Remove end-of-line spaces'}='2014-01-26 15:46';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
+$::operationshash{'Remove end-of-line spaces'}='2014-01-26 15:46';
 
-$::bookmarks[0] = '8.0';
+$::bookmarks[0] = '1.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\pngs\\';
 
