@@ -46,3 +46,4 @@ Erroneous comma replaced by full-stop	1411	[** typo , fixed P2]
 	1842	[** delete?]
 	1858	[**.]
 	1896	[**.]
+Original has 'oe' ligature in "Post nubila Phoebus"	p.29	Phoebus had ligature

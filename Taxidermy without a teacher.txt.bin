@@ -399,24 +399,36 @@ $::proofers{'066'}[4] = 'judeeylander';
 $::proofers{'066'}[5] = 'cmspence';
 
 $::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-01-26 15:58';
+$::operationshash{'Check Character Cnts'}='2014-01-26 18:22';
+$::operationshash{'Check hyphens'}='2014-01-26 18:27';
 $::operationshash{'Found last page separator'}='2014-01-26 18:16';
 $::operationshash{'Found no more orphaned /$ $/'}='2014-01-26 15:58';
 $::operationshash{'Begin Page Separators Fixup'}='2014-01-26 18:13';
 $::operationshash{'Fixup Routine'}='2014-01-26 15:46';
 $::operationshash{'Found no more orphaned /* */'}='2014-01-26 15:58';
+$::operationshash{'Check alpha/num'}='2014-01-26 19:25';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-01-26 14:22';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\Taxidermy without a teacher.txt'}='2014-01-26 18:12';
+$::operationshash{'Check ALL CAPS'}='2014-01-26 19:25';
 $::operationshash{'Found no more orphaned <>'}='2014-01-26 15:58';
+$::operationshash{'WF Check Ital/Bold/SC'}='2014-01-26 19:32';
+$::operationshash{'Check emdashes'}='2014-01-26 18:25';
 $::operationshash{'Found no more orphaned ()'}='2014-01-26 15:58';
 $::operationshash{'Found no more orphaned /# #/'}='2014-01-26 15:58';
+$::operationshash{'Check , Upper'}='2014-01-26 19:27';
 $::operationshash{'Found no more orphaned []'}='2014-01-26 15:58';
 $::operationshash{'Stealth Scannos'}='2014-01-26 11:12';
+$::operationshash{'Word Frequency'}='2014-01-26 18:17';
 $::operationshash{'Found no more orphaned {}'}='2014-01-26 15:58';
+$::operationshash{'Check Accents'}='2014-01-26 19:26';
+$::operationshash{'Check MiXeD CasE'}='2014-01-26 19:26';
+$::operationshash{'Check words with possible ligatures'}='2014-01-26 19:33';
 $::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
+$::operationshash{'Check . lower'}='2014-01-26 19:31';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-26 15:46';
 
-$::bookmarks[0] = '1838.0';
+$::bookmarks[0] = '665.47';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\pngs\\';
 
