@@ -1,5 +1,4 @@
 
-[Blank Page]
 /f
 PRACTICAL HELPS IN NATURAL HISTORY
 
@@ -77,8 +76,6 @@ IS RESPECTFULLY DEDICATED
 
 BY THE AUTHOR.
 f/
-
-[Blank Page]
 
 
 
@@ -400,6 +397,7 @@ the beak, anus, and shot holes, if you have not
 previously done so,[A] with cotton, and we are
 ready to begin
 
+[Footnote A: See Hunting and Hygiene.]
 
 SKINNING.
 
@@ -423,9 +421,6 @@ the feathers do not get into the cut and thus
 become soiled. Keep stroking them away, right
 and left, and place a little fluff of cotton, tissue
 paper, or white pine sawdust, under them. After
-
-[Footnote A: See Hunting and Hygiene.]
-
 skinning away, you will come to a hard substance;
 this is the thigh. Skin carefully around
 this until you come to the under side, when you
@@ -555,7 +550,7 @@ of whitish bodies. These are often so minute as
 to defy the naked eye, and the inquirer is obliged
 to employ the microscope to make the distinction.
 The sign recognized by ornithologists all over
-the world is [**P1:male symbol here] for males, and [**P1:female symbol here] for females;
+the world is [male symbol] for males, and [female symbol] for females;
 to which is added for young birds the Latin
 <i>juvenis</i> or <i>juv.</i> or O, meaning young, and <i>Nupt.</i>
 for birds in nuptial or breeding plumage.
@@ -876,7 +871,7 @@ Instead of three, you must now have five
 wires. Sharpen and sand-paper, as the former,
 and make a nucleus for body. The shape
 of an animal, with the neck severed from the
-skull, is like the italic <i>f</i> laid on its side (<i>f</i>[**F1: [Illustration]?]).
+skull, is like the italic <i>f</i> laid on its side ([sideways italic f]).
 This is made by winding the tow on the nucleus,
 the same as with birds, and drawing the
 string tight at different points to give it the required
@@ -1546,7 +1541,7 @@ CENTS.</i>
 #/
 
 /*[12]
-<i>Lenox Library, New York</i>, Aug. 19,1881.
+<i>Lenox Library, New York</i>, Aug. 19, 1881.
 */
 
 <sc>Dear Mr. Bigelow</sc>,--I sent for your "Punctuation and other
@@ -1718,7 +1713,7 @@ By <sc>Horace Grant</sc>, author of "Arithmetic for Young Children."
 Edited by <sc>Willard Small</sc>.
 
 <b>Hints on Language</b> in connection with Sight-Reading and Writing in
-Primary and Intermediate Schools. By <sc>S. Arthur Bent</sc>, A. M., Superintendent
+Primary and Intermediate Schools. By <sc>S. Arthur Bent</sc>, A.M., Superintendent
 of Public Schools, Clinton, Mass.
 
 <b>The Hunter's Handbook.</b> Containing lists of provisions and camp
@@ -1738,7 +1733,7 @@ By <sc>R. Soule</sc> and <sc>L. J. Campbell</sc>.
 Higginson</sc>.
 
 <b>The Stars and the Earth</b>; or, Thoughts upon Space, Time, and Eternity.
-With an introduction by <sc>Thomas Hill</sc>, D. D., LL. D.
+With an introduction by <sc>Thomas Hill</sc>, D.D., LL.D.
 
 <b>Handbook of the Earth.</b> Natural Methods in Geography. By <sc>Louisa
 Parsons Hopkins</sc>, teacher of Normal Methods in the Swain Free School,
@@ -1754,7 +1749,7 @@ Professor <sc>A. E. Dolbear</sc>.
 <b>Lessons on Manners.</b> By <sc>Edith E. Wiggin</sc>.
 
 <b>Water Analysis.</b> A Handbook for Water-Drinkers. By <sc>G. L. Austin</sc>,
-M. D.
+M.D.
 
 <b>Handbook of Light Gymnastics.</b> By <sc>Lucy B. Hunt</sc>, instructor in
 gymnastics at Smith (female) College, Northampton, Mass.
@@ -1805,7 +1800,7 @@ By <sc>Louise Parsons Hopkins</sc>, Supervisor in Boston Public Schools.
 <b>The Nation in a Nutshell.</b> A Rapid Outline of American History.
 By <sc>George Makepeace Towle</sc>.
 
-<b>English Synonymes Discriminated.</b> By <sc>Richard Whately</sc>, D. D.,
+<b>English Synonymes Discriminated.</b> By <sc>Richard Whately</sc>, D.D.,
 Archbishop of Dublin. A new edition.
 
 <b>Hints on Writing and Speech-making.</b> By <sc>Thomas Wentworth
@@ -1875,7 +1870,7 @@ how easily defects in speech may be cured.
 
 "With or without an instructor, this Manual is just what the student
 is in great need of, and he can supply that need by a study of 'Elocution
-Simplified.'"--<i>The Dartmouth, Hanover, N. H.</i>
+Simplified.'"--<i>The Dartmouth, Hanover, N.H.</i>
 
 
 <i>Sold by all Booksellers, or sent by mail, prepaid, on receipt
