@@ -412,7 +412,7 @@ $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a tea
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
 $::operationshash{'Found no more orphaned <>'}='2014-01-26 14:33';
 
-$::bookmarks[0] = '582.14';
+$::bookmarks[0] = '187.42';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\pngs\\';
 

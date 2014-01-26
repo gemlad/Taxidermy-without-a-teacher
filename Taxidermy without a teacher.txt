@@ -1602,7 +1602,7 @@ Punctuation and Other Typographical Matters.
 /#[4.2]
 <i>For the use of Printers, Authors, Teachers, and Scholars.
 By MARSHALL T. BIGELOW, Corrector at the University
-Press, Cambridge. Small 4to.  CLOTH, 50
+Press, Cambridge. Small 4to. CLOTH, 50
 CENTS.</i>
 #/
 
