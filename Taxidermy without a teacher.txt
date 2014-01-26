@@ -5,20 +5,17 @@ Text enclosed by underscores is in italics (_italics_).
 
 Text enclosed by equal signs is in bold (=bold=).
 
-Corrections/alterations from the original can be found at the end of
+Corrections and alterations from the original can be found at the end of
 the book.
 
 
 
 
-/f
                   PRACTICAL HELPS IN NATURAL HISTORY
 
                           BY THE SAME AUTHOR
-f/
 
 
-/f
                                 INSECTS
          HOW TO CATCH AND HOW TO PREPARE THEM FOR THE CABINET
                     Illustrated      Price 50 Cents
@@ -35,12 +32,10 @@ f/
 
 
                    LEE AND SHEPARD PUBLISHERS BOSTON
-f/
 
 
 
 
-/f
                       TAXIDERMY WITHOUT A TEACHER
                               COMPRISING
                    A COMPLETE MANUAL OF INSTRUCTION
@@ -61,22 +56,18 @@ f/
                                 BOSTON
                       LEE AND SHEPARD PUBLISHERS
                     NEW YORK CHARLES T. DILLINGHAM
-f/
 
 
 
 
-/f
                            Copyright, 1882,
                           BY LEE AND SHEPARD.
 
                         _All Rights Reserved._
-f/
 
 
 
 
-/f
                                   TO
 
                     PROFESSOR J. W. P. JENKS, A.M.,
@@ -87,7 +78,6 @@ f/
                        IS RESPECTFULLY DEDICATED
 
                             BY THE AUTHOR.
-f/
 
 
 
@@ -95,7 +85,6 @@ f/
 CONTENTS.
 
 
-/X
 CHAP.                                                               PAGE
 
   I. BIRD SKINNING AND MOUNTING                                       13
@@ -111,11 +100,9 @@ III. SKINNING AND MOUNTING MAMMALS                                    37
  VI. SKELETONS                                                        49
 
 VII. HUNTING AND HYGIENE                                              51
-X/
 
 [Illustration: Fig. 1.
 
-/*
   A--Primary Quills.
   B--Secondary Quills.
   C--Spurious Wing.
@@ -136,7 +123,6 @@ X/
   R--Shows position of Under Tail Coverts.
   S--Abdomen.
   T--Tarsus.
-*/
 ]
 
 
@@ -194,9 +180,7 @@ knowledge of drawing will also be found of service."
 FROM THE FIRST EDITION.
 
 
-/*
                                     BROWN UNIVERSITY, Providence, R. I.
-*/
 
 MR. MANTON,--Having perused your MS. "TAXIDERMY WITHOUT A TEACHER,"
 I feel free to say, that its suggestions are eminently practical,
@@ -211,10 +195,8 @@ truth for fiction, and leading the mind to the contemplation of Him
 whose devising wisdom and sagacity are manifested in all His works.
 Commending highly your effort, I am yours,
 
-/*
                           With great respect,
                                                         J. W. P. JENKS.
-*/
 
 
 
@@ -286,24 +268,20 @@ into the fire with much disgust.
 
 I.
 
-/*
   Pulverized Alum.
   Common Salt. Equal parts.
          Mix.
   Label: Salt and Alum.
-*/
 
 The best and only _safe_ preparation is:--
 
 
 II.
 
-/*
   Arsenic.
   Pulverized Alum. Equal parts.
          Mix.
   Label: POISON!!
-*/
 
 The arsenic is to poison, and the alum to act as an astringent,
 especially in setting the feathers and fur of skins partially
@@ -358,7 +336,7 @@ or starch from the feathers. Now fill the beak, anus, and shot holes,
 if you have not previously done so,[A] with cotton, and we are ready
 to begin
 
-[Footnote A: See Hunting and Hygiene.]
+[A] See Hunting and Hygiene.
 
 SKINNING.
 
@@ -876,12 +854,10 @@ cotton in the nest, which must be packed closely, but without pressure.
 
 GUM PASTE.
 
-/*
   Gum Arabic, 4 ounces.
   Corrosive Sublimate, 2 grains.
   White Sugar Candy, 2 ounces.
         _Mix._
-*/
 
 Melt, and label "Gum Paste, for closing the holes drilled in eggs,"
 etc.
@@ -1084,7 +1060,6 @@ publishers."
 
                        "THE BOOK IS ADMIRABLE."
 
-/*
                                HANDBOOK
                                   OF
                            LIGHT GYMNASTICS.
@@ -1094,7 +1069,6 @@ publishers."
 Instructor in Gymnastics at Smith (Female) College, Northampton, Mass.
 
                       Illustrated. Cloth, 50 cts.
-*/
 
 "This manual is admirably adapted for the use of teachers and pupils
 in public and private schools, and in seminaries and colleges, as well
@@ -1138,7 +1112,6 @@ colleges; and also for use at home."--_Jennie June._
 
                  _THE FIRST TEACHER FOR LITTLE FOLKS._
 
-/*
                                EXERCISES
                    FOR THE IMPROVEMENT OF THE SENSES
                           FOR YOUNG CHILDREN.
@@ -1149,7 +1122,6 @@ colleges; and also for use at home."--_Jennie June._
                        Edited by Willard Small.
 
                         Cloth. Price, 50 cents.
-*/
 
 
 For the purpose of producing instruction and amusement for young
@@ -1174,11 +1146,9 @@ petty events may gradually be extended to the most important subjects.
 Being a series of Exercises exemplifying the manner in which Arithmetic
                   should be taught to young children
 
-/*
                            By HORACE GRANT.
               American Edition, Edited by WILLARD SMALL.
                             Price 50 cents.
-*/
 
 "Consists of a series of exercises illustrative of the manner in which
 the first steps in numbers should be taught to young children. We
@@ -1203,7 +1173,6 @@ in theory and apt for practice."--_N. E. Journal of Education._
 
                         THE DEBATER'S HANDBOOK.
 
-/#[4.2]
   including a Debate on the Character of Julius Cæsar, adapted
     for J. SHERIDAN KNOWLES, author of "The Hunchback," "William
     Tell," and other famous plays, designed for practical Exercises
@@ -1211,7 +1180,6 @@ in theory and apt for practice."--_N. E. Journal of Education._
     Classes in Public and Private Schools, with directions for
     forming and conducting debating clubs and societies, rules of
     debate, list of subjects and references, etc.
-#/
 
 Cloth, 50 cents. Boards, 50 cents. Paper, 30 cents.
 
@@ -1227,11 +1195,9 @@ exercise_ in declamation."
 _"The author well deserved the statue which stands in front of the
 Massachusetts State House."_
 
-/*
                     A FEW THOUGHTS FOR A YOUNG MAN.
                             By HORACE MANN.
                            Cloth, 50 cents.
-*/
 
 In 1849, Horace Mann, one of the most skilful and sympathetic educators
 known to this country, delivered a lecture before the Mercantile
@@ -1254,15 +1220,11 @@ State House.--_Newark Advertiser._
              Punctuation and Other Typographical Matters.
 
 
-/#[4.2]
   _For the use of Printers, Authors, Teachers, and Scholars.
     By MARSHALL T. BIGELOW, Corrector at the University Press,
     Cambridge. Small 4to. CLOTH, 50 CENTS._
-#/
 
-/*
                               _Lenox Library, New York_, Aug. 19, 1881.
-*/
 
 DEAR MR. BIGELOW,--I sent for your "Punctuation and other Typographical
 Matters" (having long groaned over bad pointing in authors and
@@ -1270,10 +1232,8 @@ printers), and was glad to find an excellent manual which will
 contribute to the comfort of many. I cordially recommend it to all
 authors, printers, and men of letters.
 
-/*
                            Faithfully yours,
   _Allibone's Dictionary of Authors._               I. AUSTIN ALLIBONE.
-*/
 
 "Mr. Bigelow's book is a practical treatment of the subject, and
 enlarges the reading public's obligations to him."--_Atlantic Monthly._
@@ -1286,11 +1246,9 @@ Union._
 
           Mistakes in Writing English, and How to Avoid Them.
 
-/#[4.2]
   _For the Use of all who Teach, Write, or Speak the Language.
     By MARSHALL T. BIGELOW, author of "Punctuation and other
     Typographical Matters." CLOTH, 50 CENTS._
-#/
 
 "This is an admirable little work; the more admirable for the use
 of busy people, because it is little, since it is also clear and
@@ -1315,7 +1273,6 @@ writing."--_Gospel Banner._
 
                   THE RIGHT WORD IN THE RIGHT PLACE.
 
-/*
                               CAMPBELL'S
                      HANDBOOK OF ENGLISH SYNONYMS
                            WITH AN APPENDIX,
@@ -1323,7 +1280,6 @@ writing."--_Gospel Banner._
                    THE CORRECT USES OF PREPOSITIONS.
 
                 160 pages. Neat cloth binding, 50 cts.
-*/
 
 This compact little volume contains about 40,000 synonymous words,
 printed in clear, distinct type.
@@ -1352,7 +1308,6 @@ LEE AND SHEPARD'S POPULAR HANDBOOKS
 
 Price, each, in cloth, 50 cents, except when other price is given.
 
-/#[4.2]
   =Forgotten Meanings=; or an Hour with a Dictionary. By ALFRED
     WAITES, author of Historical Student's Manual.
 
@@ -1413,7 +1368,6 @@ Price, each, in cloth, 50 cents, except when other price is given.
   =Mistakes in Writing English, and How to Avoid Them.= For the use
     of all who Teach, Write, or Speak the language. By MARSHALL T.
     BIGELOW.
-#/
 
 
 _Sold by all booksellers, and sent by mail, postpaid, on receipt of
@@ -1429,7 +1383,6 @@ LEE AND SHEPARD'S POPULAR HANDBOOKS
 
 _Price, each, in cloth, 50 cents, except when other price is given._
 
-/#[4.2]
   =Exercises for the Improvement of the Senses.= For Young
     Children. By HORACE GRANT, author of "Arithmetic for Young
     Children." Edited by WILLARD SMALL.
@@ -1478,7 +1431,6 @@ _Price, each, in cloth, 50 cents, except when other price is given._
 
   =The Parlor Gardener.= A Treatise on the House-Culture of
     Ornamental Plants. By CORNELIA J. RANDOLPH. With illustrations.
-#/
 
 
 _Sold by all booksellers, and sent by mail, postpaid, on receipt of
@@ -1494,7 +1446,6 @@ LEE AND SHEPARD'S POPULAR HANDBOOKS
 
 Price, each, in cloth, 50 cents, except when other price is given.
 
-/#[4.2]
   =Warrington's Manual.= A Manual for the Information of Officers
     and Members of Legislatures, Conventions, Societies, etc., in
     the practical governing and membership of all such bodies,
@@ -1542,7 +1493,6 @@ Price, each, in cloth, 50 cents, except when other price is given.
   =Handbook of Debate.= The Character of Julius Cæsar. Adapted from
     J. SHERIDAN KNOWLES. Arranged for Practice in Speaking, for
     Debating Clubs, and Classes in Public and Private Schools.
-#/
 
 
 _Sold by all booksellers, and sent by mail, postpaid, on receipt of
@@ -1556,7 +1506,6 @@ price._
                    THE FOBES ELOCUTIONARY HANDBOOKS.
 
 
-/*
                        FIVE-MINUTE DECLAMATIONS
                         FOR SCHOOL AND COLLEGE
                            CLOTH, 50 CENTS.
@@ -1567,7 +1516,6 @@ price._
 
                          FIVE-MINUTE READINGS
                            CLOTH, 50 CENTS.
-*/
 
 Pupils in public schools on declamation days are limited to five
 minutes each for the delivery of "pieces." There is a great complaint
@@ -1577,11 +1525,9 @@ To obviate these difficulties, these books have been prepared by a
 competent teacher.
 
 
-/*
                          ELOCUTION SIMPLIFIED
                With an Introduction by George M. Baker.
                            CLOTH, 50 CENTS.
-*/
 
 "The Manual is divided into four parts. Part First describes a series
 of gymnastics to give strength and elasticity to the muscles used
@@ -1609,7 +1555,6 @@ Transcriber's note:
 
 The following alterations have been made:
 
-/#[4.2]
   p.29: Original has 'oe' ligature in "Post nubila Phoebus"
   p.44: Erroneous full-stop removed. Original read: Snakes, frogs,
     etc.. may be opened
@@ -1619,4 +1564,3 @@ The following alterations have been made:
     similiar suggestions
   p.[57]: Corrected comma to full-stop. Original read: two together
     in a small volume, The last-named paper
-#/
