@@ -7,9 +7,12 @@ Transcriber's note:
 	  
 Transcriber's note:
 
-      The following errors have been corrected:
-
-	  
+      The following alterations have been made:
+	  p.29: Original has 'oe' ligature in "Post nubila Phoebus"
+	  p.44: Erroneous full-stop removed. Original read: Snakes, frogs, etc.. may be opened
+      p.[57]: Quotation mark added. Original read: "Oldport Days," Army Life in a Black Regiment,"
+	  p.[57]: Corrected word 'similar'. Original read: Now that similiar suggestions
+	  p.[57]: Corrected comma to full-stop. Original read: two together in a small volume, The last-named paper
 	  
 
 	21	[**line appears to be italics, but probably just distortion/F1]

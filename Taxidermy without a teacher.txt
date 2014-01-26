@@ -1,3 +1,14 @@
+Transcriber's note:
+
+
+Text enclosed by underscores is in italics (_italics_).
+
+Text enclosed by equal signs is in bold (=bold=).
+
+Corrections/alterations from the original can be found at the end of the book.
+
+
+
 
 /f
 PRACTICAL HELPS IN NATURAL HISTORY
@@ -1879,3 +1890,21 @@ of price.</i>
 /*
 <i>LEE AND SHEPARD, Publishers</i>      <i>Boston.</i>
 */
+
+
+
+
+Transcriber's note:
+
+
+The following alterations have been made:
+
+p.29: Original has 'oe' ligature in "Post nubila Phoebus"
+
+p.44: Erroneous full-stop removed. Original read: Snakes, frogs, etc.. may be opened
+
+p.[57]: Quotation mark added. Original read: "Oldport Days," Army Life in a Black Regiment,"
+
+p.[57]: Corrected word 'similar'. Original read: Now that similiar suggestions
+
+p.[57]: Corrected comma to full-stop. Original read: two together in a small volume, The last-named paper
