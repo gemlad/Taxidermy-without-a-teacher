@@ -1,283 +1,42 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <title>
-      The Project Gutenberg eBook of Taxidermy Without a Teacher, by Walter P. Manton.
-    </title>
-    <style type="text/css">
-
-body {
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
-    h1,h2,h3,h4,h5,h6 {
-    text-align: center; /* all headings centered */
-    clear: both;
-}
-
-p {
-    margin-top: .51em;
-    text-align: left;
-    margin-bottom: .49em;
-}
-
-.p2       {margin-top: 2em;}
-.p4       {margin-top: 4em;}
-.p6       {margin-top: 6em;}
-
-a:focus, a:active { outline:#ffee66 solid 2px; background-color:#ffee66;}
-a:focus img, a:active img {outline: #ffee66 solid 2px; }
-
-/* use to find LOTE phrases not marked * > *[lang] { background-color:wheat; } */
-
-hr {
-    width: 33%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: auto;
-    margin-right: auto;
-    clear: both;
-}
-
-hr.tb   {width: 45%;}
-hr.chap {width: 65%}
-hr.full {width: 95%;}
-
-hr.r5  {width: 5%; margin-top: 1em; margin-bottom: 1em;}
-hr.r65 {width: 65%; margin-top: 3em; margin-bottom: 3em;}
-
-ul.index { list-style-type: none; }
-li.ifrst { margin-top: 1em; }
-li.indx { margin-top: .5em; }
-li.isub1 {text-indent: 1em;}
-li.isub2 {text-indent: 2em;}
-li.isub3 {text-indent: 3em;}
-
-table {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-    .tdl      {text-align: left;}
-    .tdr      {text-align: right;}
-    .tdc      {text-align: center;}
-
-.pagenum { /* uncomment the next line for invisible page numbers */
-    /*  visibility: hidden;  */
-    position: absolute;
-    left: 92%;
-    font-size: smaller;
-    text-align: right;
-} /* page numbers */
-
-.linenum {
-    position: absolute;
-    top: auto;
-    left: 4%;
-} /* poetry number */
-
-.blockquot {
-    margin-left: 5%;
-    margin-right: 10%;
-}
-
-.sidenote {
-    width: 20%;
-    padding-bottom: .5em;
-    padding-top: .5em;
-    padding-left: .5em;
-    padding-right: .5em;
-    margin-left: 1em;
-    float: right;
-    clear: right;
-    margin-top: 1em;
-    font-size: smaller;
-    color: black;
-    background: #eeeeee;
-    border: dashed 1px;
-}
-
-.bb       {border-bottom: solid 2px;}
-
-.bl       {border-left: solid 2px;}
-
-.bt       {border-top: solid 2px;}
-
-.br       {border-right: solid 2px;}
-
-.bbox     {border: solid 2px;}
-
-.center   {text-align: center;}
-
-.right   {text-align: right;}
-
-.smcap    {font-variant: small-caps;}
-
-.u        {text-decoration: underline;}
-
-p.cap 	{
-	text-indent: 0%;
-	}
-
-p.cap:first-letter { float: left; clear: left;
-    margin: 0 0.1em 0 0;
-    padding:0;
-    line-height: 1.2em; font-size: 250%; }
+Transcriber's note:
 
 
-.gesperrt
-{
-    letter-spacing: 0.2em;
-    margin-right: -0.2em;
-}
-
-em.gesperrt
-{
-    font-style: normal;
-}
-
-.caption  {font-weight: bold;}
-
-/* Images */
-.figcenter   {
-    margin: auto;
-    text-align: center;
-}
-
-.figleft {
-    float: left;
-    clear: left;
-    margin-left: 0;
-    margin-bottom: 1em;
-    margin-top: 1em;
-    margin-right: 1em;
-    padding: 0;
-    text-align: center;
-}
-
-.figright {
-    float: right;
-    clear: right;
-    margin-left: 1em;
-    margin-bottom:
-    1em;
-    margin-top: 1em;
-    margin-right: 0;
-    padding: 0;
-    text-align: center;
-
-/* Footnotes */
-.footnotes {
-	border: dashed 1px gray;	/* comment out if not wanted */
-	/*background-color: #EEE;		comment out if not wanted */
-	margin-top:1em;
-	clear:both;
-}
-
-.footnotes ol { margin-left:0; margin-right:0;
-        padding:0;
-        width:100%;
-        list-style-type:none; }
-
-.footnotes h3 { /* affects header FOOTNOTES: */
-	text-align:left;
-	margin-top: 0.5em;
-	font-weight:normal;
-	font-size:90%; /* basically make h3 into h4... */
-}
-
-.footnote {
-   	margin-left: 10%;
-	margin-right: 10%;
-	width:80%;
-        margin-bottom:0.75em;
-        font-size: 0.9em;
-        position:relative;
-}
-
-
-.footnote .label { /* style the [nn] label left of footnote */
-	position: absolute;
-        left:-3em; top:0;
-        text-align: left;
-}
-
-.footnote a { /* take underline off the footnote label link */
-	text-decoration:none;
-}
-
-.fnanchor { /* style the [nn] reference in the body text */
-    text-decoration: none;	/* no underscore, blue color is enough */
-    background-color: #DDD;  /* optional: a pale gray background */
-	vertical-align:baseline;
-        position:relative;
-	bottom:0.4em;
-        font-size: .8em;
-}
-
-/* Poetry */
-.poem {
-    margin-left:10%;
-    margin-right:10%;
-    text-align: left;
-}
-
-.poem br {display: none;}
-
-.poem .stanza {margin: 1em 0em 1em 0em;}
-
-/* Transcriber's notes */
-.transnote {background-color: #E6E6FA;
-    color: black;
-     font-size:smaller;
-     padding:0.5em;
-     margin-bottom:5em;
-     font-family:sans-serif, serif; }
-    </style>
-  </head>
-<body>
-<hr class="chap" />
-
-<hr class="chap" /><h1>Transcriber's note:</h1>
-
-
-<p>Corrections/alterations from the original can be found at the end of the book.</p>
+Corrections/alterations from the original can be found at the end of the book.
 
 
 
 
-<p class="center">PRACTICAL HELPS IN NATURAL HISTORY</p>
+/f
+PRACTICAL HELPS IN NATURAL HISTORY
 
-<p class="center">BY THE SAME AUTHOR
-</p>
+BY THE SAME AUTHOR
+f/
 
 
-<p class="center">INSECTS
+/f
+INSECTS
 HOW TO CATCH AND HOW TO PREPARE THEM FOR THE CABINET
-Illustrated      Price 50 Cents</p>
+Illustrated      Price 50 Cents
 
-<p class="center">FIELD BOTANY
+FIELD BOTANY
 A HANDBOOK FOR THE COLLECTOR
-Illustrated      Price 50 Cents</p>
+Illustrated      Price 50 Cents
 
-<p class="center"><span class="smcap">Taxidermy Without a Teacher</span>
+<sc>Taxidermy Without a Teacher</sc>
 COMPRISING
 A complete Manual of Instruction for Preparing and Preserving
 BIRDS, ANIMALS AND FISHES
-Illustrated      Price 50 Cents</p>
+Illustrated      Price 50 Cents
 
 
-<p class="center"><span class="smcap">Lee and Shepard Publishers Boston</span>
-</p>
+<sc>Lee and Shepard Publishers Boston</sc>
+f/
 
 
 
 
-<p class="center">TAXIDERMY WITHOUT A TEACHER
+/f
+TAXIDERMY WITHOUT A TEACHER
 COMPRISING
 A COMPLETE MANUAL OF INSTRUCTION
 FOR PREPARING AND PRESERVING
@@ -285,82 +44,53 @@ BIRDS, ANIMALS AND FISHES
 WITH
 A CHAPTER ON HUNTING AND HYGIENE; INSTRUCTIONS
 FOR PRESERVING EGGS AND MAKING SKELETONS
-AND A NUMBER OF VALUABLE RECEIPTS</p>
+AND A NUMBER OF VALUABLE RECEIPTS
 
-<p class="center">BY
-WALTER P. MANTON</p>
+BY
+WALTER P. MANTON
 
-<p class="center">Illustrated</p>
+Illustrated
 
-<p class="center">SECOND EDITION, REVISED AND ENLARGED</p>
+SECOND EDITION, REVISED AND ENLARGED
 
-<p class="center">BOSTON
+BOSTON
 LEE AND SHEPARD PUBLISHERS
 NEW YORK CHARLES T. DILLINGHAM
-</p>
+f/
 
 
 
 
-<p class="center">Copyright, 1882,
-<span class="smcap">By Lee and Shepard</span>.</p>
+/f
+Copyright, 1882,
+<sc>By Lee and Shepard</sc>.
 
-<p class="center"><i>All Rights Reserved.</i>
-</p>
-
-
-
-
-<p class="center">TO</p>
-
-<p class="center">PROFESSOR J. W. P. JENKS, A.M.,
-OF BROWN UNIVERSITY,</p>
-
-<p class="center">This Second Edition</p>
-
-<p class="center">IS RESPECTFULLY DEDICATED</p>
-
-<p class="center">BY THE AUTHOR.
-</p>
+<i>All Rights Reserved.</i>
+f/
 
 
 
 
-<h2><a name="CONTENTS" id="CONTENTS">CONTENTS.</a></h2>
+/f
+TO
 
-<p>
+PROFESSOR J. W. P. JENKS, A.M.,
+OF BROWN UNIVERSITY,
 
-<!-- Autogenerated TOC. Modify or delete as required. -->
+This Second Edition
 
-<a href="#CONTENTS">CONTENTS.</a><br />
-<a href="#PREFACE">PREFACE.</a><br />
-<a href="#FROM_THE_FIRST_EDITION">FROM THE FIRST EDITION.</a><br />
-<a href="#HANDBOOK_OF_TAXIDERMY">HANDBOOK OF TAXIDERMY.</a><br />
-<a href="#CHAPTER_I">CHAPTER I.</a><br />
-<a href="#CHAPTER_II">CHAPTER II.</a><br />
-<a href="#CHAPTER_III">CHAPTER III.</a><br />
-<a href="#CHAPTER_IV">CHAPTER IV.</a><br />
-<a href="#CHAPTER_V">CHAPTER V.</a><br />
-<a href="#CHAPTER_VI">CHAPTER VI.</a><br />
-<a href="#CHAPTER_VII">CHAPTER VII.</a><br />
-<a href="#HINTS_ON">HINTS ON</a><br />
-<a href="#THE_BOOK_IS_ADMIRABLE">"THE BOOK IS ADMIRABLE."</a><br />
-<a href="#THE_FIRST_TEACHER_FOR_LITTLE_FOLKS"><i>THE FIRST TEACHER FOR LITTLE FOLKS.</i></a><br />
-<a href="#THE_CELEBRATED_JULIUS_CAESAR_DEBATE"><i>THE CELEBRATED JULIUS CÆSAR DEBATE.</i></a><br />
-<a href="#Handbook_of_Punctuation">Handbook of Punctuation.</a><br />
-<a href="#THE_RIGHT_WORD_IN_THE_RIGHT_PLACE">THE RIGHT WORD IN THE RIGHT PLACE.</a><br />
-<a href="#LEE_AND_SHEPARDS_POPULAR_HANDBOOKS"><span class="smcap">LEE AND SHEPARD'S POPULAR HANDBOOKS</span></a><br />
-<a href="#Lee_and_Shepards_Popular_Handbooks"><span class="smcap">Lee and Shepard's Popular Handbooks</span></a><br />
-<a href="#Lee_and_Shepards_Popular_Handbooks"><span class="smcap">Lee and Shepard's Popular Handbooks</span></a><br />
-<a href="#THE_FOBES_ELOCUTIONARY_HANDBOOKS">THE FOBES ELOCUTIONARY HANDBOOKS.</a><br />
-<a href="#Transcribers_note">Transcriber's note:</a><br />
+IS RESPECTFULLY DEDICATED
 
-<!-- End Autogenerated TOC. -->
-
-</p>
+BY THE AUTHOR.
+f/
 
 
-<pre>
+
+
+CONTENTS.
+
+
+/X
 CHAP.                                             PAGE
 
   I. BIRD SKINNING AND MOUNTING                     13
@@ -376,57 +106,53 @@ III. SKINNING AND MOUNTING MAMMALS                  37
  VI. SKELETONS                                      49
 
 VII. HUNTING AND HYGIENE                            51
-</pre>
+X/
 
 <div class="figcenter" style="width: 400px;">
 <img src="images/fig1thumb.png" width="400" height="354" alt="A line drawing of a bird with wings outstretched" title="Fig. 1" />
-<div class="caption">
+<div class="caption"><p>Fig. 1.
 
-<p>Fig. 1.
-
-
-A&mdash;Primary Quills.<br />
-B&mdash;Secondary Quills.<br />
-C&mdash;Spurious Wing.<br />
-D&mdash;Wing Coverts.<br />
-E&mdash;Tertiary Quills.<br />
-F&mdash;Throat.<br />
-G&mdash;Jugulum.<br />
-H&mdash;Beak&mdash;Upper and Lower Mandible.<br />
-I&mdash;Culmen of Upper Mandible.<br />
-J&mdash;Cere.<br />
-K&mdash;Commissure.<br />
-L&mdash;Frons, or Forehead.<br />
-M&mdash;Occipital Feathers.<br />
-N&mdash;Scapular Feathers.<br />
-O&mdash;Back.<br />
-P&mdash;Upper Tail Coverts.<br />
-Q&mdash;Rump.<br />
-R&mdash;Shows position of Under Tail Coverts.<br />
-S&mdash;Abdomen.<br />
-T&mdash;Tarsus.<br />
-</p>
+/*
+A--Primary Quills.
+B--Secondary Quills.
+C--Spurious Wing.
+D--Wing Coverts.
+E--Tertiary Quills.
+F--Throat.
+G--Jugulum.
+H--Beak--Upper and Lower Mandible.
+I--Culmen of Upper Mandible.
+J--Cere.
+K--Commissure.
+L--Frons, or Forehead.
+M--Occipital Feathers.
+N--Scapular Feathers.
+O--Back.
+P--Upper Tail Coverts.
+Q--Rump.
+R--Shows position of Under Tail Coverts.
+S--Abdomen.
+T--Tarsus.
+*/
 </p></div>
-</div>
-
-<p>
+</div><p>
 
 
 
-<hr class="chap" />
-<h2><a name="PREFACE" id="PREFACE">PREFACE.</a></h2>
+
+PREFACE.
 
 
-<p>The success of this little book during the past
+The success of this little book during the past
 six years necessitates a second edition. As a
 manual it is not intended to compete with the
 larger handbooks on the subject; but the attempt
 has been made to furnish the beginner
 with reliable instruction for the least money possible.
 The present edition has been thoroughly
-revised, and many additions made.</p>
+revised, and many additions made.
 
-<p>As was said in the first edition: "I have employed
+As was said in the first edition: "I have employed
 the method given for a number of years,
 and with great success, and guarantee success to
 the learner who fully carries out the directions
@@ -434,12 +160,12 @@ embodied herein. I ask the reader to take himself,
 in imagination, to my work-shop, and to
 proceed as if I were at his elbow, guiding his
 hand, and explaining to him the mysteries of this
-beautiful art. It is only continuous, untiring la<span class="pagenum"><a name="Page_10" id="Page_10">[Pg 10]</a></span>bor
+beautiful art. It is only continuous, untiring labor
 that accomplishes anything of real merit in
 this life; and the most successful ornithologists
-will be found to be the hardest workers.</p>
+will be found to be the hardest workers.
 
-<p>"Therefore I would caution the beginner against
+"Therefore I would caution the beginner against
 all impatience and disappointment at unsuccessful
 attempts, and urge him to press forward, continually
 striving to improve upon past failures,
@@ -448,9 +174,9 @@ which at first appeared difficult and awkward,
 will become comparatively simple and easy.
 Said an old teacher to me: 'I can tell you how
 all these things are <i>done</i>, but I cannot enable you
-to do them; practice alone will accomplish that.'</p>
+to do them; practice alone will accomplish that.'
 
-<p>"A person with a light and delicate touch will
+"A person with a light and delicate touch will
 be most successful in this art; therefore I recommend
 it to the special attention of ladies. It is
 a continual source of pleasure, and promotive to
@@ -460,7 +186,7 @@ seen those of coarse and vulgar minds and clumsy
 fingers, eminently successful; but what is more
 revolting to a delicate appreciation, than to see
 these bright creatures, so marvellously constructed
-by our all-wise Father, tortured into life-like at<span class="pagenum"><a name="Page_11" id="Page_11">[Pg 11]</a></span>titudes
+by our all-wise Father, tortured into life-like attitudes
 by one who acts merely as an automaton,
 and has no sympathy with his work otherwise
 than to gain a livelihood? It is only the refined
@@ -468,96 +194,92 @@ and the lover of nature who can thoroughly enjoy
 this art of reproduction. A close observer of
 nature, in two short hours spent in the fields
 and woods, will see and learn more than the unobserving
-and careless person in as many years.</p>
+and careless person in as many years.
 
-<p>"A careful observation of the habits and attitudes
+"A careful observation of the habits and attitudes
 of the little songsters when free, will be of
 great assistance in mounting. A knowledge of
-drawing will also be found of service."</p>
+drawing will also be found of service."
 
 
 
 
-<h2><a name="FROM_THE_FIRST_EDITION" id="FROM_THE_FIRST_EDITION">FROM THE FIRST EDITION.</a></h2>
+FROM THE FIRST EDITION.
 
 
-<p>
-<span class="smcap">Brown University</span>, Providence, R. I.<br />
-</p>
+/*[8]
+<sc>Brown University</sc>, Providence, R. I.
+*/
 
-<p><span class="smcap">Mr. Manton</span>,&mdash;Having perused your MS.
-"<span class="smcap">Taxidermy Without a Teacher</span>," I feel free
+<sc>Mr. Manton</sc>,--Having perused your MS.
+"<sc>Taxidermy Without a Teacher</sc>," I feel free
 to say, that its suggestions are eminently practical,
 and cannot fail to render such aid to the
 beginner as he most needs, and indeed must have
 from some source, at the outset of his efforts to
 acquire the beautiful art of preserving and
-mounting specimens in Natural History.</p>
+mounting specimens in Natural History.
 
-<p>Whatever induces the young or old to turn
+Whatever induces the young or old to turn
 their attention to the study of nature, is a gain
 to society at large, as substituting truth for fiction,
 and leading the mind to the contemplation
 of Him whose devising wisdom and sagacity are
 manifested in all His works. Commending
-highly your effort, I am yours,</p>
+highly your effort, I am yours,
 
-<p>
-With great respect,<br />
-<span style="margin-left: 2em;"><span class="smcap">J. W. P. Jenks.</span></span><br />
-</p>
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_13" id="Page_13">[Pg 13]</a></span></p>
+/*[8]
+With great respect,
+    <sc>J. W. P. Jenks.</sc>
+*/
 
 
 
 
-<h2><a name="HANDBOOK_OF_TAXIDERMY" id="HANDBOOK_OF_TAXIDERMY">HANDBOOK OF TAXIDERMY.</a></h2>
+HANDBOOK OF TAXIDERMY.
 
 
 
-<hr class="chap" />
-<h2><a name="CHAPTER_I" id="CHAPTER_I">CHAPTER I.</a></h2>
 
-<p>BIRD SKINNING AND MOUNTING.</p>
+CHAPTER I.
+
+BIRD SKINNING AND MOUNTING.
 
 
-<p>Well, here we are at last. Please turn the
-key in that door&mdash;to keep all inquisitive priers
-out&mdash;for the process into which I am about to
+Well, here we are at last. Please turn the
+key in that door--to keep all inquisitive priers
+out--for the process into which I am about to
 initiate you is something of a secret, shrouded
-by the thin veil of mystery.</p>
+by the thin veil of mystery.
 
-<p>You have come to me to-day to learn something
+You have come to me to-day to learn something
 of the art of Taxidermy, so we will take up,
 for your first lesson, bird skinning and mounting.
-But first let us see what</p>
+But first let us see what
 
 
-<p>TOOLS</p>
+TOOLS
 
-<p>we shall need to accomplish our end: a pair of
-good sharp scissors&mdash;surgical scissors, with long
+we shall need to accomplish our end: a pair of
+good sharp scissors--surgical scissors, with long
 handles and short, stout blades are the best; a
-knife or scalpel; a pair of spring forceps; a com<span class="pagenum"><a name="Page_14" id="Page_14">[Pg 14]</a></span>mon
+knife or scalpel; a pair of spring forceps; a common
 knitting-needle; a rabbit's foot, which should
 be cut off at the knee, the nails cut out, and
-thoroughly cleansed and dried,&mdash;used for smoothing
+thoroughly cleansed and dried,--used for smoothing
 and dusting the feathers of birds after mounting;
 a fishing-hook, with stout cord attached,
 for suspending the bodies of birds that would
-otherwise be too large to handle conveniently.</p>
+otherwise be too large to handle conveniently.
 
-<p>On the whole, I would advise you to get at the
+On the whole, I would advise you to get at the
 start a common dissecting-case, which will contain
 all of the above, and besides being convenient,
-may save you much delay and vexation.</p>
+may save you much delay and vexation.
 
-<p>You will need a pair of stout wire cutters; a
+You will need a pair of stout wire cutters; a
 flat file; a pair of wire twisters or forceps; plenty
-of pins; thread and needles,&mdash;surgical or saddlers'
+of pins; thread and needles,--surgical or saddlers'
 needles, as they are called, are the best,
 as they cut instead of punching the skin; a brain
 scoop, made by twisting a bit of wire into a loop;
@@ -567,58 +289,54 @@ hand an assortment of annealed wire; glass eyes
 of various sizes and colors; tack nails; brads; a
 piece of putty; sealing and bees-wax; paints;
 glue; artificial leaves; mosses; everlasting flowers,
-etc., for ornamenting perches.</p>
+etc., for ornamenting perches.
 
-<p><span class="pagenum"><a name="Page_15" id="Page_15">[Pg 15]</a></span></p>
-
-<p>Now we come to the</p>
+Now we come to the
 
 
-<p>MATERIALS</p>
+MATERIALS
 
-<p>required for stuffing. Cotton, tow, soft hay and
+required for stuffing. Cotton, tow, soft hay and
 excelsior are the best, but anything soft will do,
 except feathers, hair, or in fact any animal substance,
 as they act merely as assistants to the
-taxidermist's great enemies&mdash;the bugs (Tineidæ
-and Dermestidæ).</p>
+taxidermist's great enemies--the bugs (Tineidæ
+and Dermestidæ).
 
 
-<p>POISON</p>
+POISON
 
-<p>is used to preserve the skins. But as everything
+is used to preserve the skins. But as everything
 of that description is dangerous for young and
 inexperienced persons to handle, I strongly recommend
 the following preparation, and guarantee
 it to preserve their first efforts until they
 become an eye-sore, and are finally thrown into
-the fire with much disgust.</p>
+the fire with much disgust.
 
 
-<p>I.</p>
+I.
 
-<p>
-Pulverized Alum.<br />
-Common Salt. Equal parts.<br />
-<span style="margin-left: 3.5em;">Mix.</span><br />
-Label: Salt and Alum.<br />
-</p>
+/*
+Pulverized Alum.
+Common Salt. Equal parts.
+       Mix.
+Label: Salt and Alum.
+*/
 
-<p><span class="pagenum"><a name="Page_16" id="Page_16">[Pg 16]</a></span></p>
-
-<p>The best and only <i>safe</i> preparation is:&mdash;</p>
+The best and only <i>safe</i> preparation is:--
 
 
-<p>II.</p>
+II.
 
-<p>
-Arsenic.<br />
-Pulverized Alum. Equal parts.<br />
-<span style="margin-left: 3.5em;">Mix.</span><br />
-Label: <span class="smcap">Poison</span>!!<br />
-</p>
+/*
+Arsenic.
+Pulverized Alum. Equal parts.
+       Mix.
+Label: <sc>Poison</sc>!!
+*/
 
-<p>The arsenic is to poison, and the alum to act
+The arsenic is to poison, and the alum to act
 as an astringent, especially in setting the feathers
 and fur of skins partially decayed. As arsenic is
 an irritant poison, great care should be taken
@@ -634,35 +352,33 @@ as they are both dangerous and disagreeable to
 handle. Use nothing but the above receipts, and
 you will succeed far better. Having all these
 materials and implements at hand, we are now
-prepared to go on with our work.</p>
-
-<p><span class="pagenum"><a name="Page_17" id="Page_17">[Pg 17]</a></span></p>
+prepared to go on with our work.
 
 
-<p>LABELLING.</p>
+LABELLING.
 
-<p>Let us take this Blue Jay for your first attempt.
+Let us take this Blue Jay for your first attempt.
 The first thing to be done is to measure
-and label it&mdash;and, by the way, never neglect
+and label it--and, by the way, never neglect
 this, for a bird without its label in a collection,
-is like a ship at sea without its rudder. <span class="smcap">Length</span>&mdash;Lay
+is like a ship at sea without its rudder. <sc>Length</sc>--Lay
 the bird on its back, and with a pair of
 dividers (for a large bird a tape line must be
 used) measure from the tip of the beak (the
 head lying flat on the table) to the tip of the tail.
 Place the points of the dividers on a rule that is
 divided into one-hundredths of an inch, and
-see how much they measure. <span class="smcap">Extent.</span>&mdash;Place
+see how much they measure. <sc>Extent.</sc>--Place
 the bird across the ruler, and using reasonable
 force, stretch the wings out, and see how far
-they reach. <span class="smcap">Length of Tail.</span>&mdash;Place one
+they reach. <sc>Length of Tail.</sc>--Place one
 point of the dividers at the end of the "pope's
 nose," and open them until the other is at the
-tip of the longest tail feather. <span class="smcap">The Tarsus.</span>&mdash;Place
+tip of the longest tail feather. <sc>The Tarsus.</sc>--Place
 one point of the dividers at the middle of
 the sole of the foot, and measure as far as the
-first joint. <span class="smcap">The Beak.</span>&mdash;Place one point of the
-dividers at the beginning of the cere, on the<span class="pagenum"><a name="Page_18" id="Page_18">[Pg 18]</a></span>
+first joint. <sc>The Beak.</sc>--Place one point of the
+dividers at the beginning of the cere, on the
 upper mandible, and open them until the other
 is at the tip of the beak. In addition to these I
 advise you to keep the weight of each specimen,
@@ -671,29 +387,29 @@ these measurements, etc., down on your label as
 you go along; also color of eye, contents of
 stomach (after skinning), and the number of the
 bird. This number must correspond to a number
-in your Ornithological Ledger&mdash;a book in
+in your Ornithological Ledger--a book in
 which you should keep an account of each day's
 doings; the number of birds killed, the number
 used, attitudes, etc., and whatever else may be
-of interest to you regarding the day's shooting.</p>
+of interest to you regarding the day's shooting.
 
 
-<p>BLOOD STAINS.</p>
+BLOOD STAINS.
 
-<p>These may be removed before skinning, by
+These may be removed before skinning, by
 gently washing with a sponge and a little water,
 and afterwards dried by working into the feathers
 pulverized plaster of Paris, or potato
 starch, until the water is all absorbed, and the
 feathers become dry and clean; then shake all
 plaster or starch from the feathers. Now fill
-the beak, anus, and shot holes, if you have not<span class="pagenum"><a name="Page_19" id="Page_19">[Pg 19]</a></span>
-previously done so,<a name="FNanchor_A_1" id="FNanchor_A_1"></a><a href="#Footnote_A_1" class="fnanchor">[A]</a> with cotton, and we are
-ready to begin</p>
+the beak, anus, and shot holes, if you have not
+previously done so,[A] with cotton, and we are
+ready to begin
 
-<p>SKINNING.</p>
+SKINNING.
 
-<p>Lay the bird on its back, its head towards
+Lay the bird on its back, its head towards
 your right hand, and run the handle of your
 scalpel from the sternum, or breast bone, to the
 anus. In so doing you will see there is a little
@@ -712,7 +428,7 @@ sides and belly walls. Care must be taken that
 the feathers do not get into the cut and thus
 become soiled. Keep stroking them away, right
 and left, and place a little fluff of cotton, tissue
-paper, or white pine sawdust, under them. After<span class="pagenum"><a name="Page_20" id="Page_20">[Pg 20]</a></span>
+paper, or white pine sawdust, under them. After
 skinning away, you will come to a hard substance;
 this is the thigh. Skin carefully around
 this until you come to the under side, when you
@@ -726,19 +442,19 @@ skin carefully around the tail; place your forefinger
 across this, and pressing it back a little,
 insert the scissors and sever the stump. Great
 care must be taken, however, not to cut the thin
-and very tender skin over the tail.</p>
+and very tender skin over the tail.
 
-<p>Now turn the bird up, and with its belly pointing
+Now turn the bird up, and with its belly pointing
 toward you, let the tail fall over the forefinger
 of your right hand, and with your thumb
 nail and fingers, continue to push and work the
 skin until you come to the wings; sever these at
-the shoulder.</p>
+the shoulder.
 
-<p>Now holding the skin in the left hand, and
+Now holding the skin in the left hand, and
 letting the body fall over the other side of the
-fingers, skin down the neck&mdash;which will slip
-out as easily as a finger from a glove&mdash;until you<span class="pagenum"><a name="Page_21" id="Page_21">[Pg 21]</a></span>
+fingers, skin down the neck--which will slip
+out as easily as a finger from a glove--until you
 come to the base of the skull. Skin carefully
 over this, taking great care to detach the thin
 membrane of the ear, with the thumb-nail or
@@ -751,9 +467,9 @@ of the lower jaw, and make a cut parallel with
 the jaw, crushing through the skull just outside
 the angle of the jaw. Make a duplicate cut on
 the other side. Then at the end of these make
-a transverse cut through the roof of the mouth.</p>
+a transverse cut through the roof of the mouth.
 
-<p>Connect the posterior ends of the side cuts by
+Connect the posterior ends of the side cuts by
 cutting across the skull near its base. You have
 now cut out a square-shaped piece of bone and
 muscle, and by pulling gently on the neck, this
@@ -763,43 +479,43 @@ down the wings as far as they will go, and run
 the thumb-nail along the ulna, detaching the
 quills to the metacarpal bones; remove all
 muscles and tendons. Now turn the skin and
-shovel in arsenic, so that all parts may be cov<span class="pagenum"><a name="Page_22" id="Page_22">[Pg 22]</a></span>ered;
+shovel in arsenic, so that all parts may be covered;
 afterwards shake the skin over your box
-to remove all loose arsenic.</p>
+to remove all loose arsenic.
 
-<p>Some difficulty may be experienced in getting
+Some difficulty may be experienced in getting
 the head back into the skin. Begin in any way
 you please until you see the point of the beak
 coming through the feathers; seize this with the
 fingers, and making a cylinder of your left hand,
 gently coax the skin backwards, with a motion
-very much like that of milking.</p>
+very much like that of milking.
 
-<p>Now if you wish to make the skin neat, dress
+Now if you wish to make the skin neat, dress
 every feather with the thumb and knitting-needle,
 and see that they all lie in place. Insert
 the knitting-needle through the eye to the top of
 the skull (under the skin), adjust the scalp and
-see that every feather is smooth.</p>
+see that every feather is smooth.
 
-<p>In birds with large heads&mdash;such as owls,
-some woodpeckers and ducks&mdash;over which
+In birds with large heads--such as owls,
+some woodpeckers and ducks--over which
 the neck skin will not easily slip, a slit must be
 made along the top of the head and the skull
 worked through, and treated as given. When
 completed, sew up the skin and carefully arrange
-the feathers.</p>
+the feathers.
 
-<p>When birds are to be mounted with spread
-wings, as if flying, it is sometimes desirable to<span class="pagenum"><a name="Page_23" id="Page_23">[Pg 23]</a></span>
+When birds are to be mounted with spread
+wings, as if flying, it is sometimes desirable to
 make the incision along the back instead of the
 belly, the ventral feathers thus presenting a
-smoother appearance.</p>
+smoother appearance.
 
 
-<p>MAKING A SKIN.</p>
+MAKING A SKIN.
 
-<p>After a skin has been poisoned and dressed, it
+After a skin has been poisoned and dressed, it
 may be "made" by inserting into each eye-socket,
 through the neck, with the knitting-needle,
 a little ball of cotton. Then make a
@@ -817,7 +533,7 @@ just removed. Place this in the skin with the
 forceps, and before letting go with the thumb
 and forefinger press the wings together on the
 back, placing the fingers <i>under</i> the wings. Now
-draw the edges of the skin together, and making<span class="pagenum"><a name="Page_24" id="Page_24">[Pg 24]</a></span>
+draw the edges of the skin together, and making
 a cylinder of each hand, gently coax the skin
 through, until it is of the required shape. Then
 place it in a drying-rack, made by bending a
@@ -826,15 +542,15 @@ it to dry for a few days. Many collectors never
 mount birds, but prefer "made skins." These
 may be relaxed at any time by wrapping in
 damp cotton for a few days, and then set up as
-directed.</p>
+directed.
 
 
-<p>SEX</p>
+SEX
 
-<p>May be determined by cutting through the ribs
+May be determined by cutting through the ribs
 under the right wing, and pushing away the intestines.
 There, bound to the small of the back,
-will be seen the <i>testicles</i> of the male&mdash;two
+will be seen the <i>testicles</i> of the male--two
 spheroidal, whitish bodies, which vary in size
 according to the season of the year. In the
 female will be seen the <i>ovaries</i>, a flattened mass
@@ -843,33 +559,29 @@ to defy the naked eye, and the inquirer is obliged
 to employ the microscope to make the distinction.
 The sign recognized by ornithologists all over
 the world is &#9794; for males, and &#9792; for females;
-to which is added for young birds the Latin<span class="pagenum"><a name="Page_25" id="Page_25">[Pg 25]</a></span>
+to which is added for young birds the Latin
 <i>juvenis</i> or <i>juv.</i> or O, meaning young, and <i>Nupt.</i>
-for birds in nuptial or breeding plumage.</p>
+for birds in nuptial or breeding plumage.
 
 
-<p>STUFFING.</p>
+STUFFING.
 
-<p>In the first place we must prepare the wires
-that we shall need. There are three of these&mdash;the
+In the first place we must prepare the wires
+that we shall need. There are three of these--the
 head wire and two leg wires. The first of
 these must be about three or four inches longer
 than the bird as it lies stretched out on the table
 (Fig. 2, A); the second and third two or three
-inches longer than the leg (C).</p>
+inches longer than the leg (C).
 
 <div class="figcenter" style="width: 400px;">
 <img src="images/fig2thumb.png" width="400" height="300" alt="Schematic view of bird with wires" title="Fig. 2" />
-<div class="caption">
+<div class="caption"><p><sc>Fig. 2.</sc></p></div>
+</div><p>
 
-<p><span class="smcap">Fig. 2.</span></p></div>
-</div>
-
-<p>
-
-<p>These wires must be perfectly straight (in the
+These wires must be perfectly straight (in the
 case of small wires this may be done by stretching),
-and have one end sharpened. To do this<span class="pagenum"><a name="Page_26" id="Page_26">[Pg 26]</a></span>
+and have one end sharpened. To do this
 make a little groove with the file in the table,
 lay the end of the wire in this, and holding it in
 the left hand, place the forefinger near the end,
@@ -878,10 +590,10 @@ sharpen, revolving the wire at the same time
 with the left. This will seem a little awkward
 at first, but you will soon become accustomed to
 it. Now take a piece of sand-paper and polish
-the wires.</p>
+the wires.
 
-<p>Take the longest of the three wires, and bend
-the unsharpened end into an oblong ring&mdash;in
+Take the longest of the three wires, and bend
+the unsharpened end into an oblong ring--in
 length according to the size of the bird to be
 mounted. Or, instead of the ring, you may
 make a little oval block of wood, secure the head
@@ -894,7 +606,7 @@ thread or string, continually putting on more
 tow until you have an egg-shaped form (B).
 Wind <i>around</i> and then <i>lengthways</i> to accomplish
 this. For birds larger than a canary, the body
-may be made of hay or excelsior, and finished<span class="pagenum"><a name="Page_27" id="Page_27">[Pg 27]</a></span>
+may be made of hay or excelsior, and finished
 with a coating of tow. This is easier to put
 wires through, and is more economical. The
 tow body must be as near the size of the natural
@@ -918,13 +630,13 @@ better be done directly after poisoning the skin,
 before turning the head through the neck. Now
 as to the neck. Some say, "Fill out gently with
 chopped tow." I prefer to wind the wire, A,
-for a short distance, with a bit of tow. To make<span class="pagenum"><a name="Page_28" id="Page_28">[Pg 28]</a></span>
+for a short distance, with a bit of tow. To make
 this stick, first rub the wire with a piece of
 beeswax. This, I think, makes a better neck,
 and is less liable to misshape and contort the
-skin.</p>
+skin.
 
-<p>Now push the leg wire through the sole of the
+Now push the leg wire through the sole of the
 foot, and run it along the leg-bone up through
 the leg. Great care must be taken not to break
 the tarsus or run the wire through the loose skin
@@ -943,7 +655,7 @@ with the twisters, and bending it into a hook,
 draw it firmly into the body. Repeat on the
 other side. Now work the body entirely into
 the skin, by bending lengthwise the legs, and
-gently sliding them on the wires. This done,<span class="pagenum"><a name="Page_29" id="Page_29">[Pg 29]</a></span>
+gently sliding them on the wires. This done,
 take a little chopped tow or cotton and place it
 under the body, on each side, directly where the
 shoulders come. Pin or sew the edges of the
@@ -952,9 +664,9 @@ wire projecting from the head. Cut this off, say
 quarter of an inch from the head; and making a
 ring at the unsharpened end, push it through the
 stump of the tail into the body. This is to support
-the tail (D).</p>
+the tail (D).
 
-<p>Just now the bird is a decidedly shabby looking
+Just now the bird is a decidedly shabby looking
 affair, and if you are not careful you will
 find yourself getting discouraged, and thinking
 that you have spoiled the skin. But do not
@@ -963,29 +675,25 @@ directions, all will be right, and you will soon
 have the pleasure of seeing a well-mounted
 specimen. But it will only be after many failures
 that you will succeed. Remember "Post
-nubila Ph[oe]bus,"&mdash;and it is just the same with
-bird stuffing.</p>
+nubila Ph[oe]bus,"--and it is just the same with
+bird stuffing.
 
 <div class="figcenter" style="width: 241px;">
 <img src="images/fig3thumb.png" width="241" height="400" alt="Line drawing of a bird mounted on a perch" title="Fig. 3" />
-<div class="caption">
+<div class="caption"><p><sc>Fig. 3.</sc></p></div>
+</div><p>
 
-<p><span class="smcap">Fig. 3.</span></p></div>
-</div>
-
-<p>
-
-<p>The legs are now straddling wide apart.
+The legs are now straddling wide apart.
 Bring them together parallel to each other, and
 make a sharp bend at the knee, bringing them
-over the body in a natural position. Now place<span class="pagenum"><a name="Page_30" id="Page_30">[Pg 30]</a></span>
+over the body in a natural position. Now place
 the bird on a temporary perch; bend back the
 head, and arrange the body in the position you
 think most lifelike. Some difficulty may be
 found in adjusting the wings, but if preceding
 processes have been rightly carried out, they
 will readily fall, or may be easily worked into
-place. Stick two pins through them at right<span class="pagenum"><a name="Page_31" id="Page_31">[Pg 31]</a></span>
+place. Stick two pins through them at right
 and obtuse angles to hold them in place (1 and
 2, Fig. 3). Now your bird will look much better,
 and with the exception of rumpled feathers,
@@ -1002,27 +710,27 @@ Fasten one end of the thread from the bobbin to
 the projecting head wire, and carefully wind the
 entire bird. Do this loosely, so as not to disarrange
 any of the feathers, tightening, however,
-wherever they tend to rise or look uneven.</p>
+wherever they tend to rise or look uneven.
 
-<p>This winding process is considered by some to
-be the most difficult part of bird mounting.</p>
+This winding process is considered by some to
+be the most difficult part of bird mounting.
 
-<p>The specimen should now be set away for
+The specimen should now be set away for
 several days, or even weeks, if the bird be a
 large one, and allowed to dry; after which it
 may be unwound; the eyelids soaked, by inserting
-little flabs of wet cotton until they<span class="pagenum"><a name="Page_32" id="Page_32">[Pg 32]</a></span>
+little flabs of wet cotton until they
 become soft and pliable; the eyes inserted in
 putty, and the lids carefully adjusted over them.
 The protruding head wire and the pins in the
 wings are cut off, and your bird mounted on
 the perch which you have already prepared
-for it.</p>
+for it.
 
 
-<p>WINGS AND TAIL.</p>
+WINGS AND TAIL.
 
-<p>Wings may be spread by running a wire
+Wings may be spread by running a wire
 through the primaries (Fig. 1, A) into the body,
 and placing another near the end of the wing as
 a support while drying. The tail may be spread
@@ -1031,51 +739,45 @@ by running a wire through the quills, near the
 split wood across the tip and tying the open end
 firmly (Fig. 3, L). Crests may be raised or spread
 by inserting a small fluff, or ball of cotton under
-the feathers, using a pin to hold them in place.</p>
+the feathers, using a pin to hold them in place.
 
-<p>When glass eyes are not at hand, black beads
+When glass eyes are not at hand, black beads
 may be used. Or white glass beads may have a
 pupil (black) surrounded by the iris (yellow or
 brown) painted with oil colors on the back. If
 neither of the above can be procured, a half
-globe of the right size may be cut out of cork or<span class="pagenum"><a name="Page_33" id="Page_33">[Pg 33]</a></span>
+globe of the right size may be cut out of cork or
 wood and a pin run through its centre. The
 outside is then to be covered with sealing-wax
 or varnish until quite smooth, and then painted
-the required color.</p>
+the required color.
 
-<p>The feet, tarsi, cere and loose skin about the
+The feet, tarsi, cere and loose skin about the
 necks of some birds often fade or become dull.
 These should be carefully painted, imitating the
-original colors as closely as possible.</p>
+original colors as closely as possible.
 
-<p>You have now completed your first lesson, and
+You have now completed your first lesson, and
 I advise that you become perfectly familiar with
 skinning and mounting birds, before you take up
 that of animals. For you cannot become too
 familiar and too much at home in this department;
 and it will come in play fifty times,
-where the other does once.</p>
+where the other does once.
 
-<hr class="chap" />
+FOOTNOTES:
 
-<p><span class="pagenum"><a name="Page_34" id="Page_34">[Pg 34]</a></span></p>
-
-<div class="footnotes"><h3>FOOTNOTES:</h3>
-
-<div class="footnote">
-
-<p><a name="Footnote_A_1" id="Footnote_A_1"></a><a href="#FNanchor_A_1"><span class="label">[A]</span></a> See Hunting and Hygiene.</p></div></div>
+[Footnote A: See Hunting and Hygiene.]
 
 
 
 
-<h2><a name="CHAPTER_II" id="CHAPTER_II">CHAPTER II.</a></h2>
+CHAPTER II.
 
-<p>PERCHES.</p>
+PERCHES.
 
 
-<p>A very pretty perch can be made by arranging
+A very pretty perch can be made by arranging
 wires in the shape of a twig or branch, having
 one end firmly fastened in a block of wood.
 Wind the wires to the proper size with tow,
@@ -1091,13 +793,13 @@ a half in height. Another perch is made by reducing
 pasteboard to a pulp, and moulding it
 around a twig or wire form. Boil the pasteboard
 to a pulp in a little water. Then force
-through a coarse sieve, and mix with thin glue.<span class="pagenum"><a name="Page_35" id="Page_35">[Pg 35]</a></span>
+through a coarse sieve, and mix with thin glue.
 Mould this around the form, give it a coat of
 brown paint, and decorate to taste. To give it
 a rougher appearance, a coarse comb may be
-drawn over it before painting.</p>
+drawn over it before painting.
 
-<p>A very effective way of mounting hummingbirds
+A very effective way of mounting hummingbirds
 is to form a tree with small palm leaves,
 or others, attached to a moss-covered stalk,
 having moss and grasses at its base. Let the
@@ -1106,28 +808,24 @@ crests and breast-tufts raised in the most effective
 manner. They are then attached to single
 wires starting from the limbs of the tree, with
 back or breast showing according to the part
-which is to be displayed.</p>
+which is to be displayed.
 
 <div class="figcenter" style="width: 268px;">
 <img src="images/fig4thumb.png" width="268" height="400" alt="Line drawing of a wire bent oval fastened to a block" title="Fig. 4" />
-<div class="caption">
+<div class="caption"><p><sc>Fig. 4.</sc></p></div>
+</div><p>
 
-<p><span class="smcap">Fig. 4.</span></p></div>
-</div>
-
-<p>
-
-<p>Another good way, especially
+Another good way, especially
 where the collection is large, is a
 single wire bent oval, and both
 ends fastened to a block standard.
 To the outside and inside are fixed
 short perches of wire upon which
-the birds are mounted.</p>
+the birds are mounted.
 
-<p>Birds mounted for ornamental purposes should
+Birds mounted for ornamental purposes should
 be placed under glass, to protect them from dust
-and insects. A very neat homemade case is<span class="pagenum"><a name="Page_36" id="Page_36">[Pg 36]</a></span>
+and insects. A very neat homemade case is
 constructed of window-glass, cut of the proper
 dimensions; the sides, top and bottom being
 fastened together by strips of stout paper glued
@@ -1141,60 +839,56 @@ latter. When you are ready to begin, give the
 wood several coatings with a strong solution of
 the logwood, and when this is nearly dry, brush
 over with the vinegar. A fine dull black color
-will be produced.</p>
+will be produced.
 
-<p>All ducks, wading and ground birds should be
+All ducks, wading and ground birds should be
 mounted on a piece of board; and long-legged
 birds should have one foot a little in advance of
 the other, as if in the act of stepping. The attitudes
 of birds, seen in your rambles, may be put
 to use in your mounted specimens, and your own
 taste will suggest a variety of perches and ways
-for mounting.</p>
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_37" id="Page_37">[Pg 37]</a></span></p>
+for mounting.
 
 
 
 
-<h2><a name="CHAPTER_III" id="CHAPTER_III">CHAPTER III.</a></h2>
+CHAPTER III.
 
-<p>SKINNING AND MOUNTING MAMMALS.</p>
+SKINNING AND MOUNTING MAMMALS.
 
 
-<p>When the beginner has once become proficient
+When the beginner has once become proficient
 in skinning and mounting birds, he will have
 but little difficulty in "setting up" mammals.
 The same general principles are to be observed
-with each.</p>
+with each.
 
 
-<p>SKINNING.</p>
+SKINNING.
 
-<p>Cut with the scalpel or stout scissors from the
+Cut with the scalpel or stout scissors from the
 breast-bone down to the anus: sever the legs
 close to body, and treat both legs and head
-as given for birds.</p>
+as given for birds.
 
-<p>Some difficulty may be experienced in skinning
+Some difficulty may be experienced in skinning
 the tail. This is readily done if it be a hairy
 tail, by pushing the skin over the first two or
 three vertebræ, then seizing the stump with the
 left hand, pull, at the same time holding the
 skin back with the right hand. The bone will
-generally slip out as easily as a sword from its<span class="pagenum"><a name="Page_38" id="Page_38">[Pg 38]</a></span>
+generally slip out as easily as a sword from its
 sheath; but if it will not come, tie a knot of
 strong cord over the end, and fasten to some
 support firmly. Then holding on with the right
 hand, as before, you can easily strip the tail to
-the tip.</p>
+the tip.
 
 
-<p>MOUNTING.</p>
+MOUNTING.
 
-<p>Instead of three, you must now have five
+Instead of three, you must now have five
 wires. Sharpen and sand-paper, as the former,
 and make a nucleus for body. The shape
 of an animal, with the neck severed from the
@@ -1202,16 +896,16 @@ skull, is like the italic <i>f</i> laid on its side ([sideways italic f]).
 This is made by winding the tow on the nucleus,
 the same as with birds, and drawing the
 string tight at different points to give it the required
-form.</p>
+form.
 
-<p>Run the leg wires up through the leg, and wind
+Run the leg wires up through the leg, and wind
 with tow to the proper size. Push the wires
 through the body, and fasten them. If any
 special position is required for the tail, a wire
 may be run through the body into it; otherwise
 it may merely be pinned to the stand until dry.
 Having completed the wiring and stuffing, sew
-up the skin; bring the legs over the body, par<span class="pagenum"><a name="Page_39" id="Page_39">[Pg 39]</a></span>allel
+up the skin; bring the legs over the body, parallel
 to each other, and make the required bend
 at the knees. Now mount your specimen in
 such a manner as you may choose; put in the
@@ -1219,29 +913,29 @@ eyes and set away to dry. There will be deficiencies,
 here and there, where the body does not
 quite fill out the skin. These must be supplied
 with chopped tow, before sewing up the
-skin.</p>
+skin.
 
-<p>You can get the size and curves of the body
+You can get the size and curves of the body
 only by practice; but these few words on the
 subject may be found of assistance to you;
 remembering that all quadrupeds curve greatly
-from the top of the hips to the tail.</p>
+from the top of the hips to the tail.
 
-<p>If the animal is to be mounted with the mouth
+If the animal is to be mounted with the mouth
 open, place pieces of wood between the jaws,
 and stuff out the lips in a natural manner until
-dry,&mdash;when the props may be removed. A
+dry,--when the props may be removed. A
 tongue is made of cork or light wood, with two
 wires secured to the back, by which it is afterwards
 fastened to the skull. Cover your artificial
 tongue with wax, and place in position. The inside
 of the mouth and the gums must also be
 neatly covered with wax. The whole now requires
-to be painted with the color most resem<span class="pagenum"><a name="Page_40" id="Page_40">[Pg 40]</a></span>bling
+to be painted with the color most resembling
 nature, and when that is dry brushed over
-with a mixture of Damar varnish and oil of turpentine.</p>
+with a mixture of Damar varnish and oil of turpentine.
 
-<p>The best stand on which to mount mammals
+The best stand on which to mount mammals
 is an oval block of wood varying in thickness according
 to the size of the specimen. The name
 should be painted in black letters on the side of
@@ -1251,23 +945,19 @@ to the required shape, fastening to a standard,
 and stiffening with glue. Sand, smalts, etc.,
 may then be dusted on. If there are several
 mammals mounted in the same case, a watercolor
-background is very effective.</p>
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_41" id="Page_41">[Pg 41]</a></span></p>
+background is very effective.
 
 
 
 
-<h2><a name="CHAPTER_IV" id="CHAPTER_IV">CHAPTER IV.</a></h2>
+CHAPTER IV.
 
-<p>SKINNING AND MOUNTING FISHES AND REPTILES.</p>
+SKINNING AND MOUNTING FISHES AND REPTILES.
 
 
-<p>FISHES.&mdash;SKINNING.</p>
+FISHES.--SKINNING.
 
-<p>These may be opened in two ways, according
+These may be opened in two ways, according
 to the position in which the specimen is
 to be mounted. If the fish is to rest on its
 belly, an incision should be made the entire
@@ -1276,13 +966,13 @@ the end of the tail. If the fish is to rest on its
 side, the incision should be made on the side.
 Before proceeding farther cover the entire fish
 with tissue paper which will adhere with the
-use of thin gum.</p>
+use of thin gum.
 
-<p>Now, with the scalpel, handle carefully, detach
+Now, with the scalpel, handle carefully, detach
 the soft parts from the skin, cutting rib-bones
 with the scissors, until the back is reached. Cut
 through the fin-bones, and the body will be
-found quite loose. Detach the tail end, and re<span class="pagenum"><a name="Page_42" id="Page_42">[Pg 42]</a></span>move
+found quite loose. Detach the tail end, and remove
 all muscle from the remaining vertebræ.
 Cut through the body at the base of the skull;
 clean brain cavity thoroughly, and remove eyes.
@@ -1290,12 +980,12 @@ This latter operation may require some assistance
 from the scissors, on the outside. All muscles
 about the eyes and skull should be carefully removed.
 When your skin is ready, poison it well
-with the arsenic-alum powder.</p>
+with the arsenic-alum powder.
 
 
-<p>MOUNTING.</p>
+MOUNTING.
 
-<p>The artificial body for your specimen may be
+The artificial body for your specimen may be
 made of the same materials as used in stuffing
 birds and mammals, of clay, plaster of Paris, or
 the skin may be simply dried. A tow body may
@@ -1308,7 +998,7 @@ pour plaster of Paris of the consistency of cream
 into the mould and let dry. The other side of
 the fish must be treated in the same way, and the
 two halves united by the solution of plaster.
-When your body is ready, place it in the skin<span class="pagenum"><a name="Page_43" id="Page_43">[Pg 43]</a></span>
+When your body is ready, place it in the skin
 and sew up. Place the specimen in the required
 position and fasten to a board by stout pins
 driven on each side. Spread the fins, tail, etc.,
@@ -1332,7 +1022,7 @@ When you are ready to mount your specimen,
 make several small holes in it, to let the sand out,
 and when quite empty fasten to a board; mount
 in a case, or in any way which your taste may
-suggest. It is sometimes desirable to retain<span class="pagenum"><a name="Page_44" id="Page_44">[Pg 44]</a></span>
+suggest. It is sometimes desirable to retain
 only one side of a specimen. That side should
 be covered with tissue paper, as directed, and the
 other side, soft parts, bone, etc., cut away.
@@ -1340,12 +1030,12 @@ Poison, place the skin on a board, and pin or
 nail the edges fast, that it may not contract while
 drying. Mount specimens with glass eyes, and
 brush over with a coat of varnish. If spots, etc.,
-fade, they must be touched up with paint.</p>
+fade, they must be touched up with paint.
 
 
-<p>REPTILES.&mdash;SKINNING.</p>
+REPTILES.--SKINNING.
 
-<p>Snakes, frogs, etc. may be opened along the
+Snakes, frogs, etc. may be opened along the
 belly, or they may be skinned through the mouth.
 If the latter, open the mouth as wide as possible,
 and with the scissors cut through the body and
@@ -1353,14 +1043,14 @@ first vertebra. Seize the stump with a pair of
 forceps, and carefully push the muscles from the
 skin, at the same time drawing the body out of
 the mouth. This, of course, inverts the skin.
-Poison thoroughly.</p>
+Poison thoroughly.
 
 
-<p>MOUNTING.</p>
+MOUNTING.
 
-<p>The best way to treat frogs is to fill out the
+The best way to treat frogs is to fill out the
 skin with sand, and when dry let the sand out of
-it through pin holes. Put in eyes and varnish.<span class="pagenum"><a name="Page_45" id="Page_45">[Pg 45]</a></span>
+it through pin holes. Put in eyes and varnish.
 Snakes may be stuffed out with sand, or a body
 may be made. For the latter, take a piece of
 annealed wire, rather shorter than the specimen,
@@ -1369,21 +1059,17 @@ the skin. The wire enables you to give the specimen
 any position desired; while, if sand is used,
 the specimen must either lie coiled up or straight.
 If the mouth is to be kept open, a tongue may be
-made of fine wire and painted red.</p>
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_46" id="Page_46">[Pg 46]</a></span></p>
+made of fine wire and painted red.
 
 
 
 
-<h2><a name="CHAPTER_V" id="CHAPTER_V">CHAPTER V.</a></h2>
+CHAPTER V.
 
-<p>EGGS AND NESTS.</p>
+EGGS AND NESTS.
 
 
-<p>A full set of eggs is always desirable, if they
+A full set of eggs is always desirable, if they
 can be obtained, but, as the old saying is, "A
 half-loaf is better than no bread." The contents
 may be removed by making a hole in the side of
@@ -1399,20 +1085,16 @@ through the shell, the egg should be held over
 water, so that if dropped it may not be broken;
 or an arrangement made of wire resembling a
 pair of scissors, the ends terminating in a ring or
-oval, may be used. The ends are then covered<span class="pagenum"><a name="Page_47" id="Page_47">[Pg 47]</a></span>
+oval, may be used. The ends are then covered
 with netting; thus forming a soft, yet strong,
-resting-place for the egg. (Fig. 5.)</p>
+resting-place for the egg. (Fig. 5.)
 
 <div class="figcenter" style="width: 400px;">
 <img src="images/fig5thumb.png" width="400" height="170" alt="Line drawing of tool resembling scissors with nets on the tips" title="Fig. 5" />
-<div class="caption">
+<div class="caption"><p><sc>Fig. 5.</sc></p></div>
+</div><p>
 
-<p><span class="smcap">Fig. 5.</span></p></div>
-</div>
-
-<p>
-
-<p>The name of the specimen, together with size,
+The name of the specimen, together with size,
 date of collection and collector's name, should be
 written on the shell of each egg, and the entire
 hatch returned to the nest.
@@ -1423,9 +1105,9 @@ bird, if this is obtained,
 together with a number
 of their own. You can then note them in your
 ornithological ledger, or, if you choose, you can
-keep an oölogical ledger separate.</p>
+keep an oölogical ledger separate.
 
-<p>Nests should be preserved, if possible, attached
+Nests should be preserved, if possible, attached
 to the branch on which they were found.
 This stem should be from three to six inches
 long, and be attached by its base to a block
@@ -1434,38 +1116,34 @@ trays, made of pieces of window-glass held
 together by strips of paper glued over the edges.
 If the nest is not cared for, or cannot be obtained,
 the eggs may be placed on cotton, in
-little boxes, and arranged in the cabinet to suit<span class="pagenum"><a name="Page_48" id="Page_48">[Pg 48]</a></span>
+little boxes, and arranged in the cabinet to suit
 the collector. A very good and safe way of
 transporting eggs, is to place them between two
 layers of cotton in the nest, which must be
-packed closely, but without pressure.</p>
+packed closely, but without pressure.
 
 
-<p>GUM PASTE.</p>
+GUM PASTE.
 
-<p>
-Gum Arabic, 4 ounces.<br />
-Corrosive Sublimate, 2 grains.<br />
-White Sugar Candy, 2 ounces.<br />
-<span style="margin-left: 3em;"><i>Mix.</i></span><br />
-</p>
+/*
+Gum Arabic, 4 ounces.
+Corrosive Sublimate, 2 grains.
+White Sugar Candy, 2 ounces.
+      <i>Mix.</i>
+*/
 
-<p>Melt, and label "Gum Paste, for closing the
-holes drilled in eggs," etc.</p>
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_49" id="Page_49">[Pg 49]</a></span></p>
+Melt, and label "Gum Paste, for closing the
+holes drilled in eggs," etc.
 
 
 
 
-<h2><a name="CHAPTER_VI" id="CHAPTER_VI">CHAPTER VI.</a></h2>
+CHAPTER VI.
 
-<p>SKELETONS.</p>
+SKELETONS.
 
 
-<p>During the busy collecting season, <i>rough</i>
+During the busy collecting season, <i>rough</i>
 skeletons may be made by removing skin, viscera,
 and as much muscle as possible, covering
 the body with the arsenic-alum powder, and
@@ -1477,12 +1155,12 @@ bones until the remaining flesh is softened and
 can be easily removed. Then boil in water in
 which a piece of lime as large as a hen's egg has
 been dissolved. Remove, dry, and if necessary
-wire.</p>
+wire.
 
-<p>Another way recommended is to remove all
+Another way recommended is to remove all
 the soft parts, and scald the hard parts in boiling
 water containing a few drops of hydrochloric
-acid. Leave the bones in this solution for ten<span class="pagenum"><a name="Page_50" id="Page_50">[Pg 50]</a></span>
+acid. Leave the bones in this solution for ten
 minutes, wash, and boil in plain water until all
 the muscle, etc., is softened. Clean this away
 with a brush or by a stream of water. Boil in a
@@ -1490,21 +1168,17 @@ strong solution of soda, wash with soap and
 water, and when perfectly clean, dehydrate with
 boiling alcohol (Junker). Skeletons should be
 mounted on wires fixed in a wooden standard
-painted black.</p>
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_51" id="Page_51">[Pg 51]</a></span></p>
+painted black.
 
 
 
 
-<h2><a name="CHAPTER_VII" id="CHAPTER_VII">CHAPTER VII.</a></h2>
+CHAPTER VII.
 
-<p>HUNTING AND HYGIENE.</p>
+HUNTING AND HYGIENE.
 
 
-<p>To be a good collector, it is necessary to be
+To be a good collector, it is necessary to be
 something more than a good marksman. You
 must know at what time of day to go out to be
 most successful, and the localities where you are
@@ -1520,7 +1194,7 @@ A very good call, which seldom fails in
 bringing the bird from its retreat, is made by
 placing the back of the hand to the lips and
 sucking. By practice, this may be made to resemble
-the cries of a wounded bird. Early<span class="pagenum"><a name="Page_52" id="Page_52">[Pg 52]</a></span>
+the cries of a wounded bird. Early
 morning and just before sun-down have been
 found to be the best hours for collecting, although
 something may be done at any time of day.
@@ -1529,26 +1203,26 @@ hidden in the cool depths of the thickets and
 woods. Birds are seldom found in the deep
 forest; but, at the hours mentioned, trees and
 bushes skirting roads, fields and meadows, will be
-found teeming with life.</p>
+found teeming with life.
 
 
-<p>THE GUN.</p>
+THE GUN.
 
-<p>The choice of a gun for collecting purposes is,
+The choice of a gun for collecting purposes is,
 of course, optional with the reader; but a good
 twelve or fourteen bore breech-loading shot gun
 will give better satisfaction than any other,
 and will be worth the price of the gun in time-saving,
 when in the field. The pistol-guns, introduced
 within the last few years, often prove of
-great service in collecting small specimens.</p>
+great service in collecting small specimens.
 
 
-<p>LOADING.</p>
+LOADING.
 
-<p>Several sizes of shot should be taken into the
+Several sizes of shot should be taken into the
 field, ranging from dust or mustard seed, as it is
-sometimes called, to No. 6 or 8. For all small<span class="pagenum"><a name="Page_53" id="Page_53">[Pg 53]</a></span>
+sometimes called, to No. 6 or 8. For all small
 birds up to the size of a robin, dust shot should be
 used; and I have even killed grouse and plover
 with it, although, it must be confessed, at a very
@@ -1562,23 +1236,23 @@ change from large to small, or <i>vice versa</i>. Be
 careful not to load too heavily. Most of your
 birds will be killed within a few yards, and it is
 astonishing how little powder and how few shot
-will produce the desired effect.</p>
+will produce the desired effect.
 
 
-<p>CARRYING.</p>
+CARRYING.
 
-<p>The most convenient and safe way to carry
+The most convenient and safe way to carry
 birds in the field, is in a common fish-creel; or
 in a basket which I devised and have used for
 several years. It is simply a long, deep and
 narrow basket, carried on the back by straps
 which cross in front of the chest. At the back
 of the basket, outside, is a netting for carrying
-paper, etc.; and on either side a pocket or pouch<span class="pagenum"><a name="Page_54" id="Page_54">[Pg 54]</a></span>
+paper, etc.; and on either side a pocket or pouch
 of cloth for cotton, etc. For all birds under the
-size of a crow, this basket is very convenient.</p>
+size of a crow, this basket is very convenient.
 
-<p>Before going out provide yourself with a number
+Before going out provide yourself with a number
 of sheets of stiff paper. As soon as a bird is
 shot, fill the mouth, anus, and shot-holes with
 cotton, and drop the bird head foremost, with bill
@@ -1590,26 +1264,26 @@ they do not always die at once; but they may be
 put out of misery by placing the thumb under
 one wing, and the forefinger under the other, and
 squeezing. After a second or so, the bird will
-give a gasp and die.</p>
+give a gasp and die.
 
-<p>This cannot be done in the case of large birds.
+This cannot be done in the case of large birds.
 To kill these, insert a thin knife-blade between
 the skull and last vertebra, cutting through the
 spinal cord; or break the back by pressing
-upon it with the knee.</p>
+upon it with the knee.
 
 
-<p>TRANSPORTING.</p>
+TRANSPORTING.
 
-<p>Skins may be either packed in boxes, between
-layers of cotton, or they may be pushed head first<span class="pagenum"><a name="Page_55" id="Page_55">[Pg 55]</a></span>
+Skins may be either packed in boxes, between
+layers of cotton, or they may be pushed head first
 into cylinders of stiff paper having a diameter
-equal to the largest part of the skin.</p>
+equal to the largest part of the skin.
 
 
-<p>COLLECTING SUIT.</p>
+COLLECTING SUIT.
 
-<p>A serviceable and comfortable hunting-suit
+A serviceable and comfortable hunting-suit
 may be made from any good strong stuff, such as
 corduroy, etc. The pants should be made rather
 loose, and have the seams firmly sewed. The
@@ -1620,44 +1294,32 @@ for ordinary wear; or, for shooting where the
 country is wet and boggy, a pair of high top
 boots may be substituted. This will be found to
 be the easiest, most durable and least expensive
-outfit that can be made.</p>
+outfit that can be made.
 
 
-<p>EATING.</p>
+EATING.
 
-<p>Do not start out in the morning without having
+Do not start out in the morning without having
 first partaken of a lunch, however slight, as a
 preventive, if nothing more; for tramping on an
 empty stomach will almost always upset one for
-the whole day.</p>
-
-<hr class="chap" />
-
-<hr class="chap" />
-
-<hr class="chap" />
-
-<hr class="chap" />
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_56" id="Page_56">[Pg 56]</a></span></p>
+the whole day.
 
 
-<p>AT HOME.</p>
+AT HOME.
 
-<p>As soon as you return from your day's tramp,
+As soon as you return from your day's tramp,
 a good "wash-up" and a change of clothes will
 rest you far more than sitting down. Especially,
 if your feet are wet, lose no time in changing
 socks, and all other garments that are in the least
 damp. By doing this, you will save yourself
-many a severe cold, and perhaps a fit of sickness.</p>
+many a severe cold, and perhaps a fit of sickness.
 
 
-<p>POISONING.</p>
+POISONING.
 
-<p>In case of poisoning with the arsenic, while
+In case of poisoning with the arsenic, while
 preparing your skins, the advice of Dr. Coues, in
 his "Field Ornithology," covers the whole treatment.
 "Avoid," he says, "all mechanical irritation
@@ -1669,38 +1331,38 @@ wine-glass of water, thrice a day; rest at first;
 exercise gradually as soon as you can bear it;
 and skin no birds till you have completely recovered."
 If these do not cure, medical advice
-should be procured.</p>
+should be procured.
 
 
 
 
-<h2><a name="HINTS_ON" id="HINTS_ON">HINTS ON</a></h2>
+HINTS ON
 
-<p>WRITING AND SPEECH-MAKING</p>
+WRITING AND SPEECH-MAKING
 
-<p>BY</p>
+BY
 
-<p>THOMAS WENTWORTH HIGGINSON,</p>
+THOMAS WENTWORTH HIGGINSON,
 
-<p>AUTHOR OF</p>
+AUTHOR OF
 
-<p>"<span class="smcap">Young Folks' History of the United States</span>," "<span class="smcap">Young
-Folks' American Explorers</span>," "<span class="smcap">Malbone</span>,"
-"<span class="smcap">Outdoor Papers</span>," "<span class="smcap">Oldport Days</span>," "<span class="smcap">Army Life in
-a Black Regiment</span>," "<span class="smcap">Atlantic Essays</span>," <span class="smcap">ETC.</span></p>
+"<sc>Young Folks' History of the United States</sc>," "<sc>Young
+Folks' American Explorers</sc>," "<sc>Malbone</sc>,"
+"<sc>Outdoor Papers</sc>," "<sc>Oldport Days</sc>," "<sc>Army Life in
+a Black Regiment</sc>," "<sc>Atlantic Essays</sc>," <sc>ETC.</sc>
 
-<p>Price, 50 cents.</p>
+Price, 50 cents.
 
-<p>"So delicate and yet so strong in the style; So apt, yet so
+"So delicate and yet so strong in the style; So apt, yet so
 abundant his illustrations; So fascinating the easy, polished
 leisurely diction, that the literary enjoyment cannot be impaired.
 He has all the charms of Montaigne without his
-egotism."&mdash;<i>Minneapolis Press.</i></p>
+egotism."--<i>Minneapolis Press.</i>
 
-<p>The following from the author's Preface shows the purpose
-of this volume:&mdash;</p>
+The following from the author's Preface shows the purpose
+of this volume:--
 
-<p>"The first of these two chapters appeared long since in the
+"The first of these two chapters appeared long since in the
 <i>Atlantic Monthly</i>, and was afterwards included in the author's
 volume entitled 'Atlantic Essays.' Teachers have several
 times urged that it should be reprinted as a little manual of
@@ -1710,26 +1372,26 @@ are beginning to come in respecting the other brief essay,
 'Hints on Speech-making,' it has seemed well to present the
 two together in a small volume. The last-named paper appeared
 first in 'Harper's Magazine' and it is here reprinted
-with the consent of the publishers."</p>
+with the consent of the publishers."
 
 
 
 
-<h2><a name="THE_BOOK_IS_ADMIRABLE" id="THE_BOOK_IS_ADMIRABLE">"THE BOOK IS ADMIRABLE."</a></h2>
+"THE BOOK IS ADMIRABLE."
 
-<p>
-HANDBOOK<br />
-<span style="margin-left: 1.5em;">OF</span><br />
-LIGHT GYMNASTICS.<br />
-<br />
-By LUCY B. HUNT,<br />
-<br />
-Instructor in Gymnastics at Smith (Female) College, Northampton, Mass.<br />
-<br />
-Illustrated. Cloth, 50 cts.<br />
-</p>
+/*[10]
+HANDBOOK
+   OF
+LIGHT GYMNASTICS.
 
-<p>"This manual is admirably adapted for the use of teachers and
+By LUCY B. HUNT,
+
+Instructor in Gymnastics at Smith (Female) College, Northampton, Mass.
+
+Illustrated. Cloth, 50 cts.
+*/
+
+"This manual is admirably adapted for the use of teachers and
 pupils in public and private schools, and in seminaries and colleges,
 as well as a guide to health-giving exercises in the homes,
 especially for girls. Well-arranged series of exercises are given
@@ -1738,63 +1400,63 @@ procession, mutual-help exercises, bean-bags, marching, and a
 practical chapter on dress suitable for gymnastic exercises to be
 taken in. All these exercises have been carefully selected and
 thoroughly tested, and can be safely practised by any person in
-ordinary health."&mdash;<i>Journal of Education.</i></p>
+ordinary health."--<i>Journal of Education.</i>
 
-<p>"Taking the system of Dr. Dio Lewis as a foundation, Miss
+"Taking the system of Dr. Dio Lewis as a foundation, Miss
 Hunt has, during her experience as a teacher, taken from, added
 to, and altered various exercises, until the course, so to speak,
 has assumed the order now presented in her little book, a course
 which, if carefully followed, will make the maidens of America
-better fitted to become its mothers."&mdash;<i>N. Y. Mail and Express.</i></p>
+better fitted to become its mothers."--<i>N. Y. Mail and Express.</i>
 
-<p>"It is designed as a guide to teachers of girls, but it will be
+"It is designed as a guide to teachers of girls, but it will be
 found of use also to such as wish to practice the exercises at
-home."&mdash;<i>N. Y. World.</i></p>
+home."--<i>N. Y. World.</i>
 
-<p>"A volume so very diminutive that one can hardly realize that
+"A volume so very diminutive that one can hardly realize that
 it contains nearly all that one needs for the teaching or practice
 of light gymnastics, and even more than Dr. Lewis's clever and
-amusing volume."&mdash;<i>Budget.</i></p>
+amusing volume."--<i>Budget.</i>
 
-<p>"This work has many advantages. It is inexpensive, it is convenient,
+"This work has many advantages. It is inexpensive, it is convenient,
 it is condensed, it is clear. It is careful to avoid any
 strained, unnatural, or ungraceful positions, it does not attempt
-to make a gospel of gymnastics, as some fanatics have done."&mdash;<i>N.
-Y. Christian Advocate.</i></p>
+to make a gospel of gymnastics, as some fanatics have done."--<i>N.
+Y. Christian Advocate.</i>
 
-<p>"A useful little manual, by a teacher of much experience, who
+"A useful little manual, by a teacher of much experience, who
 embodies in this little work the best results of her knowledge
 and practice of the modern system of gymnastic exercises for
-girls' schools and colleges; and also for use at home."&mdash;<i>Jennie
-June.</i></p>
+girls' schools and colleges; and also for use at home."--<i>Jennie
+June.</i>
 
 
 
 
-<h2><a name="THE_FIRST_TEACHER_FOR_LITTLE_FOLKS" id="THE_FIRST_TEACHER_FOR_LITTLE_FOLKS"><i>THE FIRST TEACHER FOR LITTLE FOLKS.</i></a></h2>
+<i>THE FIRST TEACHER FOR LITTLE FOLKS.</i>
 
-<p>
-EXERCISES<br />
-FOR THE IMPROVEMENT OF THE SENSES<br />
-FOR YOUNG CHILDREN.<br />
-<br />
-By HORACE GRANT,<br />
-Author of "Arithmetic for Young Children."<br />
-<br />
-Edited by Willard Small.<br />
-<br />
-Cloth. Price, 50 cents.<br />
-</p>
+/*[10]
+EXERCISES
+FOR THE IMPROVEMENT OF THE SENSES
+FOR YOUNG CHILDREN.
+
+By HORACE GRANT,
+Author of "Arithmetic for Young Children."
+
+Edited by Willard Small.
+
+Cloth. Price, 50 cents.
+*/
 
 
-<p>For the purpose of producing instruction and amusement
+For the purpose of producing instruction and amusement
 for young children, too young to read or write, this little work
 has been prepared. The special object is to excite little children
 to examine surrounding objects correctly, so that valuable
 knowledge may be acquired, while the attention, memory,
-judgment, and invention are duly exercised.</p>
+judgment, and invention are duly exercised.
 
-<p>In exercises such as those which compose this book, the most
+In exercises such as those which compose this book, the most
 favorable circumstances may be seized as they arise, and will
 therefore produce an extraordinary effect. Wherever we are,
 in a room, garden, field, or road, in the morning or evening,
@@ -1803,76 +1465,76 @@ be extracted; for at the moment when the attention is warmly
 excited, an event may be turned to the best account. The valuable
 habits acquired by means of familiar objects and petty
 events may gradually be extended to the most important
-subjects.</p>
+subjects.
 
 
-<p>ARITHMETIC FOR YOUNG CHILDREN</p>
+ARITHMETIC FOR YOUNG CHILDREN
 
-<p>Being a series of Exercises exemplifying the manner in which
-Arithmetic should be taught to young children</p>
+Being a series of Exercises exemplifying the manner in which
+Arithmetic should be taught to young children
 
-<p>
-By <span class="smcap">Horace Grant</span>.<br />
-American Edition, Edited by <span class="smcap">Willard Small</span>.<br />
-Price 50 cents.<br />
-</p>
+/*[10]
+By <sc>Horace Grant</sc>.
+American Edition, Edited by <sc>Willard Small</sc>.
+Price 50 cents.
+*/
 
-<p>"Consists of a series of exercises illustrative of the manner
+"Consists of a series of exercises illustrative of the manner
 in which the first steps in numbers should be taught to young
 children. We pronounce it <i>first-rate</i>. The primary teacher
 will find it a great aid in her work. It is rational and consistent.
 The variety of style and method used lend fresh interest
-at every step."&mdash;<i>Educational Weekly.</i></p>
+at every step."--<i>Educational Weekly.</i>
 
-<p>"The forms of expression used and the copiousness of illustrations
+"The forms of expression used and the copiousness of illustrations
 are very far in advance of the common style of
-teaching this science to young children.</p>
+teaching this science to young children.
 
-<p>"It is thoroughly rational and prepares the way for a more
+"It is thoroughly rational and prepares the way for a more
 systematic study of numbers as the child becomes more mature.
 The young pupil is taught to think and speak in numbers
 in the first stage and subsequently unites with it the art
 of writing numbers. It is correct in theory and apt for
-practice."&mdash;<i>N. E. Journal of Education.</i></p>
+practice."--<i>N. E. Journal of Education.</i>
 
 
 
 
-<h2><a name="THE_CELEBRATED_JULIUS_CAESAR_DEBATE" id="THE_CELEBRATED_JULIUS_CAESAR_DEBATE"><i>THE CELEBRATED JULIUS CÆSAR DEBATE.</i></a></h2>
+<i>THE CELEBRATED JULIUS CÆSAR DEBATE.</i>
 
-<p>THE DEBATER'S HANDBOOK.</p>
+THE DEBATER'S HANDBOOK.
 
-<blockquote>
-
-<p>including a Debate on the Character of Julius Cæsar, adapted
-for <span class="smcap">J. Sheridan Knowles</span>, author of "The Hunchback,"
+/#[4.2]
+including a Debate on the Character of Julius Cæsar, adapted
+for <sc>J. Sheridan Knowles</sc>, author of "The Hunchback,"
 "William Tell," and other famous plays, designed for practical
 Exercises in Declamation, and as a Model for Debating
 Clubs; also for Classes in Public and Private Schools, with
 directions for forming and conducting debating clubs and
-societies, rules of debate, list of subjects and references, etc.</p></blockquote>
+societies, rules of debate, list of subjects and references, etc.
+#/
 
-<p>Cloth, 50 cents. Boards, 50 cents. Paper, 30 cents.</p>
+Cloth, 50 cents. Boards, 50 cents. Paper, 30 cents.
 
-<p>The contents of this volume, beside the celebrated Debate,
+The contents of this volume, beside the celebrated Debate,
 contains "Rules for Debate," with directions and suggestions,
 100 selected questions for debate, with reference lists, etc. Of the
 "Julius Cæsar" Debate it has been said, "It is doubtful whether
 the English language can furnish any matter more appropriate
 for the application of the principles of elocution, or better
-adapted to use as a <i>practical exercise</i> in declamation."</p>
+adapted to use as a <i>practical exercise</i> in declamation."
 
 
-<p><i>"The author well deserved the statue which stands in front
-of the Massachusetts State House."</i></p>
+<i>"The author well deserved the statue which stands in front
+of the Massachusetts State House."</i>
 
-<p>
-A FEW THOUGHTS FOR A YOUNG MAN.<br />
-<span style="margin-left: 3em;">By HORACE MANN.</span><br />
-<span style="margin-left: 3em;">Cloth, 50 cents.</span><br />
-</p>
+/*[10]
+A FEW THOUGHTS FOR A YOUNG MAN.
+      By HORACE MANN.
+      Cloth, 50 cents.
+*/
 
-<p>In 1849, Horace Mann, one of the most skilful and sympathetic
+In 1849, Horace Mann, one of the most skilful and sympathetic
 educators known to this country, delivered a lecture before the
 Mercantile Association, Boston, choosing for his theme:
 "Thoughts for a Young Man." So kind, fatherly, wise, and
@@ -1880,398 +1542,383 @@ sagacious were the counsels to young men embodied in this
 lecture, that its publication was immediately sought for; and
 the work enjoyed a wide popular circulation. Sundry editions
 have been redemanded; and it now appears from the publishing
-house of Lee &amp; Shepard, Boston. The book is earnestly commended
+house of Lee & Shepard, Boston. The book is earnestly commended
 to young men for its sober recall from the deceptive
 glitter of material things, its lofty inculcations and its wholesome
 precepts. The author well deserved the statue which
-stands in front of the Massachusetts State House.&mdash;<i>Newark
-Advertiser.</i></p>
+stands in front of the Massachusetts State House.--<i>Newark
+Advertiser.</i>
 
 
 
 
-<h2><a name="Handbook_of_Punctuation" id="Handbook_of_Punctuation">Handbook of Punctuation.</a></h2>
+Handbook of Punctuation.
 
-<p>Punctuation and Other Typographical Matters.</p>
+Punctuation and Other Typographical Matters.
 
 
-<blockquote>
-
-<p><i>For the use of Printers, Authors, Teachers, and Scholars.
+/#[4.2]
+<i>For the use of Printers, Authors, Teachers, and Scholars.
 By MARSHALL T. BIGELOW, Corrector at the University
 Press, Cambridge. Small 4to. CLOTH, 50
-CENTS.</i></p></blockquote>
+CENTS.</i>
+#/
 
-<p>
-<i>Lenox Library, New York</i>, Aug. 19, 1881.<br />
-</p>
+/*[12]
+<i>Lenox Library, New York</i>, Aug. 19, 1881.
+*/
 
-<hr class="chap" />
-
-<hr class="chap" />
-
-<hr class="chap" />
-
-<hr class="chap" />
-
-<hr class="chap" />
-
-<hr class="chap" />
-
-<p><span class="smcap">Dear Mr. Bigelow</span>,&mdash;I sent for your "Punctuation and other
+<sc>Dear Mr. Bigelow</sc>,--I sent for your "Punctuation and other
 Typographical Matters" (having long groaned over bad pointing in
 authors and printers), and was glad to find an excellent manual
 which will contribute to the comfort of many. I cordially recommend
-it to all authors, printers, and men of letters.</p>
+it to all authors, printers, and men of letters.
 
-<p>
-<span style="margin-left: 5em;">Faithfully yours,</span><br />
-<i>Allibone's Dictionary of Authors.</i>      <span class="smcap">I. Austin Allibone.</span><br />
-</p>
+/*
+          Faithfully yours,
+<i>Allibone's Dictionary of Authors.</i>      <sc>I. Austin Allibone.</sc>
+*/
 
-<p>"Mr. Bigelow's book is a practical treatment of the subject, and
-enlarges the reading public's obligations to him."&mdash;<i>Atlantic Monthly.</i></p>
+"Mr. Bigelow's book is a practical treatment of the subject, and
+enlarges the reading public's obligations to him."--<i>Atlantic Monthly.</i>
 
-<p>"It is intended for the use of authors and teachers, while business
+"It is intended for the use of authors and teachers, while business
 men who have occasion to print circulars, advertisements, etc., can
-hardly afford to be without a copy of it for reference."&mdash;<i>Schenectady
-Daily Union.</i></p>
+hardly afford to be without a copy of it for reference."--<i>Schenectady
+Daily Union.</i>
 
 
-<p>Mistakes in Writing English, and How to Avoid Them.</p>
+Mistakes in Writing English, and How to Avoid Them.
 
-<blockquote>
-
-<p><i>For the Use of all who Teach, Write, or Speak the Language.
+/#[4.2]
+<i>For the Use of all who Teach, Write, or Speak the Language.
 By MARSHALL T. BIGELOW, author of
 "Punctuation and other Typographical Matters."
-CLOTH, 50 CENTS.</i></p></blockquote>
+CLOTH, 50 CENTS.</i>
+#/
 
-<p>"This is an admirable little work; the more admirable for the use
+"This is an admirable little work; the more admirable for the use
 of busy people, because it is little, since it is also clear and comprehensive.
 The errors pointed out are those to which nearly all writers
 are liable.... We commend it as the most convenient little manual
-of which we have knowledge."&mdash;<i>Christian Herald.</i></p>
+of which we have knowledge."--<i>Christian Herald.</i>
 
-<p>"This is a valuable little volume. It is not a grammar, with rules
+"This is a valuable little volume. It is not a grammar, with rules
 and definitions; but it takes up words and parts of speech, and shows,
 generally by example, their correct use. It is arranged systematically,
-and is adapted to the use of the home and the school."&mdash;<i>The
-Current.</i></p>
+and is adapted to the use of the home and the school."--<i>The
+Current.</i>
 
-<p>"The matter is well arranged, and the points upon which instruction
-is desired can be readily found."&mdash;<i>Christian Union.</i></p>
+"The matter is well arranged, and the points upon which instruction
+is desired can be readily found."--<i>Christian Union.</i>
 
-<p>"This is a useful book. A careful study of the several chapters
+"This is a useful book. A careful study of the several chapters
 would be of great advantage to all who have to do much or little
-speaking or writing."&mdash;<i>Gospel Banner.</i></p>
+speaking or writing."--<i>Gospel Banner.</i>
 
 
 
 
-<h2><a name="THE_RIGHT_WORD_IN_THE_RIGHT_PLACE" id="THE_RIGHT_WORD_IN_THE_RIGHT_PLACE">THE RIGHT WORD IN THE RIGHT PLACE.</a></h2>
+THE RIGHT WORD IN THE RIGHT PLACE.
 
-<p>
-<span style="margin-left: 4em;">CAMPBELL'S</span><br />
-<span class="smcap">Handbook of English Synonyms</span><br />
-<span style="margin-left: 2em;">WITH AN APPENDIX,</span><br />
-<span style="margin-left: 4em;">SHOWING</span><br />
-<span class="smcap">The Correct Uses of Prepositions</span>.<br />
-<br />
-160 pages. Neat cloth binding, 50 cts.<br />
-</p>
+/*[8]
+        CAMPBELL'S
+<sc>Handbook of English Synonyms</sc>
+    WITH AN APPENDIX,
+        SHOWING
+<sc>The Correct Uses of Prepositions</sc>.
 
-<p>This compact little volume contains about 40,000 synonymous
-words, printed in clear, distinct type.</p>
+160 pages. Neat cloth binding, 50 cts.
+*/
 
-<p>It is a work which will substantially aid speakers, writers,
-teachers and students&mdash;in fact all who would gain a more copious
-vocabulary and increase their power of expression.</p>
+This compact little volume contains about 40,000 synonymous
+words, printed in clear, distinct type.
 
-<p>It includes the really important matter of the more bulky volumes
-which are commonly sold for two dollars or more.</p>
+It is a work which will substantially aid speakers, writers,
+teachers and students--in fact all who would gain a more copious
+vocabulary and increase their power of expression.
 
-<p>A great choice of words is here placed at the service of the
-writer and the speaker.</p>
+It includes the really important matter of the more bulky volumes
+which are commonly sold for two dollars or more.
 
-<p>The Appendix, containing "Prepositions Compared and Discriminated,"
+A great choice of words is here placed at the service of the
+writer and the speaker.
+
+The Appendix, containing "Prepositions Compared and Discriminated,"
 and "A List showing what Prepositions to use after
 certain Words," is a trustworthy guide in a great number of cases
 of doubtful usage. A writer's knowledge of English idiom and
 his style are best shown by his use of these little hinges of the
-language.</p>
+language.
 
 
 
 
-<h2><a name="LEE_AND_SHEPARDS_POPULAR_HANDBOOKS" id="LEE_AND_SHEPARDS_POPULAR_HANDBOOKS"><span class="smcap">LEE AND SHEPARD'S POPULAR HANDBOOKS</span></a></h2>
+<sc>LEE AND SHEPARD'S POPULAR HANDBOOKS</sc>
 
 
-<p>Price, each, in cloth, 50 cents, except when other price is given.</p>
+Price, each, in cloth, 50 cents, except when other price is given.
 
-<blockquote>
+/#[4.2]
+<b>Forgotten Meanings</b>; or an Hour with a Dictionary. By <sc>Alfred
+Waites</sc>, author of Historical Student's Manual.
 
-<p><b>Forgotten Meanings</b>; or an Hour with a Dictionary. By <span class="smcap">Alfred
-Waites</span>, author of Historical Student's Manual.</p>
+<b>Handbook of Elocution Simplified.</b> By <sc>Walter K. Fobes</sc>, with
+an Introduction by <sc>George M. Baker</sc>.
 
-<p><b>Handbook of Elocution Simplified.</b> By <span class="smcap">Walter K. Fobes</span>, with
-an Introduction by <span class="smcap">George M. Baker</span>.</p>
-
-<p><b>Handbook of English Synonyms.</b> With an Appendix, showing the
+<b>Handbook of English Synonyms.</b> With an Appendix, showing the
 Correct Use of Prepositions; also a Collection of Foreign Phrases. By
-<span class="smcap">Loomis J. Campbell</span>.</p>
+<sc>Loomis J. Campbell</sc>.
 
-<p><b>Handbook of Conversation.</b> Its Faults and its Graces. Compiled by
-<span class="smcap">Andrew P. Peabody, D.D., LL.D.</span> Comprising (1) Dr. <span class="smcap">Peabody</span>'s
-Address; (2) Mr. <span class="smcap">Trench</span>'s Lecture; (3) Mr. <span class="smcap">Parry Gwynne</span>'s "A
+<b>Handbook of Conversation.</b> Its Faults and its Graces. Compiled by
+<sc>Andrew P. Peabody, D.D., LL.D.</sc> Comprising (1) Dr. <sc>Peabody</sc>'s
+Address; (2) Mr. <sc>Trench</sc>'s Lecture; (3) Mr. <sc>Parry Gwynne</sc>'s "A
 Word to the Wise; or, Hints on the Current Improprieties of Expression
 in Reading and Writing;" (4) Mistakes and Improprieties of Speaking
-and Writing Corrected.</p>
+and Writing Corrected.
 
-<p><b>Handbook of Punctuation</b> and other Typographical Matters. For
-the Use of Printers, Authors, Teachers, and Scholars. By <span class="smcap">Marshall T.
-Bigelow</span>, Corrector at the University Press, Cambridge, Mass.</p>
+<b>Handbook of Punctuation</b> and other Typographical Matters. For
+the Use of Printers, Authors, Teachers, and Scholars. By <sc>Marshall T.
+Bigelow</sc>, Corrector at the University Press, Cambridge, Mass.
 
-<p><b>Handbook of Blunders.</b> Designed to prevent 1,000 common blunders
-in writing and speaking. By <span class="smcap">Harlan H. Ballard, A.M.</span>, Principal of
-Lenox Academy, Lenox, Mass.</p>
+<b>Handbook of Blunders.</b> Designed to prevent 1,000 common blunders
+in writing and speaking. By <sc>Harlan H. Ballard, A.M.</sc>, Principal of
+Lenox Academy, Lenox, Mass.
 
-<p><b>Broken English.</b> A Frenchman's Struggle in the English Language.
-Instructive as a handbook of French conversation. By Professor <span class="smcap">E. C.
-Dubois</span>.</p>
+<b>Broken English.</b> A Frenchman's Struggle in the English Language.
+Instructive as a handbook of French conversation. By Professor <sc>E. C.
+Dubois</sc>.
 
-<p><b>Beginnings with the Microscope.</b> A working handbook containing
+<b>Beginnings with the Microscope.</b> A working handbook containing
 simple instructions in the art and method of using the microscope, and preparing
-articles for examination. By <span class="smcap">Walter P. Manton</span>.</p>
+articles for examination. By <sc>Walter P. Manton</sc>.
 
-<p><b>Field Botany.</b> A Handbook for the Collector. Containing instructions
+<b>Field Botany.</b> A Handbook for the Collector. Containing instructions
 for gathering and preserving Plants, and the formation of an Herbarium.
 Also complete instructions in Leaf Photography, Plant Printing, and the
-Skeletonizing of Leaves. By <span class="smcap">Walter P. Manton</span>.</p>
+Skeletonizing of Leaves. By <sc>Walter P. Manton</sc>.
 
-<p><b>Taxidermy without a Teacher.</b> Comprising a complete manual of
+<b>Taxidermy without a Teacher.</b> Comprising a complete manual of
 instructions for Preparing and Preserving Birds, Animals, and Fishes, with
 a chapter on Hunting and Hygiene; together with instructions for Preserving
 Eggs, and Making Skeletons, and a number of valuable recipes. By
-<span class="smcap">Walter P. Manton</span>.</p>
+<sc>Walter P. Manton</sc>.
 
-<p><b>Insects.</b> How to Catch and how to Prepare them for the Cabinet. A
-Manual of Instruction for the Field-Naturalist. By <span class="smcap">W. P. Manton</span>.</p>
+<b>Insects.</b> How to Catch and how to Prepare them for the Cabinet. A
+Manual of Instruction for the Field-Naturalist. By <sc>W. P. Manton</sc>.
 
-<p><b>What is to be Done?</b> A Handbook for the Nursery, with Useful
-Hints for Children and Adults. By <span class="smcap">Robert B. Dixon, M.D.</span></p>
+<b>What is to be Done?</b> A Handbook for the Nursery, with Useful
+Hints for Children and Adults. By <sc>Robert B. Dixon, M.D.</sc>
 
-<p><b>Whirlwinds, Cyclones, and Tornadoes.</b> By <span class="smcap">William Morris
-Davis</span>, Instructor in Harvard College. Illustrated.</p>
+<b>Whirlwinds, Cyclones, and Tornadoes.</b> By <sc>William Morris
+Davis</sc>, Instructor in Harvard College. Illustrated.
 
-<p><b>Mistakes in Writing English, and How to Avoid Them.</b>
+<b>Mistakes in Writing English, and How to Avoid Them.</b>
 For the use of all who Teach, Write, or Speak the language. By
-<span class="smcap">Marshall T. Bigelow</span>.</p></blockquote>
+<sc>Marshall T. Bigelow</sc>.
+#/
 
 
-<p><i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i></p>
+<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>
 
-<p>LEE AND SHEPARD Publishers Boston</p>
-
-
+LEE AND SHEPARD Publishers Boston
 
 
-<h2><a name="Lee_and_Shepards_Popular_Handbooks" id="Lee_and_Shepards_Popular_Handbooks"><span class="smcap">Lee and Shepard's Popular Handbooks</span></a></h2>
 
 
-<p><i>Price, each, in cloth, 50 cents, except when other price is given.</i></p>
+<sc>Lee and Shepard's Popular Handbooks</sc>
 
-<blockquote>
 
-<p><b>Exercises for the Improvement of the Senses.</b> For Young Children.
-By <span class="smcap">Horace Grant</span>, author of "Arithmetic for Young Children."
-Edited by <span class="smcap">Willard Small</span>.</p>
+<i>Price, each, in cloth, 50 cents, except when other price is given.</i>
 
-<p><b>Hints on Language</b> in connection with Sight-Reading and Writing in
-Primary and Intermediate Schools. By <span class="smcap">S. Arthur Bent</span>, A.M., Superintendent
-of Public Schools, Clinton, Mass.</p>
+/#[4.2]
+<b>Exercises for the Improvement of the Senses.</b> For Young Children.
+By <sc>Horace Grant</sc>, author of "Arithmetic for Young Children."
+Edited by <sc>Willard Small</sc>.
 
-<p><b>The Hunter's Handbook.</b> Containing lists of provisions and camp
+<b>Hints on Language</b> in connection with Sight-Reading and Writing in
+Primary and Intermediate Schools. By <sc>S. Arthur Bent</sc>, A.M., Superintendent
+of Public Schools, Clinton, Mass.
+
+<b>The Hunter's Handbook.</b> Containing lists of provisions and camp
 paraphernalia, and hints on the fire, cooking utensils, etc.; with approved
-receipts for camp-cookery. By "<span class="smcap">An Old Hunter</span>."</p>
+receipts for camp-cookery. By "<sc>An Old Hunter</sc>."
 
-<p><b>Universal Phonography</b>; or, Shorthand by the "Allen Method." A
-self-instructor. By <span class="smcap">G. G. Allen</span>.</p>
+<b>Universal Phonography</b>; or, Shorthand by the "Allen Method." A
+self-instructor. By <sc>G. G. Allen</sc>.
 
-<p><b>Hints and Helps</b> for those who Write, Print, or Read. By <span class="smcap">B. Drew</span>,
-proof-reader.</p>
+<b>Hints and Helps</b> for those who Write, Print, or Read. By <sc>B. Drew</sc>,
+proof-reader.
 
-<p><b>Pronouncing Handbook</b> of Three Thousand Words often Mispronounced.
-By <span class="smcap">R. Soule</span> and <span class="smcap">L. J. Campbell</span>.</p>
+<b>Pronouncing Handbook</b> of Three Thousand Words often Mispronounced.
+By <sc>R. Soule</sc> and <sc>L. J. Campbell</sc>.
 
-<p><b>Short Studies of American Authors.</b> By <span class="smcap">Thomas Wentworth
-Higginson</span>.</p>
+<b>Short Studies of American Authors.</b> By <sc>Thomas Wentworth
+Higginson</sc>.
 
-<p><b>The Stars and the Earth</b>; or, Thoughts upon Space, Time, and Eternity.
-With an introduction by <span class="smcap">Thomas Hill</span>, D.D., LL.D.</p>
+<b>The Stars and the Earth</b>; or, Thoughts upon Space, Time, and Eternity.
+With an introduction by <sc>Thomas Hill</sc>, D.D., LL.D.
 
-<p><b>Handbook of the Earth.</b> Natural Methods in Geography. By <span class="smcap">Louisa
-Parsons Hopkins</span>, teacher of Normal Methods in the Swain Free School,
-New Bedford.</p>
+<b>Handbook of the Earth.</b> Natural Methods in Geography. By <sc>Louisa
+Parsons Hopkins</sc>, teacher of Normal Methods in the Swain Free School,
+New Bedford.
 
-<p><b>Natural-History Plays.</b> Dialogues and Recitations for School Exhibitions.
-By <span class="smcap">Louisa P. Hopkins</span>.</p>
+<b>Natural-History Plays.</b> Dialogues and Recitations for School Exhibitions.
+By <sc>Louisa P. Hopkins</sc>.
 
-<p><b>The Telephone.</b> An account of the phenomena of Electricity, Magnetism,
+<b>The Telephone.</b> An account of the phenomena of Electricity, Magnetism,
 and Sound, with directions for making a speaking-telephone. By
-Professor <span class="smcap">A. E. Dolbear</span>.</p>
+Professor <sc>A. E. Dolbear</sc>.
 
-<p><b>Lessons on Manners.</b> By <span class="smcap">Edith E. Wiggin</span>.</p>
+<b>Lessons on Manners.</b> By <sc>Edith E. Wiggin</sc>.
 
-<p><b>Water Analysis.</b> A Handbook for Water-Drinkers. By <span class="smcap">G. L. Austin</span>,
-M.D.</p>
+<b>Water Analysis.</b> A Handbook for Water-Drinkers. By <sc>G. L. Austin</sc>,
+M.D.
 
-<p><b>Handbook of Light Gymnastics.</b> By <span class="smcap">Lucy B. Hunt</span>, instructor in
-gymnastics at Smith (female) College, Northampton, Mass.</p>
+<b>Handbook of Light Gymnastics.</b> By <sc>Lucy B. Hunt</sc>, instructor in
+gymnastics at Smith (female) College, Northampton, Mass.
 
-<p><b>The Parlor Gardener.</b> A Treatise on the House-Culture of Ornamental
-Plants. By <span class="smcap">Cornelia J. Randolph</span>. With illustrations.</p></blockquote>
-
-
-<p><i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i></p>
-
-<p>LEE AND SHEPARD Publishers Boston</p>
+<b>The Parlor Gardener.</b> A Treatise on the House-Culture of Ornamental
+Plants. By <sc>Cornelia J. Randolph</sc>. With illustrations.
+#/
 
 
+<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>
+
+LEE AND SHEPARD Publishers Boston
 
 
-<h2><a name="Lee_and_Shepards_Popular_Handbooks" id="Lee_and_Shepards_Popular_Handbooks"><span class="smcap">Lee and Shepard's Popular Handbooks</span></a></h2>
 
 
-<p>Price, each, in cloth, 50 cents, except when other price is given.</p>
+<sc>Lee and Shepard's Popular Handbooks</sc>
 
-<blockquote>
 
-<p><b>Warrington's Manual.</b> A Manual for the Information of Officers
+Price, each, in cloth, 50 cents, except when other price is given.
+
+/#[4.2]
+<b>Warrington's Manual.</b> A Manual for the Information of Officers
 and Members of Legislatures, Conventions, Societies, etc., in the practical
 governing and membership of all such bodies, according to the Parliamentary
-Law and Practice in the United States. By <span class="smcap">W. S. Robinson</span>
-(<i>Warrington</i>).</p>
+Law and Practice in the United States. By <sc>W. S. Robinson</sc>
+(<i>Warrington</i>).
 
-<p><b>Practical Boat-Sailing.</b> By <span class="smcap">Douglas Frazar</span>. Classic size, $1.00.
-With numerous diagrams and illustrations.</p>
+<b>Practical Boat-Sailing.</b> By <sc>Douglas Frazar</sc>. Classic size, $1.00.
+With numerous diagrams and illustrations.
 
-<p><b>Handbook of Wood Engraving.</b> With practical instructions in
-the art, for persons wishing to learn without an instructor. By <span class="smcap">William
-A. Emerson</span>. Illustrated. Price $1.00.</p>
+<b>Handbook of Wood Engraving.</b> With practical instructions in
+the art, for persons wishing to learn without an instructor. By <sc>William
+A. Emerson</sc>. Illustrated. Price $1.00.
 
-<p><b>Five-Minute Recitations.</b> Selected and arranged by <span class="smcap">Walter K.
-Fobes</span>.</p>
+<b>Five-Minute Recitations.</b> Selected and arranged by <sc>Walter K.
+Fobes</sc>.
 
-<p><b>Five-Minute Declamations.</b> Selected and arranged by <span class="smcap">Walter
-K. Fobes</span>.</p>
+<b>Five-Minute Declamations.</b> Selected and arranged by <sc>Walter
+K. Fobes</sc>.
 
-<p><b>Five-Minute Readings for Young Ladies.</b> Selected and adapted
-by <span class="smcap">Walter K. Fobes</span>.</p>
+<b>Five-Minute Readings for Young Ladies.</b> Selected and adapted
+by <sc>Walter K. Fobes</sc>.
 
-<p><b>Educational Psychology.</b> A Treatise for Parents and Educators.
-By <span class="smcap">Louise Parsons Hopkins</span>, Supervisor in Boston Public Schools.</p>
+<b>Educational Psychology.</b> A Treatise for Parents and Educators.
+By <sc>Louise Parsons Hopkins</sc>, Supervisor in Boston Public Schools.
 
-<p><b>The Nation in a Nutshell.</b> A Rapid Outline of American History.
-By <span class="smcap">George Makepeace Towle</span>.</p>
+<b>The Nation in a Nutshell.</b> A Rapid Outline of American History.
+By <sc>George Makepeace Towle</sc>.
 
-<p><b>English Synonymes Discriminated.</b> By <span class="smcap">Richard Whately</span>, D.D.,
-Archbishop of Dublin. A new edition.</p>
+<b>English Synonymes Discriminated.</b> By <sc>Richard Whately</sc>, D.D.,
+Archbishop of Dublin. A new edition.
 
-<p><b>Hints on Writing and Speech-making.</b> By <span class="smcap">Thomas Wentworth
-Higginson</span>.</p>
+<b>Hints on Writing and Speech-making.</b> By <sc>Thomas Wentworth
+Higginson</sc>.
 
-<p><b>Arithmetic for Young Children.</b> Being a series of Exercises
+<b>Arithmetic for Young Children.</b> Being a series of Exercises
 exemplifying the manner in which Arithmetic should be taught to young
-children. By <span class="smcap">Horace Grant</span>. American Edition. Edited by <span class="smcap">Willard
-Small</span>.</p>
+children. By <sc>Horace Grant</sc>. American Edition. Edited by <sc>Willard
+Small</sc>.
 
-<p><b>Bridge Disasters in America.</b> The Cause and the Remedy. By
-Prof. <span class="smcap">George L. Vose</span>.</p>
+<b>Bridge Disasters in America.</b> The Cause and the Remedy. By
+Prof. <sc>George L. Vose</sc>.
 
-<p><b>A Few Thoughts for a Young Man.</b> By <span class="smcap">Horace Mann</span>. A new
-Edition.</p>
+<b>A Few Thoughts for a Young Man.</b> By <sc>Horace Mann</sc>. A new
+Edition.
 
-<p><b>Handbook of Debate.</b> The Character of Julius Cæsar. Adapted
-from <span class="smcap">J. Sheridan Knowles</span>. Arranged for Practice in Speaking, for
-Debating Clubs, and Classes in Public and Private Schools.</p></blockquote>
-
-
-<p><i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i></p>
-
-<p>LEE AND SHEPARD Publishers Boston</p>
+<b>Handbook of Debate.</b> The Character of Julius Cæsar. Adapted
+from <sc>J. Sheridan Knowles</sc>. Arranged for Practice in Speaking, for
+Debating Clubs, and Classes in Public and Private Schools.
+#/
 
 
+<i>Sold by all booksellers, and sent by mail, postpaid, on receipt of price.</i>
+
+LEE AND SHEPARD Publishers Boston
 
 
-<h2><a name="THE_FOBES_ELOCUTIONARY_HANDBOOKS" id="THE_FOBES_ELOCUTIONARY_HANDBOOKS">THE FOBES ELOCUTIONARY HANDBOOKS.</a></h2>
 
 
-<p>
-FIVE-MINUTE DECLAMATIONS<br />
-FOR SCHOOL AND COLLEGE<br />
-<span class="smcap">Cloth, 50 Cents</span>.<br />
-<br />
-FIVE-MINUTE RECITATIONS<br />
-FOR SCHOOL AND COLLEGE<br />
-<span class="smcap">Cloth, 50 Cents</span>.<br />
-<br />
-FIVE-MINUTE READINGS<br />
-<span class="smcap">Cloth, 50 Cents</span>.<br />
-</p>
+THE FOBES ELOCUTIONARY HANDBOOKS.
 
-<p>Pupils in public schools on declamation days are limited to five
+
+/*[6]
+FIVE-MINUTE DECLAMATIONS
+FOR SCHOOL AND COLLEGE
+<sc>Cloth, 50 Cents</sc>.
+
+FIVE-MINUTE RECITATIONS
+FOR SCHOOL AND COLLEGE
+<sc>Cloth, 50 Cents</sc>.
+
+FIVE-MINUTE READINGS
+<sc>Cloth, 50 Cents</sc>.
+*/
+
+Pupils in public schools on declamation days are limited to five
 minutes each for the delivery of "pieces." There is a great complaint
 of the scarcity of material for such a purpose, while the
 injudicious pruning of eloquent extracts has often marred the desired
 effects. To obviate these difficulties, these books have been prepared
-by a competent teacher.</p>
+by a competent teacher.
 
 
-<p>
-<span style="margin-left: 3em;">ELOCUTION SIMPLIFIED</span><br />
-With an Introduction by George M. Baker.<br />
-<span style="margin-left: 3em;"><span class="smcap">Cloth, 50 Cents.</span></span><br />
-</p>
+/*
+      ELOCUTION SIMPLIFIED
+With an Introduction by George M. Baker.
+      <sc>Cloth, 50 Cents.</sc>
+*/
 
-<p>"The Manual is divided into four parts. Part First describes a
+"The Manual is divided into four parts. Part First describes a
 series of gymnastics to give strength and elasticity to the muscles
 used in speaking. Part Second is a system of vocal exercises for
 daily practice. Part Third, the application of the vocal exercises
 to the reading of short extracts, showing the effect when thus applied.
 Part Fourth is a chapter giving general hints on elocution, and showing
-how easily defects in speech may be cured.</p>
+how easily defects in speech may be cured.
 
-<p>"With or without an instructor, this Manual is just what the student
+"With or without an instructor, this Manual is just what the student
 is in great need of, and he can supply that need by a study of 'Elocution
-Simplified.'"&mdash;<i>The Dartmouth, Hanover, N.H.</i></p>
+Simplified.'"--<i>The Dartmouth, Hanover, N.H.</i>
 
 
-<p><i>Sold by all Booksellers, or sent by mail, prepaid, on receipt
-of price.</i></p>
+<i>Sold by all Booksellers, or sent by mail, prepaid, on receipt
+of price.</i>
 
-<p>
-<i>LEE AND SHEPARD, Publishers</i>      <i>Boston.</i><br />
-</p>
-
-
+/*
+<i>LEE AND SHEPARD, Publishers</i>      <i>Boston.</i>
+*/
 
 
-<h2><a name="Transcribers_note" id="Transcribers_note">Transcriber's note:</a></h2>
 
 
-<p>The following alterations have been made:</p>
-
-<p>p.29: Original has 'oe' ligature in "Post nubila Phoebus"</p>
-
-<p>p.44: Erroneous full-stop removed. Original read: Snakes, frogs, etc.. may be opened</p>
-
-<p>p.[57]: Quotation mark added. Original read: "Oldport Days," Army Life in a Black Regiment,"</p>
-
-<p>p.[57]: Corrected word 'similar'. Original read: Now that similiar suggestions</p>
-
-<p>p.[57]: Corrected comma to full-stop. Original read: two together in a small volume, The last-named paper</p>
+Transcriber's note:
 
 
-</body>
-</html>
+The following alterations have been made:
+
+p.29: Original has 'oe' ligature in "Post nubila Phoebus"
+
+p.44: Erroneous full-stop removed. Original read: Snakes, frogs, etc.. may be opened
+
+p.[57]: Quotation mark added. Original read: "Oldport Days," Army Life in a Black Regiment,"
+
+p.[57]: Corrected word 'similar'. Original read: Now that similiar suggestions
+
+p.[57]: Corrected comma to full-stop. Original read: two together in a small volume, The last-named paper
+
