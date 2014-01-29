@@ -266,6 +266,18 @@ em.gesperrt
 	margin-right: 30%;
 	text-align: right;
 }
+
+ul.TOC { /* TOC as a whole, or any sub-list of sub-topics in it */
+	list-style-type: upper-roman;
+	position: relative;		/*makes a "container" for span.tocright */
+	width: 85%;				/*page-number margin pulls in */
+}
+
+span.ralign { /* use absolute positioning to move page# right */
+	position: absolute;
+	right: 0; /* right edge against container's right edge */
+	top: auto; /* vertical align to original text baseline */
+}
     </style>
   </head>
 <body>
@@ -381,23 +393,36 @@ AND A NUMBER OF VALUABLE RECEIPTS</p>
 
 
 
-<pre>
-CHAP.                                             PAGE
+<ul class="TOC">
 
-  I. BIRD SKINNING AND MOUNTING                     13
+<li>BIRD SKINNING AND MOUNTING
+	<span class="ralign"><a href="#Page_13">13</a></span>
+</li>
 
- II. PERCHES                                        34
+<li>PERCHES
+	<span class="ralign"><a href="#Page_34">34</a></span>
+</li>
 
-III. SKINNING AND MOUNTING MAMMALS                  37
+<li>SKINNING AND MOUNTING MAMMALS
+	<span class="ralign"><a href="#Page_37">37</a></span>
+</li>
 
- IV. SKINNING AND MOUNTING FISHES AND REPTILES      41
+<li>SKINNING AND MOUNTING FISHES AND REPTILES
+	<span class="ralign"><a href="#Page_41">41</a></span>
+</li>
 
-  V. EGGS AND NESTS                                 46
+<li>EGGS AND NESTS
+	<span class="ralign"><a href="#Page_46">46</a></span>
+</li>
 
- VI. SKELETONS                                      49
+<li>SKELETONS
+	<span class="ralign"><a href="#Page_49">49</a></span>
+</li>
 
-VII. HUNTING AND HYGIENE                            51
-</pre>
+<li>HUNTING AND HYGIENE
+	<span class="ralign"><a href="#Page_51">51</a></span>
+</li>
+</ul>
 
 <div class="figcenter" style="width: 400px;">
 <img src="images/fig1thumb.png" width="400" height="354" alt="A line drawing of a bird with wings outstretched" title="Fig. 1" />
@@ -1080,7 +1105,7 @@ where the other does once.</p>
 
 <hr class="chap" />
 
-<p><span class="pagenum"><a name="Page_34" id="Page_34">[Pg 34]</a></span></p>
+
 
 <div class="footnotes"><h3>FOOTNOTES:</h3>
 
@@ -1089,7 +1114,7 @@ where the other does once.</p>
 <p><a name="Footnote_A_1" id="Footnote_A_1"></a><a href="#FNanchor_A_1"><span class="label">[A]</span></a> See Hunting and Hygiene.</p></div></div>
 
 
-
+<p><span class="pagenum"><a name="Page_34" id="Page_34">[Pg 34]</a></span></p>
 
 <h2><a name="CHAPTER_II" id="CHAPTER_II">CHAPTER II.</a></h2>
 
