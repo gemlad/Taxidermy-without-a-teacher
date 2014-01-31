@@ -241,6 +241,13 @@ em.gesperrt
      margin-bottom:5em;
      font-family: monospace, sans-serif, serif; }
 
+/* hidden on html, visible on epub */
+.covernote {visibility: hidden; display: none;}
+
+@media handheld {
+  .covernote {visibility: visible; display: block;}
+}
+
 /* Front and end matter */
 .sansbig {
 	font-size: 150%;
@@ -319,6 +326,8 @@ span.ralign { /* use absolute positioning to move page# right */
 
 <p>Corrections/alterations from the original can be found at the end of the book.
 Larger images are available by clicking the images.</p>
+
+<p class="covernote">The cover image was created by the transcriber and is placed in the public domain.</p>
 
 </div>
 
@@ -770,7 +779,7 @@ starch, until the water is all absorbed, and the
 feathers become dry and clean; then shake all
 plaster or starch from the feathers. Now fill
 the beak, anus, and shot holes, if you have not<span class="pagenum"><a name="Page_19" id="Page_19">[Pg 19]</a></span>
-previously done so,<a name="FNanchor_A_1" id="FNanchor_A_1"></a><a href="#Footnote_A_1" class="fnanchor">[A]</a> with cotton, and we are
+previously done so,<a name="Anchor_A_1" id="Anchor_A_1"></a><a href="#Footnote_A_1" class="fnanchor" title="Go to footnote.">[A]</a> with cotton, and we are
 ready to begin</p>
 
 <h3>SKINNING.</h3>
@@ -1145,7 +1154,7 @@ where the other does once.</p>
 
 <div class="footnote">
 
-<p><a name="Footnote_A_1" id="Footnote_A_1"></a><a href="#FNanchor_A_1"><span class="label">[A]</span></a> See Hunting and Hygiene.</p></div></div>
+<p><a name="Footnote_A_1" id="Footnote_A_1"></a><a title="Return to text." href="#Anchor_A_1"><span class="label">[A]</span></a> See Hunting and Hygiene.</p></div></div>
 
 
 <hr class="chap" />

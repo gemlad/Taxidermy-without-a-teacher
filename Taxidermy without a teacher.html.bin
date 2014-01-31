@@ -1,70 +1,70 @@
 %::pagenumbers = (
  'Pg001' => {'offset' => '1.0', 'label' => '', 'style' => 'Arabic', 'action' => 'No Count', 'base' => '001'},
  'Pg002' => {'offset' => '1.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg003' => {'offset' => '362.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg004' => {'offset' => '396.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg005' => {'offset' => '406.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg006' => {'offset' => '422.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg007' => {'offset' => '424.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg008' => {'offset' => '461.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg009' => {'offset' => '464.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg010' => {'offset' => '521.49', 'label' => 'Pg 10', 'style' => '"', 'action' => 'Start @', 'base' => '10'},
- 'Pg011' => {'offset' => '547.50', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg012' => {'offset' => '560.39', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg013' => {'offset' => '592.0', 'label' => 'Pg 13', 'style' => '"', 'action' => 'Start @', 'base' => '13'},
- 'Pg014' => {'offset' => '626.49', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg015' => {'offset' => '652.30', 'label' => 'Pg 15', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg016' => {'offset' => '687.0', 'label' => 'Pg 16', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg017' => {'offset' => '719.32', 'label' => 'Pg 17', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg018' => {'offset' => '747.45', 'label' => 'Pg 18', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg019' => {'offset' => '772.47', 'label' => 'Pg 19', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg020' => {'offset' => '797.47', 'label' => 'Pg 20', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg021' => {'offset' => '823.54', 'label' => 'Pg 21', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg022' => {'offset' => '848.47', 'label' => 'Pg 22', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg023' => {'offset' => '876.49', 'label' => 'Pg 23', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg024' => {'offset' => '902.47', 'label' => 'Pg 24', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg025' => {'offset' => '928.43', 'label' => 'Pg 25', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg026' => {'offset' => '954.38', 'label' => 'Pg 26', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg027' => {'offset' => '979.45', 'label' => 'Pg 27', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg028' => {'offset' => '1003.48', 'label' => 'Pg 28', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg029' => {'offset' => '1028.44', 'label' => 'Pg 29', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg030' => {'offset' => '1064.46', 'label' => 'Pg 30', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg031' => {'offset' => '1071.43', 'label' => 'Pg 31', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg032' => {'offset' => '1097.37', 'label' => 'Pg 32', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg033' => {'offset' => '1124.49', 'label' => 'Pg 33', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg034' => {'offset' => '1141.26', 'label' => 'Pg 34', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg035' => {'offset' => '1180.47', 'label' => 'Pg 35', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg036' => {'offset' => '1216.41', 'label' => 'Pg 36', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg037' => {'offset' => '1239.13', 'label' => 'Pg 37', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg038' => {'offset' => '1273.48', 'label' => 'Pg 38', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg039' => {'offset' => '1300.46', 'label' => 'Pg 39', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg040' => {'offset' => '1326.39', 'label' => 'Pg 40', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg041' => {'offset' => '1340.29', 'label' => 'Pg 41', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg042' => {'offset' => '1371.46', 'label' => 'Pg 42', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg043' => {'offset' => '1397.45', 'label' => 'Pg 43', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg044' => {'offset' => '1421.44', 'label' => 'Pg 44', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg045' => {'offset' => '1449.46', 'label' => 'Pg 45', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg046' => {'offset' => '1458.34', 'label' => 'Pg 46', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg047' => {'offset' => '1488.44', 'label' => 'Pg 47', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg048' => {'offset' => '1523.49', 'label' => 'Pg 48', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg049' => {'offset' => '1540.28', 'label' => 'Pg 49', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg050' => {'offset' => '1571.46', 'label' => 'Pg 50', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg051' => {'offset' => '1579.14', 'label' => 'Pg 51', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg052' => {'offset' => '1609.34', 'label' => 'Pg 52', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg053' => {'offset' => '1637.46', 'label' => 'Pg 53', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg054' => {'offset' => '1663.49', 'label' => 'Pg 54', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg055' => {'offset' => '1691.50', 'label' => 'Pg 55', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg056' => {'offset' => '1718.14', 'label' => 'Pg 56', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg057' => {'offset' => '1748.19', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg058' => {'offset' => '1791.36', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg059' => {'offset' => '1851.9', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg060' => {'offset' => '1922.51', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg061' => {'offset' => '1974.15', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg062' => {'offset' => '2036.49', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg063' => {'offset' => '2079.9', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg064' => {'offset' => '2159.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg065' => {'offset' => '2232.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg066' => {'offset' => '2307.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg003' => {'offset' => '371.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg004' => {'offset' => '405.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg005' => {'offset' => '415.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg006' => {'offset' => '431.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg007' => {'offset' => '433.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg008' => {'offset' => '470.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg009' => {'offset' => '473.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg010' => {'offset' => '530.49', 'label' => 'Pg 10', 'style' => '"', 'action' => 'Start @', 'base' => '10'},
+ 'Pg011' => {'offset' => '556.50', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg012' => {'offset' => '569.39', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg013' => {'offset' => '601.0', 'label' => 'Pg 13', 'style' => '"', 'action' => 'Start @', 'base' => '13'},
+ 'Pg014' => {'offset' => '635.49', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg015' => {'offset' => '661.30', 'label' => 'Pg 15', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg016' => {'offset' => '696.0', 'label' => 'Pg 16', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg017' => {'offset' => '728.32', 'label' => 'Pg 17', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg018' => {'offset' => '756.45', 'label' => 'Pg 18', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg019' => {'offset' => '781.47', 'label' => 'Pg 19', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg020' => {'offset' => '806.47', 'label' => 'Pg 20', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg021' => {'offset' => '832.54', 'label' => 'Pg 21', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg022' => {'offset' => '857.47', 'label' => 'Pg 22', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg023' => {'offset' => '885.49', 'label' => 'Pg 23', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg024' => {'offset' => '911.47', 'label' => 'Pg 24', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg025' => {'offset' => '937.43', 'label' => 'Pg 25', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg026' => {'offset' => '963.38', 'label' => 'Pg 26', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg027' => {'offset' => '988.45', 'label' => 'Pg 27', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg028' => {'offset' => '1012.48', 'label' => 'Pg 28', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg029' => {'offset' => '1037.44', 'label' => 'Pg 29', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg030' => {'offset' => '1073.46', 'label' => 'Pg 30', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg031' => {'offset' => '1080.43', 'label' => 'Pg 31', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg032' => {'offset' => '1106.37', 'label' => 'Pg 32', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg033' => {'offset' => '1133.49', 'label' => 'Pg 33', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg034' => {'offset' => '1150.26', 'label' => 'Pg 34', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg035' => {'offset' => '1189.47', 'label' => 'Pg 35', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg036' => {'offset' => '1225.41', 'label' => 'Pg 36', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg037' => {'offset' => '1248.13', 'label' => 'Pg 37', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg038' => {'offset' => '1282.48', 'label' => 'Pg 38', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg039' => {'offset' => '1309.46', 'label' => 'Pg 39', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg040' => {'offset' => '1335.39', 'label' => 'Pg 40', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg041' => {'offset' => '1349.29', 'label' => 'Pg 41', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg042' => {'offset' => '1380.46', 'label' => 'Pg 42', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg043' => {'offset' => '1406.45', 'label' => 'Pg 43', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg044' => {'offset' => '1430.44', 'label' => 'Pg 44', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg045' => {'offset' => '1458.46', 'label' => 'Pg 45', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg046' => {'offset' => '1467.34', 'label' => 'Pg 46', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg047' => {'offset' => '1497.44', 'label' => 'Pg 47', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg048' => {'offset' => '1532.49', 'label' => 'Pg 48', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg049' => {'offset' => '1549.28', 'label' => 'Pg 49', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg050' => {'offset' => '1580.46', 'label' => 'Pg 50', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg051' => {'offset' => '1588.14', 'label' => 'Pg 51', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg052' => {'offset' => '1618.34', 'label' => 'Pg 52', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg053' => {'offset' => '1646.46', 'label' => 'Pg 53', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg054' => {'offset' => '1672.49', 'label' => 'Pg 54', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg055' => {'offset' => '1700.50', 'label' => 'Pg 55', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg056' => {'offset' => '1727.14', 'label' => 'Pg 56', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg057' => {'offset' => '1757.19', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg058' => {'offset' => '1800.36', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg059' => {'offset' => '1860.9', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg060' => {'offset' => '1931.51', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg061' => {'offset' => '1983.15', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg062' => {'offset' => '2045.49', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg063' => {'offset' => '2088.9', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg064' => {'offset' => '2168.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg065' => {'offset' => '2241.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg066' => {'offset' => '2316.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
 $::proofers{'001'}[1] = 'Hatty52';
@@ -401,6 +401,7 @@ $::proofers{'066'}[5] = 'cmspence';
 $::operationshash{'Moved footnotes to end-of-paragraph'}='2014-01-26 20:38';
 $::operationshash{'Begin Page Separators Fixup'}='2014-01-26 18:13';
 $::operationshash{'Check hyphens'}='2014-01-26 18:27';
+$::operationshash{'W3C Validate'}='2014-01-31 22:02';
 $::operationshash{'Fixup Routine'}='2014-01-26 15:46';
 $::operationshash{'Moved footnotes to landing zone'}='2014-01-29 20:12';
 $::operationshash{'Found no more orphaned /* */'}='2014-01-29 21:08';
@@ -414,6 +415,7 @@ $::operationshash{'WF Check Ital/Bold/SC'}='2014-01-26 19:32';
 $::operationshash{'Found no more orphaned ()'}='2014-01-29 21:07';
 $::operationshash{'Footnote Fixup'}='2014-01-29 20:09';
 $::operationshash{'Found no more orphaned []'}='2014-01-29 21:07';
+$::operationshash{'W3C Validate CSS'}='2014-01-31 22:01';
 $::operationshash{'Word Frequency'}='2014-01-26 18:17';
 $::operationshash{'Check words with possible ligatures'}='2014-01-26 19:33';
 $::operationshash{'Check . lower'}='2014-01-26 19:31';
@@ -441,10 +443,11 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-26 15:46';
 
-$::bookmarks[0] = '2302.62';
+$::bookmarks[0] = '1.0';
 $::bookmarks[1] = '13.0';
-$::bookmarks[2] = '291.0';
-$::bookmarks[5] = '368.0';
+$::bookmarks[2] = '298.0';
+$::bookmarks[3] = '235.0';
+$::bookmarks[5] = '377.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\pngs\\';
 
