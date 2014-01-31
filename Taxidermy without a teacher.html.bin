@@ -57,10 +57,10 @@
  'Pg056' => {'offset' => '1727.14', 'label' => 'Pg 56', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg057' => {'offset' => '1757.19', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg058' => {'offset' => '1800.36', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg059' => {'offset' => '1860.9', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg060' => {'offset' => '1931.51', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg061' => {'offset' => '1983.15', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg062' => {'offset' => '2045.49', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg059' => {'offset' => '1860.7', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg060' => {'offset' => '1931.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg061' => {'offset' => '1983.13', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg062' => {'offset' => '2045.50', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg063' => {'offset' => '2088.9', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg064' => {'offset' => '2168.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg065' => {'offset' => '2241.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
@@ -443,7 +443,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-26 15:46';
 
-$::bookmarks[0] = '1.0';
+$::bookmarks[0] = '120.1';
 $::bookmarks[1] = '13.0';
 $::bookmarks[2] = '298.0';
 $::bookmarks[3] = '235.0';
