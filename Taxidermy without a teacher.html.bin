@@ -434,13 +434,14 @@ $::operationshash{'Check , Upper'}='2014-01-26 19:27';
 $::operationshash{'Stealth Scannos'}='2014-01-26 20:02';
 $::operationshash{'Link Check'}='2014-01-31 21:58';
 $::operationshash{'Found no more orphaned {}'}='2014-01-29 21:07';
+$::operationshash{'HTML Tidy'}='2014-01-31 22:01';
 $::operationshash{'Check MiXeD CasE'}='2014-01-26 19:26';
 $::operationshash{'Check Accents'}='2014-01-26 19:26';
 $::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-26 15:46';
 
-$::bookmarks[0] = '2392.0';
+$::bookmarks[0] = '2302.62';
 $::bookmarks[1] = '13.0';
 $::bookmarks[2] = '291.0';
 $::bookmarks[5] = '368.0';
