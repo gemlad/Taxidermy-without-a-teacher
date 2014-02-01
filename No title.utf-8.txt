@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ï»¿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
@@ -637,8 +637,8 @@ etc., for ornamenting perches.</p>
 excelsior are the best, but anything soft will do,
 except feathers, hair, or in fact any animal substance,
 as they act merely as assistants to the
-taxidermist's great enemies&mdash;the bugs (Tineidæ
-and Dermestidæ).</p>
+taxidermist's great enemies&mdash;the bugs (TineidÃ¦
+and DermestidÃ¦).</p>
 
 
 <h3 title="">POISON</h3>
@@ -1242,7 +1242,7 @@ as given for birds.</p>
 <p>Some difficulty may be experienced in skinning
 the tail. This is readily done if it be a hairy
 tail, by pushing the skin over the first two or
-three vertebræ, then seizing the stump with the
+three vertebrÃ¦, then seizing the stump with the
 left hand, pull, at the same time holding the
 skin back with the right hand. The bone will
 generally slip out as easily as a sword from its<span class="pagenum"><a name="Page_38" id="Page_38">[Pg 38]</a></span>
@@ -1344,7 +1344,7 @@ the soft parts from the skin, cutting rib-bones
 with the scissors, until the back is reached. Cut
 through the fin-bones, and the body will be
 found quite loose. Detach the tail end, and re<span class="pagenum"><a name="Page_42" id="Page_42">[Pg 42]</a></span>move
-all muscle from the remaining vertebræ.
+all muscle from the remaining vertebrÃ¦.
 Cut through the body at the base of the skull;
 clean brain cavity thoroughly, and remove eyes.
 This latter operation may require some assistance
@@ -1484,7 +1484,7 @@ bird, if this is obtained,
 together with a number
 of their own. You can then note them in your
 ornithological ledger, or, if you choose, you can
-keep an oölogical ledger separate.</p>
+keep an oÃ¶logical ledger separate.</p>
 
 <p>Nests should be preserved, if possible, attached
 to the branch on which they were found.
@@ -1899,11 +1899,11 @@ practice."&mdash;<cite>N. E. Journal of Education.</cite></p>
 <hr class="chap" />
 
 
-<p class="center"><a name="THE_CELEBRATED_JULIUS_CAESAR_DEBATE" id="THE_CELEBRATED_JULIUS_CAESAR_DEBATE"><i>THE CELEBRATED JULIUS CÆSAR DEBATE.</i></a></p>
+<p class="center"><a name="THE_CELEBRATED_JULIUS_CAESAR_DEBATE" id="THE_CELEBRATED_JULIUS_CAESAR_DEBATE"><i>THE CELEBRATED JULIUS CÃ†SAR DEBATE.</i></a></p>
 
 <p class="extrabig">THE DEBATER'S HANDBOOK.</p>
 
-<p>including a Debate on the Character of Julius Cæsar, adapted
+<p>including a Debate on the Character of Julius CÃ¦sar, adapted
 for <span class="smcap">J. Sheridan Knowles</span>, author of "The Hunchback,"
 "William Tell," and other famous plays, designed for practical
 Exercises in Declamation, and as a Model for Debating
@@ -1916,7 +1916,7 @@ societies, rules of debate, list of subjects and references, etc.</p>
 <p>The contents of this volume, beside the celebrated Debate,
 contains "Rules for Debate," with directions and suggestions,
 100 selected questions for debate, with reference lists, etc. Of the
-"Julius Cæsar" Debate it has been said, "It is doubtful whether
+"Julius CÃ¦sar" Debate it has been said, "It is doubtful whether
 the English language can furnish any matter more appropriate
 for the application of the principles of elocution, or better
 adapted to use as a <em>practical exercise</em> in declamation."</p>
@@ -2272,7 +2272,7 @@ Prof. <span class="smcap">George L. Vose</span>.</p>
 <p><cite>A Few Thoughts for a Young Man.</cite> By <span class="smcap">Horace Mann</span>. A new
 Edition.</p>
 
-<p><cite>Handbook of Debate.</cite> The Character of Julius Cæsar. Adapted
+<p><cite>Handbook of Debate.</cite> The Character of Julius CÃ¦sar. Adapted
 from <span class="smcap">J. Sheridan Knowles</span>. Arranged for Practice in Speaking, for
 Debating Clubs, and Classes in Public and Private Schools.</p>
 
