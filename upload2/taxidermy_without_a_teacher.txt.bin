@@ -1,0 +1,452 @@
+%::pagenumbers = (
+ 'Pg001' => {'offset' => '1.0', 'label' => '', 'style' => 'Arabic', 'action' => 'No Count', 'base' => '001'},
+ 'Pg002' => {'offset' => '1.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg003' => {'offset' => '34.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg004' => {'offset' => '58.50', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg005' => {'offset' => '66.46', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg006' => {'offset' => '80.42', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg007' => {'offset' => '82.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg008' => {'offset' => '102.72', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg009' => {'offset' => '126.1', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg010' => {'offset' => '146.67', 'label' => 'Pg 10', 'style' => '"', 'action' => 'Start @', 'base' => '10'},
+ 'Pg011' => {'offset' => '165.62', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg012' => {'offset' => '175.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg013' => {'offset' => '199.71', 'label' => 'Pg 13', 'style' => '"', 'action' => 'Start @', 'base' => '13'},
+ 'Pg014' => {'offset' => '229.3', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg015' => {'offset' => '247.59', 'label' => 'Pg 15', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg016' => {'offset' => '274.23', 'label' => 'Pg 16', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg017' => {'offset' => '297.49', 'label' => 'Pg 17', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg018' => {'offset' => '317.6', 'label' => 'Pg 18', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg019' => {'offset' => '336.15', 'label' => 'Pg 19', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg020' => {'offset' => '356.65', 'label' => 'Pg 20', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg021' => {'offset' => '375.49', 'label' => 'Pg 21', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg022' => {'offset' => '393.10', 'label' => 'Pg 22', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg023' => {'offset' => '414.22', 'label' => 'Pg 23', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg024' => {'offset' => '432.58', 'label' => 'Pg 24', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg025' => {'offset' => '452.15', 'label' => 'Pg 25', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg026' => {'offset' => '467.66', 'label' => 'Pg 26', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg027' => {'offset' => '485.8', 'label' => 'Pg 27', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg028' => {'offset' => '501.36', 'label' => 'Pg 28', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg029' => {'offset' => '518.37', 'label' => 'Pg 29', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg030' => {'offset' => '538.41', 'label' => 'Pg 30', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg031' => {'offset' => '543.21', 'label' => 'Pg 31', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg032' => {'offset' => '562.10', 'label' => 'Pg 32', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg033' => {'offset' => '582.2', 'label' => 'Pg 33', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg034' => {'offset' => '594.20', 'label' => 'Pg 34', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg035' => {'offset' => '615.30', 'label' => 'Pg 35', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg036' => {'offset' => '635.67', 'label' => 'Pg 36', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg037' => {'offset' => '650.71', 'label' => 'Pg 37', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg038' => {'offset' => '675.53', 'label' => 'Pg 38', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg039' => {'offset' => '695.33', 'label' => 'Pg 39', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg040' => {'offset' => '713.10', 'label' => 'Pg 40', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg041' => {'offset' => '723.29', 'label' => 'Pg 41', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg042' => {'offset' => '746.34', 'label' => 'Pg 42', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg043' => {'offset' => '765.30', 'label' => 'Pg 43', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg044' => {'offset' => '781.48', 'label' => 'Pg 44', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg045' => {'offset' => '804.8', 'label' => 'Pg 45', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg046' => {'offset' => '810.12', 'label' => 'Pg 46', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg047' => {'offset' => '831.38', 'label' => 'Pg 47', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg048' => {'offset' => '850.35', 'label' => 'Pg 48', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg049' => {'offset' => '863.4', 'label' => 'Pg 49', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg050' => {'offset' => '885.46', 'label' => 'Pg 50', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg051' => {'offset' => '890.41', 'label' => 'Pg 51', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg052' => {'offset' => '911.24', 'label' => 'Pg 52', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg053' => {'offset' => '933.9', 'label' => 'Pg 53', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg054' => {'offset' => '953.29', 'label' => 'Pg 54', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg055' => {'offset' => '974.29', 'label' => 'Pg 55', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg056' => {'offset' => '994.67', 'label' => 'Pg 56', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg057' => {'offset' => '1016.40', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg058' => {'offset' => '1056.12', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg059' => {'offset' => '1108.51', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg060' => {'offset' => '1167.62', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg061' => {'offset' => '1213.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg062' => {'offset' => '1269.26', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg063' => {'offset' => '1301.43', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg064' => {'offset' => '1376.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg065' => {'offset' => '1439.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg066' => {'offset' => '1501.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+);
+
+$::proofers{'001'}[1] = 'Hatty52';
+$::proofers{'001'}[2] = 'oldguyrice03';
+$::proofers{'001'}[3] = 'honeybun';
+$::proofers{'001'}[4] = 'neko_nemo';
+$::proofers{'001'}[5] = 'Close@Hand';
+$::proofers{'002'}[1] = 'Hatty52';
+$::proofers{'002'}[2] = 'oldguyrice03';
+$::proofers{'002'}[3] = 'honeybun';
+$::proofers{'002'}[4] = 'Jo-Anne43';
+$::proofers{'002'}[5] = 'cmspence';
+$::proofers{'003'}[1] = 'Hatty52';
+$::proofers{'003'}[2] = 'oldguyrice03';
+$::proofers{'003'}[3] = 'honeybun';
+$::proofers{'003'}[4] = 'Jo-Anne43';
+$::proofers{'003'}[5] = 'cmspence';
+$::proofers{'004'}[1] = 'Hatty52';
+$::proofers{'004'}[2] = 'oldguyrice03';
+$::proofers{'004'}[3] = 'honeybun';
+$::proofers{'004'}[4] = 'Jo-Anne43';
+$::proofers{'004'}[5] = 'Close@Hand';
+$::proofers{'005'}[1] = 'Hatty52';
+$::proofers{'005'}[2] = 'oldguyrice03';
+$::proofers{'005'}[3] = 'honeybun';
+$::proofers{'005'}[4] = 'Jo-Anne43';
+$::proofers{'005'}[5] = 'cmspence';
+$::proofers{'006'}[1] = 'Hatty52';
+$::proofers{'006'}[2] = 'oldguyrice03';
+$::proofers{'006'}[3] = 'honeybun';
+$::proofers{'006'}[4] = 'Jo-Anne43';
+$::proofers{'006'}[5] = 'cmspence';
+$::proofers{'007'}[1] = 'Hatty52';
+$::proofers{'007'}[2] = 'oldguyrice03';
+$::proofers{'007'}[3] = 'honeybun';
+$::proofers{'007'}[4] = 'jpo';
+$::proofers{'007'}[5] = 'cmspence';
+$::proofers{'008'}[1] = 'Hatty52';
+$::proofers{'008'}[2] = 'oldguyrice03';
+$::proofers{'008'}[3] = 'honeybun';
+$::proofers{'008'}[4] = 'jpo';
+$::proofers{'008'}[5] = 'cmspence';
+$::proofers{'009'}[1] = 'Hatty52';
+$::proofers{'009'}[2] = 'oldguyrice03';
+$::proofers{'009'}[3] = 'keckrich';
+$::proofers{'009'}[4] = 'jpo';
+$::proofers{'009'}[5] = 'Close@Hand';
+$::proofers{'010'}[1] = 'Musu';
+$::proofers{'010'}[2] = 'oldguyrice03';
+$::proofers{'010'}[3] = 'keckrich';
+$::proofers{'010'}[4] = 'jpo';
+$::proofers{'010'}[5] = 'Close@Hand';
+$::proofers{'011'}[1] = 'Musu';
+$::proofers{'011'}[2] = 'oldguyrice03';
+$::proofers{'011'}[3] = 'libraryfan';
+$::proofers{'011'}[4] = 'jpo';
+$::proofers{'011'}[5] = 'Close@Hand';
+$::proofers{'012'}[1] = 'Musu';
+$::proofers{'012'}[2] = 'Hatty52';
+$::proofers{'012'}[3] = 'libraryfan';
+$::proofers{'012'}[4] = 'jpo';
+$::proofers{'012'}[5] = 'Close@Hand';
+$::proofers{'013'}[1] = 'Musu';
+$::proofers{'013'}[2] = 'Hatty52';
+$::proofers{'013'}[3] = 'libraryfan';
+$::proofers{'013'}[4] = 'jpo';
+$::proofers{'013'}[5] = 'Close@Hand';
+$::proofers{'014'}[1] = 'Musu';
+$::proofers{'014'}[2] = 'Hatty52';
+$::proofers{'014'}[3] = 'libraryfan';
+$::proofers{'014'}[4] = 'jpo';
+$::proofers{'014'}[5] = 'K7UQT';
+$::proofers{'015'}[1] = 'Musu';
+$::proofers{'015'}[2] = 'KKnutson';
+$::proofers{'015'}[3] = 'MilochGermany';
+$::proofers{'015'}[4] = 'jpo';
+$::proofers{'015'}[5] = 'K7UQT';
+$::proofers{'016'}[1] = 'Musu';
+$::proofers{'016'}[2] = 'KKnutson';
+$::proofers{'016'}[3] = 'MilochGermany';
+$::proofers{'016'}[4] = 'eleni';
+$::proofers{'016'}[5] = 'K7UQT';
+$::proofers{'017'}[1] = 'Musu';
+$::proofers{'017'}[2] = 'KKnutson';
+$::proofers{'017'}[3] = 'MilochGermany';
+$::proofers{'017'}[4] = 'eleni';
+$::proofers{'017'}[5] = 'K7UQT';
+$::proofers{'018'}[1] = 'Musu';
+$::proofers{'018'}[2] = 'KKnutson';
+$::proofers{'018'}[3] = 'MilochGermany';
+$::proofers{'018'}[4] = 'eleni';
+$::proofers{'018'}[5] = 'K7UQT';
+$::proofers{'019'}[1] = 'Musu';
+$::proofers{'019'}[2] = 'KKnutson';
+$::proofers{'019'}[3] = 'libraryfan';
+$::proofers{'019'}[4] = 'eleni';
+$::proofers{'019'}[5] = 'K7UQT';
+$::proofers{'020'}[1] = 'Musu';
+$::proofers{'020'}[2] = 'KKnutson';
+$::proofers{'020'}[3] = 'libraryfan';
+$::proofers{'020'}[4] = 'eleni';
+$::proofers{'020'}[5] = 'K7UQT';
+$::proofers{'021'}[1] = 'Musu';
+$::proofers{'021'}[2] = 'KKnutson';
+$::proofers{'021'}[3] = 'libraryfan';
+$::proofers{'021'}[4] = 'eleni';
+$::proofers{'021'}[5] = 'shadow_reader';
+$::proofers{'022'}[1] = 'Hatty52';
+$::proofers{'022'}[2] = 'FallenArchangel';
+$::proofers{'022'}[3] = 'libraryfan';
+$::proofers{'022'}[4] = 'eleni';
+$::proofers{'022'}[5] = 'shadow_reader';
+$::proofers{'023'}[1] = 'Hatty52';
+$::proofers{'023'}[2] = 'MilochGermany';
+$::proofers{'023'}[3] = 'libraryfan';
+$::proofers{'023'}[4] = 'eleni';
+$::proofers{'023'}[5] = 'shadow_reader';
+$::proofers{'024'}[1] = 'tidbit';
+$::proofers{'024'}[2] = 'MilochGermany';
+$::proofers{'024'}[3] = 'libraryfan';
+$::proofers{'024'}[4] = 'eleni';
+$::proofers{'024'}[5] = 'shadow_reader';
+$::proofers{'025'}[1] = 'Hatty52';
+$::proofers{'025'}[2] = 'MilochGermany';
+$::proofers{'025'}[3] = 'libraryfan';
+$::proofers{'025'}[4] = 'eleni';
+$::proofers{'025'}[5] = 'shadow_reader';
+$::proofers{'026'}[1] = 'Hatty52';
+$::proofers{'026'}[2] = 'MilochGermany';
+$::proofers{'026'}[3] = 'libraryfan';
+$::proofers{'026'}[4] = 'eleni';
+$::proofers{'026'}[5] = 'shadow_reader';
+$::proofers{'027'}[1] = 'Hatty52';
+$::proofers{'027'}[2] = 'Beate S_';
+$::proofers{'027'}[3] = 'libraryfan';
+$::proofers{'027'}[4] = 'eleni';
+$::proofers{'027'}[5] = 'shadow_reader';
+$::proofers{'028'}[1] = 'Hatty52';
+$::proofers{'028'}[2] = 'Remotely';
+$::proofers{'028'}[3] = 'libraryfan';
+$::proofers{'028'}[4] = 'eleni';
+$::proofers{'028'}[5] = 'shadow_reader';
+$::proofers{'029'}[1] = 'Hatty52';
+$::proofers{'029'}[2] = 'paperino';
+$::proofers{'029'}[3] = 'MilochGermany';
+$::proofers{'029'}[4] = 'Cosmas';
+$::proofers{'029'}[5] = 'shadow_reader';
+$::proofers{'030'}[1] = 'Hatty52';
+$::proofers{'030'}[2] = 'paperino';
+$::proofers{'030'}[3] = 'MilochGermany';
+$::proofers{'030'}[4] = 'Cosmas';
+$::proofers{'030'}[5] = 'shadow_reader';
+$::proofers{'031'}[1] = 'Hatty52';
+$::proofers{'031'}[2] = 'paperino';
+$::proofers{'031'}[3] = 'MilochGermany';
+$::proofers{'031'}[4] = 'Cosmas';
+$::proofers{'031'}[5] = 'shadow_reader';
+$::proofers{'032'}[1] = 'Hatty52';
+$::proofers{'032'}[2] = 'paperino';
+$::proofers{'032'}[3] = 'libraryfan';
+$::proofers{'032'}[4] = 'Cosmas';
+$::proofers{'032'}[5] = 'shadow_reader';
+$::proofers{'033'}[1] = 'Hatty52';
+$::proofers{'033'}[2] = 'paperino';
+$::proofers{'033'}[3] = 'libraryfan';
+$::proofers{'033'}[4] = 'Cosmas';
+$::proofers{'033'}[5] = 'shadow_reader';
+$::proofers{'034'}[1] = 'dvnu';
+$::proofers{'034'}[2] = 'paperino';
+$::proofers{'034'}[3] = 'libraryfan';
+$::proofers{'034'}[4] = 'Cosmas';
+$::proofers{'034'}[5] = 'shadow_reader';
+$::proofers{'035'}[1] = 'dvnu';
+$::proofers{'035'}[2] = 'paperino';
+$::proofers{'035'}[3] = 'libraryfan';
+$::proofers{'035'}[4] = 'Cosmas';
+$::proofers{'035'}[5] = 'shadow_reader';
+$::proofers{'036'}[1] = 'dvnu';
+$::proofers{'036'}[2] = 'paperino';
+$::proofers{'036'}[3] = 'WebRover';
+$::proofers{'036'}[4] = 'Cosmas';
+$::proofers{'036'}[5] = 'shadow_reader';
+$::proofers{'037'}[1] = 'dvnu';
+$::proofers{'037'}[2] = 'paperino';
+$::proofers{'037'}[3] = 'WebRover';
+$::proofers{'037'}[4] = 'Cosmas';
+$::proofers{'037'}[5] = 'shadow_reader';
+$::proofers{'038'}[1] = 'dvnu';
+$::proofers{'038'}[2] = 'paperino';
+$::proofers{'038'}[3] = 'WebRover';
+$::proofers{'038'}[4] = 'Cosmas';
+$::proofers{'038'}[5] = 'Close@Hand';
+$::proofers{'039'}[1] = 'dvnu';
+$::proofers{'039'}[2] = 'paperino';
+$::proofers{'039'}[3] = 'WebRover';
+$::proofers{'039'}[4] = 'Cosmas';
+$::proofers{'039'}[5] = 'Close@Hand';
+$::proofers{'040'}[1] = 'dvnu';
+$::proofers{'040'}[2] = 'paperino';
+$::proofers{'040'}[3] = 'WebRover';
+$::proofers{'040'}[4] = 'Cosmas';
+$::proofers{'040'}[5] = 'Close@Hand';
+$::proofers{'041'}[1] = 'dvnu';
+$::proofers{'041'}[2] = 'paperino';
+$::proofers{'041'}[3] = 'WebRover';
+$::proofers{'041'}[4] = 'Cosmas';
+$::proofers{'041'}[5] = 'Close@Hand';
+$::proofers{'042'}[1] = 'dvnu';
+$::proofers{'042'}[2] = 'paperino';
+$::proofers{'042'}[3] = 'WebRover';
+$::proofers{'042'}[4] = 'Cosmas';
+$::proofers{'042'}[5] = 'Close@Hand';
+$::proofers{'043'}[1] = 'dvnu';
+$::proofers{'043'}[2] = 'paperino';
+$::proofers{'043'}[3] = 'keckrich';
+$::proofers{'043'}[4] = 'Cosmas';
+$::proofers{'043'}[5] = 'Close@Hand';
+$::proofers{'044'}[1] = 'dvnu';
+$::proofers{'044'}[2] = 'paperino';
+$::proofers{'044'}[3] = 'keckrich';
+$::proofers{'044'}[4] = 'Cosmas';
+$::proofers{'044'}[5] = 'Close@Hand';
+$::proofers{'045'}[1] = 'dvnu';
+$::proofers{'045'}[2] = 'paperino';
+$::proofers{'045'}[3] = 'keckrich';
+$::proofers{'045'}[4] = 'Cosmas';
+$::proofers{'045'}[5] = 'shadow_reader';
+$::proofers{'046'}[1] = 'dvnu';
+$::proofers{'046'}[2] = 'paperino';
+$::proofers{'046'}[3] = 'keckrich';
+$::proofers{'046'}[4] = 'Cosmas';
+$::proofers{'046'}[5] = 'shadow_reader';
+$::proofers{'047'}[1] = 'dvnu';
+$::proofers{'047'}[2] = 'paperino';
+$::proofers{'047'}[3] = 'keckrich';
+$::proofers{'047'}[4] = 'Cosmas';
+$::proofers{'047'}[5] = 'shadow_reader';
+$::proofers{'048'}[1] = 'dvnu';
+$::proofers{'048'}[2] = 'paperino';
+$::proofers{'048'}[3] = 'keckrich';
+$::proofers{'048'}[4] = 'Cosmas';
+$::proofers{'048'}[5] = 'shadow_reader';
+$::proofers{'049'}[1] = 'dvnu';
+$::proofers{'049'}[2] = 'paperino';
+$::proofers{'049'}[3] = 'keckrich';
+$::proofers{'049'}[4] = 'timbabwe';
+$::proofers{'049'}[5] = 'shadow_reader';
+$::proofers{'050'}[1] = 'dvnu';
+$::proofers{'050'}[2] = 'paperino';
+$::proofers{'050'}[3] = 'keckrich';
+$::proofers{'050'}[4] = 'timbabwe';
+$::proofers{'050'}[5] = 'shadow_reader';
+$::proofers{'051'}[1] = 'dvnu';
+$::proofers{'051'}[2] = 'paperino';
+$::proofers{'051'}[3] = 'keckrich';
+$::proofers{'051'}[4] = 'timbabwe';
+$::proofers{'051'}[5] = 'shadow_reader';
+$::proofers{'052'}[1] = 'dvnu';
+$::proofers{'052'}[2] = 'paperino';
+$::proofers{'052'}[3] = 'keckrich';
+$::proofers{'052'}[4] = 'timbabwe';
+$::proofers{'052'}[5] = 'shadow_reader';
+$::proofers{'053'}[1] = 'dvnu';
+$::proofers{'053'}[2] = 'paperino';
+$::proofers{'053'}[3] = 'keckrich';
+$::proofers{'053'}[4] = 'timbabwe';
+$::proofers{'053'}[5] = 'shadow_reader';
+$::proofers{'054'}[1] = 'shmget';
+$::proofers{'054'}[2] = 'paperino';
+$::proofers{'054'}[3] = 'keckrich';
+$::proofers{'054'}[4] = 'timbabwe';
+$::proofers{'054'}[5] = 'shadow_reader';
+$::proofers{'055'}[1] = 'SuChow';
+$::proofers{'055'}[2] = 'paperino';
+$::proofers{'055'}[3] = 'keckrich';
+$::proofers{'055'}[4] = 'timbabwe';
+$::proofers{'055'}[5] = 'shadow_reader';
+$::proofers{'056'}[1] = 'SuChow';
+$::proofers{'056'}[2] = 'paperino';
+$::proofers{'056'}[3] = 'keckrich';
+$::proofers{'056'}[4] = 'timbabwe';
+$::proofers{'056'}[5] = 'Old_Prof_TX';
+$::proofers{'057'}[1] = 'SuChow';
+$::proofers{'057'}[2] = 'paperino';
+$::proofers{'057'}[3] = 'keckrich';
+$::proofers{'057'}[4] = 'Jo-Anne43';
+$::proofers{'057'}[5] = 'Old_Prof_TX';
+$::proofers{'058'}[1] = 'SuChow';
+$::proofers{'058'}[2] = 'paperino';
+$::proofers{'058'}[3] = 'Joe Cooper';
+$::proofers{'058'}[4] = 'judeeylander';
+$::proofers{'058'}[5] = 'Old_Prof_TX';
+$::proofers{'059'}[1] = 'SuChow';
+$::proofers{'059'}[2] = 'paperino';
+$::proofers{'059'}[3] = 'Joe Cooper';
+$::proofers{'059'}[4] = 'judeeylander';
+$::proofers{'059'}[5] = 'Old_Prof_TX';
+$::proofers{'060'}[1] = 'SuChow';
+$::proofers{'060'}[2] = 'paperino';
+$::proofers{'060'}[3] = 'Joe Cooper';
+$::proofers{'060'}[4] = 'judeeylander';
+$::proofers{'060'}[5] = 'Old_Prof_TX';
+$::proofers{'061'}[1] = 'SuChow';
+$::proofers{'061'}[2] = 'paperino';
+$::proofers{'061'}[3] = 'Joe Cooper';
+$::proofers{'061'}[4] = 'judeeylander';
+$::proofers{'061'}[5] = 'Old_Prof_TX';
+$::proofers{'062'}[1] = 'SuChow';
+$::proofers{'062'}[2] = 'paperino';
+$::proofers{'062'}[3] = 'Joe Cooper';
+$::proofers{'062'}[4] = 'judeeylander';
+$::proofers{'062'}[5] = 'Old_Prof_TX';
+$::proofers{'063'}[1] = 'Mooring';
+$::proofers{'063'}[2] = 'paperino';
+$::proofers{'063'}[3] = 'Joe Cooper';
+$::proofers{'063'}[4] = 'judeeylander';
+$::proofers{'063'}[5] = 'Old_Prof_TX';
+$::proofers{'064'}[1] = 'Kasa';
+$::proofers{'064'}[2] = 'paperino';
+$::proofers{'064'}[3] = 'Joe Cooper';
+$::proofers{'064'}[4] = 'judeeylander';
+$::proofers{'064'}[5] = 'cmspence';
+$::proofers{'065'}[1] = 'Kasa';
+$::proofers{'065'}[2] = 'paperino';
+$::proofers{'065'}[3] = 'Joe Cooper';
+$::proofers{'065'}[4] = 'judeeylander';
+$::proofers{'065'}[5] = 'cmspence';
+$::proofers{'066'}[1] = 'Passano';
+$::proofers{'066'}[2] = 'paperino';
+$::proofers{'066'}[3] = 'Joe Cooper';
+$::proofers{'066'}[4] = 'judeeylander';
+$::proofers{'066'}[5] = 'cmspence';
+
+$::operationshash{'Check words with unicode chars > FF'}='2014-01-26 21:33';
+$::operationshash{'Moved footnotes to end-of-paragraph'}='2014-01-26 20:38';
+$::operationshash{'pptxt'}='2014-02-10 12:22';
+$::operationshash{'Check hyphens'}='2014-01-26 18:27';
+$::operationshash{'Begin Page Separators Fixup'}='2014-01-26 18:13';
+$::operationshash{'Fixup Routine'}='2014-01-26 15:46';
+$::operationshash{'Found no more orphaned /* */'}='2014-01-26 15:58';
+$::operationshash{'Check alpha/num'}='2014-01-26 19:25';
+$::operationshash{'Found no more /#..#/ blocks'}='2014-01-26 14:22';
+$::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\Taxidermy without a teacher.txt'}='2014-02-10 12:19';
+$::operationshash{'Spellcheck'}='2014-01-26 20:31';
+$::operationshash{'Found no more orphaned <>'}='2014-01-26 15:58';
+$::operationshash{'WF Check Ital/Bold/SC'}='2014-01-26 19:32';
+$::operationshash{'Found no more orphaned ()'}='2014-01-26 15:58';
+$::operationshash{'Footnote Fixup'}='2014-01-26 21:25';
+$::operationshash{'Found no more orphaned []'}='2014-01-26 15:58';
+$::operationshash{'Word Frequency'}='2014-01-26 21:33';
+$::operationshash{'Check words with possible ligatures'}='2014-01-26 19:33';
+$::operationshash{'Check . lower'}='2014-01-26 19:31';
+$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-01-26 15:58';
+$::operationshash{'Check Character Cnts'}='2014-01-26 18:22';
+$::operationshash{'Found no more orphaned /$ $/'}='2014-01-26 15:58';
+$::operationshash{'Found last page separator'}='2014-01-26 18:16';
+$::operationshash{'Footnote check passed'}='2014-01-26 21:25';
+$::operationshash{'Remove blank lines before page separators'}='2014-01-26 20:38';
+$::operationshash{'Check ALL CAPS'}='2014-01-26 19:25';
+$::operationshash{'Reindex footnotes'}='2014-01-26 20:37';
+$::operationshash{'Gutcheck'}='2014-02-10 12:19';
+$::operationshash{'Check emdashes'}='2014-01-26 18:25';
+$::operationshash{'Found no more orphaned /# #/'}='2014-01-26 15:58';
+$::operationshash{'Check , Upper'}='2014-01-26 19:27';
+$::operationshash{'Stealth Scannos'}='2014-01-26 20:02';
+$::operationshash{'Found no more orphaned {}'}='2014-01-26 15:58';
+$::operationshash{'Check Accents'}='2014-01-26 19:26';
+$::operationshash{'Check MiXeD CasE'}='2014-01-26 19:26';
+$::operationshash{'Found no more orphaned “ ”'}='2014-01-26 14:33';
+$::operationshash{'Remove end-of-line spaces'}='2014-01-26 21:27';
+$::operationshash{'Found no more /*..*/ blocks'}='2014-01-26 14:03';
+
+$::bookmarks[0] = '1560.4';
+
+$::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Taxidermy without a teacher\pngs\\';
+
+$::spellindexbkmrk = '';
+
+$::projectid = '';
+
+$::booklang = 'en';
+
+$scannoslistpath = 'wordlist';
+
+1;
